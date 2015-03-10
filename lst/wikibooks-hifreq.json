@@ -1,0 +1,310 @@
+[ {
+	"word" : "aceptar",
+	"type" : "verb"
+}, {
+	"word" : "acción",
+	"type" : "noun"
+}, {
+	"word" : "afectar",
+	"type" : "verb"
+}, {
+	"word" : "aire",
+	"type" : "noun"
+}, {
+	"word" : "aparecer",
+	"type" : "verb"
+}, {
+	"word" : "banco",
+	"type" : "noun"
+}, {
+	"word" : "básico",
+	"type" : "adjective"
+}, {
+	"word" : "base",
+	"type" : "noun"
+}, {
+	"word" : "caso",
+	"type" : "noun"
+}, {
+	"word" : "causa",
+	"type" : "noun"
+}, {
+	"word" : "centro",
+	"type" : "noun"
+}, {
+	"word" : "central",
+	"type" : "adjective"
+}, {
+	"word" : "carácter",
+	"type" : "noun"
+}, {
+	"word" : "clase",
+	"type" : "noun"
+}, {
+	"word" : "claro",
+	"type" : "adjective"
+}, {
+	"word" : "combinar",
+	"type" : "verb"
+}, {
+	"word" : "común",
+	"type" : "adjective"
+}, {
+	"word" : "condición",
+	"type" : "noun"
+}, {
+	"word" : "contener",
+	"type" : "verb"
+}, {
+	"word" : "contribuir",
+	"type" : "verb"
+}, {
+	"word" : "control",
+	"type" : "noun"
+}, {
+	"word" : "cooperar",
+	"type" : "verb"
+}, {
+	"word" : "copia",
+	"type" : "noun"
+}, {
+	"word" : "crear",
+	"type" : "verb"
+}, {
+	"word" : "día",
+	"type" : "noun"
+}, {
+	"word" : "decidir",
+	"type" : "verb"
+}, {
+	"word" : "depender",
+	"type" : "verb"
+}, {
+	"word" : "descender",
+	"type" : "verb"
+}, {
+	"word" : "describir",
+	"type" : "verb"
+}, {
+	"word" : "detalle",
+	"type" : "noun"
+}, {
+	"word" : "diferencia",
+	"type" : "noun"
+}, {
+	"word" : "diferente",
+	"type" : "adjective"
+}, {
+	"word" : "difícil",
+	"type" : "adjective"
+}, {
+	"word" : "directo",
+	"type" : "adjective"
+}, {
+	"word" : "doble",
+	"type" : "adjective"
+}, {
+	"word" : "entrar",
+	"type" : "verb"
+}, {
+	"word" : "igual",
+	"type" : "adjective"
+}, {
+	"word" : "error",
+	"type" : "noun"
+}, {
+	"word" : "excepción",
+	"type" : "noun"
+}, {
+	"word" : "existir",
+	"type" : "verb"
+}, {
+	"word" : "familiar",
+	"type" : "adjective"
+}, {
+	"word" : "familia",
+	"type" : "noun"
+}, {
+	"word" : "famoso",
+	"type" : "adjective"
+}, {
+	"word" : "favor",
+	"type" : "noun"
+}, {
+	"word" : "fino",
+	"type" : "adjective"
+}, {
+	"word" : "forzar",
+	"type" : "verb"
+}, {
+	"word" : "forma",
+	"type" : "noun"
+}, {
+	"word" : "general",
+	"type" : "adjective"
+}, {
+	"word" : "grupo",
+	"type" : "noun"
+}, {
+	"word" : "hora",
+	"type" : "noun"
+}, {
+	"word" : "humano",
+	"type" : "adjective"
+}, {
+	"word" : "humano",
+	"type" : "noun"
+}, {
+	"word" : "idea",
+	"type" : "noun"
+}, {
+	"word" : "importante",
+	"type" : "adjective"
+}, {
+	"word" : "individual",
+	"type" : "adjective"
+}, {
+	"word" : "informar",
+	"type" : "verb"
+}, {
+	"word" : "interés",
+	"type" : "noun"
+}, {
+	"word" : "línea",
+	"type" : "noun"
+}, {
+	"word" : "lista",
+	"type" : "noun"
+}, {
+	"word" : "momento",
+	"type" : "noun"
+}, {
+	"word" : "mover",
+	"type" : "verb"
+}, {
+	"word" : "nombre",
+	"type" : "noun"
+}, {
+	"word" : "necesario",
+	"type" : "adjective"
+}, {
+	"word" : "nuevo",
+	"type" : "adjective"
+}, {
+	"word" : "número",
+	"type" : "noun"
+}, {
+	"word" : "obtener",
+	"type" : "verb"
+}, {
+	"word" : "obvio",
+	"type" : "adjective"
+}, {
+	"word" : "ocupar",
+	"type" : "verb"
+}, {
+	"word" : "operar",
+	"type" : "verb"
+}, {
+	"word" : "oportunidad",
+	"type" : "noun"
+}, {
+	"word" : "parte",
+	"type" : "noun"
+}, {
+	"word" : "pasar",
+	"type" : "verb"
+}, {
+	"word" : "pausa",
+	"type" : "noun"
+}, {
+	"word" : "perfecto",
+	"type" : "adjective"
+}, {
+	"word" : "período",
+	"type" : "noun"
+}, {
+	"word" : "permitir",
+	"type" : "verb"
+}, {
+	"word" : "persona",
+	"type" : "noun"
+}, {
+	"word" : "pieza",
+	"type" : "noun"
+}, {
+	"word" : "plan",
+	"type" : "noun"
+}, {
+	"word" : "punto",
+	"type" : "noun"
+}, {
+	"word" : "popular",
+	"type" : "adjective"
+}, {
+	"word" : "posición",
+	"type" : "noun"
+}, {
+	"word" : "posible",
+	"type" : "adjective"
+}, {
+	"word" : "práctico",
+	"type" : "adjective"
+}, {
+	"word" : "preferir",
+	"type" : "verb"
+}, {
+	"word" : "preparar",
+	"type" : "verb"
+}, {
+	"word" : "presencia",
+	"type" : "noun"
+}, {
+	"word" : "presentar",
+	"type" : "verb"
+}, {
+	"word" : "precio",
+	"type" : "noun"
+}, {
+	"word" : "privado",
+	"type" : "adjective"
+}, {
+	"word" : "probable",
+	"type" : "adjective"
+}, {
+	"word" : "problema",
+	"type" : "noun"
+}, {
+	"word" : "producir",
+	"type" : "verb"
+}, {
+	"word" : "programa",
+	"type" : "noun"
+}, {
+	"word" : "progreso",
+	"type" : "noun"
+}, {
+	"word" : "probar",
+	"type" : "verb"
+}, {
+	"word" : "público",
+	"type" : "adjective"
+}, {
+	"word" : "público",
+	"type" : "noun"
+}, {
+	"word" : "puro",
+	"type" : "adjective"
+}, {
+	"word" : "calidad",
+	"type" : "noun"
+}, {
+	"word" : "cantidad",
+	"type" : "noun"
+}, {
+	"word" : "realidad",
+	"type" : "noun"
+}, {
+	"word" : "razón",
+	"type" : "noun"
+}]
