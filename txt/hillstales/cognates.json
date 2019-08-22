@@ -1,0 +1,91 @@
+[ {
+  "w" : "absoluto",
+  "t" : "A"
+}, {
+  "w" : "aritmética",
+  "t" : "n:f"
+}, {
+  "w" : "biología",
+  "t" : "N"
+}, {
+  "w" : "biología",
+  "t" : "n:f"
+}, {
+  "w" : "bárbaro",
+  "t" : "N"
+}, {
+  "w" : "caverna",
+  "t" : "N"
+}, {
+  "w" : "compasivo",
+  "t" : "A"
+}, {
+  "w" : "completamente",
+  "t" : "D"
+}, {
+  "w" : "curiosidad",
+  "t" : "N"
+}, {
+  "w" : "dignidad",
+  "t" : "N"
+}, {
+  "w" : "distancia",
+  "t" : "N"
+}, {
+  "w" : "experiencia",
+  "t" : "N"
+}, {
+  "w" : "futuro",
+  "t" : "A"
+}, {
+  "w" : "geografía",
+  "t" : "N"
+}, {
+  "w" : "geografía",
+  "t" : "n:f"
+}, {
+  "w" : "grande",
+  "t" : "N"
+}, {
+  "w" : "importante",
+  "t" : "A"
+}, {
+  "w" : "memoria",
+  "t" : "N"
+}, {
+  "w" : "monarca",
+  "t" : "N"
+}, {
+  "w" : "montaña",
+  "t" : "N"
+}, {
+  "w" : "noble",
+  "t" : "A"
+}, {
+  "w" : "obediente",
+  "t" : "A"
+}, {
+  "w" : "pensativo",
+  "t" : "A"
+}, {
+  "w" : "reptil",
+  "t" : "A"
+}, {
+  "w" : "reptil",
+  "t" : "N"
+}, {
+  "w" : "respeto",
+  "t" : "N"
+}, {
+  "w" : "salvaje",
+  "t" : "N"
+}, {
+  "w" : "valle",
+  "t" : "N"
+}, {
+  "w" : "álgebra",
+  "t" : "N"
+}, {
+  "w" : "álgebra",
+  "t" : "n:f"
+} ]
