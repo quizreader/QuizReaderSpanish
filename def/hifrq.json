@@ -1,0 +1,8998 @@
+[ {
+  "w" : "de",
+  "t" : "P"
+}, {
+  "w" : "la",
+  "t" : "T"
+}, {
+  "w" : "y",
+  "t" : "C"
+}, {
+  "w" : "el",
+  "t" : "T"
+}, {
+  "w" : "en",
+  "t" : "P"
+}, {
+  "w" : "que",
+  "t" : "O"
+}, {
+  "w" : "a",
+  "t" : "P"
+}, {
+  "w" : "un",
+  "t" : "T"
+}, {
+  "w" : "los",
+  "t" : "T"
+}, {
+  "w" : "ser",
+  "t" : "V"
+}, {
+  "w" : "que",
+  "t" : "C"
+}, {
+  "w" : "se",
+  "t" : "O"
+}, {
+  "w" : "no",
+  "t" : "D"
+}, {
+  "w" : "con",
+  "t" : "P"
+}, {
+  "w" : "haber",
+  "t" : "V"
+}, {
+  "w" : "por",
+  "t" : "P"
+}, {
+  "w" : "las",
+  "t" : "T"
+}, {
+  "w" : "su",
+  "t" : "T"
+}, {
+  "w" : "del",
+  "t" : "P"
+}, {
+  "w" : "al",
+  "t" : "P"
+}, {
+  "w" : "para",
+  "t" : "P"
+}, {
+  "w" : "le",
+  "t" : "O"
+}, {
+  "w" : "sus",
+  "t" : "T"
+}, {
+  "w" : "decir",
+  "t" : "V"
+}, {
+  "w" : "como",
+  "t" : "C"
+}, {
+  "w" : "lo",
+  "t" : "T"
+}, {
+  "w" : "más",
+  "t" : "D"
+}, {
+  "w" : "me",
+  "t" : "O"
+}, {
+  "w" : "tener",
+  "t" : "V"
+}, {
+  "w" : "estar",
+  "t" : "V"
+}, {
+  "w" : "hacer",
+  "t" : "V"
+}, {
+  "w" : "á",
+  "t" : "N"
+}, {
+  "w" : "pero",
+  "t" : "C"
+}, {
+  "w" : "poder",
+  "t" : "V"
+}, {
+  "w" : "si",
+  "t" : "C"
+}, {
+  "w" : "o",
+  "t" : "C"
+}, {
+  "w" : "sin",
+  "t" : "P"
+}, {
+  "w" : "Y",
+  "t" : "C"
+}, {
+  "w" : "yo",
+  "t" : "O"
+}, {
+  "w" : "ir",
+  "t" : "V"
+}, {
+  "w" : "mi",
+  "t" : "T"
+}, {
+  "w" : "dar",
+  "t" : "V"
+}, {
+  "w" : "ya",
+  "t" : "D"
+}, {
+  "w" : "lo",
+  "t" : "O"
+}, {
+  "w" : "ver",
+  "t" : "V"
+}, {
+  "w" : "él",
+  "t" : "O"
+}, {
+  "w" : "tan",
+  "t" : "D"
+}, {
+  "w" : "muy",
+  "t" : "D"
+}, {
+  "w" : "éste",
+  "t" : "O"
+}, {
+  "w" : "sobre",
+  "t" : "P"
+}, {
+  "w" : "á",
+  "t" : "I"
+}, {
+  "w" : "tú",
+  "t" : "O"
+}, {
+  "w" : "querer",
+  "t" : "V"
+}, {
+  "w" : "porque",
+  "t" : "C"
+}, {
+  "w" : "qué",
+  "t" : "O"
+}, {
+  "w" : "cuando",
+  "t" : "C"
+}, {
+  "w" : "hombre",
+  "t" : "N"
+}, {
+  "w" : "este",
+  "t" : "T"
+}, {
+  "w" : "vez",
+  "t" : "N"
+}, {
+  "w" : "ella",
+  "t" : "O"
+}, {
+  "w" : "esta",
+  "t" : "T"
+}, {
+  "w" : "usted",
+  "t" : "O"
+}, {
+  "w" : "la",
+  "t" : "O"
+}, {
+  "w" : "dos",
+  "t" : "T"
+}, {
+  "w" : "entre",
+  "t" : "P"
+}, {
+  "w" : "saber",
+  "t" : "V"
+}, {
+  "w" : "casa",
+  "t" : "N"
+}, {
+  "w" : "después",
+  "t" : "D"
+}, {
+  "w" : "tiempo",
+  "t" : "N"
+}, {
+  "w" : "bien",
+  "t" : "D"
+}, {
+  "w" : "grande",
+  "t" : "A"
+}, {
+  "w" : "llegar",
+  "t" : "V"
+}, {
+  "w" : "parecer",
+  "t" : "V"
+}, {
+  "w" : "pasar",
+  "t" : "V"
+}, {
+  "w" : "pues",
+  "t" : "C"
+}, {
+  "w" : "bueno",
+  "t" : "A"
+}, {
+  "w" : "hasta",
+  "t" : "P"
+}, {
+  "w" : "todo",
+  "t" : "T"
+}, {
+  "w" : "nos",
+  "t" : "O"
+}, {
+  "w" : "ni",
+  "t" : "C"
+}, {
+  "w" : "mano",
+  "t" : "N"
+}, {
+  "w" : "todos",
+  "t" : "T"
+}, {
+  "w" : "cosa",
+  "t" : "N"
+}, {
+  "w" : "así",
+  "t" : "D"
+}, {
+  "w" : "dejar",
+  "t" : "V"
+}, {
+  "w" : "hijo",
+  "t" : "N"
+}, {
+  "w" : "parte",
+  "t" : "N"
+}, {
+  "w" : "venir",
+  "t" : "V"
+}, {
+  "w" : "hablar",
+  "t" : "V"
+}, {
+  "w" : "salir",
+  "t" : "V"
+}, {
+  "w" : "vida",
+  "t" : "N"
+}, {
+  "w" : "mujer",
+  "t" : "N"
+}, {
+  "w" : "poner",
+  "t" : "V"
+}, {
+  "w" : "aquel",
+  "t" : "T"
+}, {
+  "w" : "cual",
+  "t" : "O"
+}, {
+  "w" : "volver",
+  "t" : "V"
+}, {
+  "w" : "donde",
+  "t" : "O"
+}, {
+  "w" : "día",
+  "t" : "N"
+}, {
+  "w" : "es",
+  "t" : "D"
+}, {
+  "w" : "año",
+  "t" : "N"
+}, {
+  "w" : "deber",
+  "t" : "V"
+}, {
+  "w" : "todo",
+  "t" : "O"
+}, {
+  "w" : "don",
+  "t" : "N"
+}, {
+  "w" : "les",
+  "t" : "O"
+}, {
+  "w" : "solo",
+  "t" : "D"
+}, {
+  "w" : "Dios",
+  "t" : "M"
+}, {
+  "w" : "ojo",
+  "t" : "N"
+}, {
+  "w" : "señor",
+  "t" : "N"
+}, {
+  "w" : "desde",
+  "t" : "P"
+}, {
+  "w" : "creer",
+  "t" : "V"
+}, {
+  "w" : "aquí",
+  "t" : "D"
+}, {
+  "w" : "primero",
+  "t" : "A"
+}, {
+  "w" : "A",
+  "t" : "P"
+}, {
+  "w" : "quedar",
+  "t" : "V"
+}, {
+  "w" : "siempre",
+  "t" : "D"
+}, {
+  "w" : "aquella",
+  "t" : "T"
+}, {
+  "w" : "quien",
+  "t" : "O"
+}, {
+  "w" : "llevar",
+  "t" : "V"
+}, {
+  "w" : "también",
+  "t" : "D"
+}, {
+  "w" : "fue",
+  "t" : "V"
+}, {
+  "w" : "todas",
+  "t" : "T"
+}, {
+  "w" : "allí",
+  "t" : "D"
+}, {
+  "w" : "uno",
+  "t" : "O"
+}, {
+  "w" : "ellos",
+  "t" : "O"
+}, {
+  "w" : "toda",
+  "t" : "T"
+}, {
+  "w" : "noche",
+  "t" : "N"
+}, {
+  "w" : "llamar",
+  "t" : "V"
+}, {
+  "w" : "padre",
+  "t" : "N"
+}, {
+  "w" : "tomar",
+  "t" : "V"
+}, {
+  "w" : "poco",
+  "t" : "D"
+}, {
+  "w" : "entrar",
+  "t" : "V"
+}, {
+  "w" : "sino",
+  "t" : "C"
+}, {
+  "w" : "tal",
+  "t" : "T"
+}, {
+  "w" : "palabra",
+  "t" : "N"
+}, {
+  "w" : "antes",
+  "t" : "D"
+}, {
+  "w" : "nada",
+  "t" : "O"
+}, {
+  "w" : "fin",
+  "t" : "N"
+}, {
+  "w" : "encontrar",
+  "t" : "V"
+}, {
+  "w" : "conocer",
+  "t" : "V"
+}, {
+  "w" : "entonces",
+  "t" : "D"
+}, {
+  "w" : "mismo",
+  "t" : "T"
+}, {
+  "w" : "pueblo",
+  "t" : "N"
+}, {
+  "w" : "pensar",
+  "t" : "V"
+}, {
+  "w" : "amigo",
+  "t" : "N"
+}, {
+  "w" : "aunque",
+  "t" : "C"
+}, {
+  "w" : "ahora",
+  "t" : "D"
+}, {
+  "w" : "otra",
+  "t" : "T"
+}, {
+  "w" : "mí",
+  "t" : "O"
+}, {
+  "w" : "tanto",
+  "t" : "D"
+}, {
+  "w" : "mundo",
+  "t" : "N"
+}, {
+  "w" : "eso",
+  "t" : "O"
+}, {
+  "w" : "mirar",
+  "t" : "V"
+}, {
+  "w" : "tierra",
+  "t" : "N"
+}, {
+  "w" : "otro",
+  "t" : "O"
+}, {
+  "w" : "cada",
+  "t" : "T"
+}, {
+  "w" : "tu",
+  "t" : "T"
+}, {
+  "w" : "ni",
+  "t" : "D"
+}, {
+  "w" : "seguir",
+  "t" : "V"
+}, {
+  "w" : "los",
+  "t" : "O"
+}, {
+  "w" : "sentir",
+  "t" : "V"
+}, {
+  "w" : "luego",
+  "t" : "D"
+}, {
+  "w" : "otro",
+  "t" : "T"
+}, {
+  "w" : "cabeza",
+  "t" : "N"
+}, {
+  "w" : "mis",
+  "t" : "T"
+}, {
+  "w" : "al",
+  "t" : "M"
+}, {
+  "w" : "cuyo",
+  "t" : "O"
+}, {
+  "w" : "vivir",
+  "t" : "V"
+}, {
+  "w" : "voz",
+  "t" : "N"
+}, {
+  "w" : "amor",
+  "t" : "N"
+}, {
+  "w" : "ese",
+  "t" : "T"
+}, {
+  "w" : "D.",
+  "t" : "M"
+}, {
+  "w" : "sí",
+  "t" : "D"
+}, {
+  "w" : "mucho",
+  "t" : "D"
+}, {
+  "w" : "hora",
+  "t" : "N"
+}, {
+  "w" : "nuevo",
+  "t" : "A"
+}, {
+  "w" : "hallar",
+  "t" : "V"
+}, {
+  "w" : "mayor",
+  "t" : "A"
+}, {
+  "w" : "menos",
+  "t" : "D"
+}, {
+  "w" : "puerta",
+  "t" : "N"
+}, {
+  "w" : "i",
+  "t" : "N"
+}, {
+  "w" : "alma",
+  "t" : "N"
+}, {
+  "w" : "tres",
+  "t" : "T"
+}, {
+  "w" : "momento",
+  "t" : "N"
+}, {
+  "w" : "Juan",
+  "t" : "M"
+}, {
+  "w" : "cómo",
+  "t" : "O"
+}, {
+  "w" : "gente",
+  "t" : "N"
+}, {
+  "w" : "nombre",
+  "t" : "N"
+}, {
+  "w" : "modo",
+  "t" : "N"
+}, {
+  "w" : "os",
+  "t" : "O"
+}, {
+  "w" : "agua",
+  "t" : "N"
+}, {
+  "w" : "niño",
+  "t" : "N"
+}, {
+  "w" : "estos",
+  "t" : "T"
+}, {
+  "w" : "verdad",
+  "t" : "N"
+}, {
+  "w" : "esa",
+  "t" : "T"
+}, {
+  "w" : "contra",
+  "t" : "P"
+}, {
+  "w" : "oír",
+  "t" : "V"
+}, {
+  "w" : "señora",
+  "t" : "N"
+}, {
+  "w" : "mismo",
+  "t" : "A"
+}, {
+  "w" : "último",
+  "t" : "A"
+}, {
+  "w" : "ciudad",
+  "t" : "N"
+}, {
+  "w" : "algo",
+  "t" : "O"
+}, {
+  "w" : "todos",
+  "t" : "O"
+}, {
+  "w" : "casi",
+  "t" : "D"
+}, {
+  "w" : "caer",
+  "t" : "V"
+}, {
+  "w" : "malo",
+  "t" : "A"
+}, {
+  "w" : "solo",
+  "t" : "A"
+}, {
+  "w" : "pie",
+  "t" : "N"
+}, {
+  "w" : "es",
+  "t" : "A"
+}, {
+  "w" : "persona",
+  "t" : "N"
+}, {
+  "w" : "idea",
+  "t" : "N"
+}, {
+  "w" : "hermano",
+  "t" : "N"
+}, {
+  "w" : "madre",
+  "t" : "N"
+}, {
+  "w" : "estas",
+  "t" : "T"
+}, {
+  "w" : "camino",
+  "t" : "N"
+}, {
+  "w" : "punto",
+  "t" : "N"
+}, {
+  "w" : "rey",
+  "t" : "N"
+}, {
+  "w" : "alto",
+  "t" : "A"
+}, {
+  "w" : "vestir",
+  "t" : "V"
+}, {
+  "w" : "otros",
+  "t" : "T"
+}, {
+  "w" : "hacia",
+  "t" : "P"
+}, {
+  "w" : "días",
+  "t" : "N"
+}, {
+  "w" : "á",
+  "t" : "T"
+}, {
+  "w" : "nunca",
+  "t" : "D"
+}, {
+  "w" : "algunos",
+  "t" : "T"
+}, {
+  "w" : "esperar",
+  "t" : "V"
+}, {
+  "w" : "morir",
+  "t" : "V"
+}, {
+  "w" : "obra",
+  "t" : "N"
+}, {
+  "w" : "había",
+  "t" : "V"
+}, {
+  "w" : "largo",
+  "t" : "A"
+}, {
+  "w" : "n.",
+  "t" : "M"
+}, {
+  "w" : "es",
+  "t" : "N"
+}, {
+  "w" : "qué",
+  "t" : "T"
+}, {
+  "w" : "viejo",
+  "t" : "A"
+}, {
+  "w" : "preguntar",
+  "t" : "V"
+}, {
+  "w" : "paso",
+  "t" : "N"
+}, {
+  "w" : "fuerza",
+  "t" : "N"
+}, {
+  "w" : "lado",
+  "t" : "N"
+}, {
+  "w" : "nuestro",
+  "t" : "T"
+}, {
+  "w" : "mientras",
+  "t" : "C"
+}, {
+  "w" : "quién",
+  "t" : "O"
+}, {
+  "w" : "bajo",
+  "t" : "P"
+}, {
+  "w" : "servir",
+  "t" : "V"
+}, {
+  "w" : "corazón",
+  "t" : "N"
+}, {
+  "w" : "muerte",
+  "t" : "N"
+}, {
+  "w" : "alguno",
+  "t" : "O"
+}, {
+  "w" : "luz",
+  "t" : "N"
+}, {
+  "w" : "responder",
+  "t" : "V"
+}, {
+  "w" : "acabar",
+  "t" : "V"
+}, {
+  "w" : "levantar",
+  "t" : "V"
+}, {
+  "w" : "Su",
+  "t" : "T"
+}, {
+  "w" : "una",
+  "t" : "O"
+}, {
+  "w" : "lugar",
+  "t" : "N"
+}, {
+  "w" : "sí",
+  "t" : "O"
+}, {
+  "w" : "nadie",
+  "t" : "O"
+}, {
+  "w" : "nuestra",
+  "t" : "T"
+}, {
+  "w" : "perder",
+  "t" : "V"
+}, {
+  "w" : "las",
+  "t" : "O"
+}, {
+  "w" : "cuanto",
+  "t" : "D"
+}, {
+  "w" : "otras",
+  "t" : "T"
+}, {
+  "w" : "dicho",
+  "t" : "A"
+}, {
+  "w" : "manera",
+  "t" : "N"
+}, {
+  "w" : "alguna",
+  "t" : "T"
+}, {
+  "w" : "San",
+  "t" : "M"
+}, {
+  "w" : "contar",
+  "t" : "V"
+}, {
+  "w" : "medio",
+  "t" : "N"
+}, {
+  "w" : "caso",
+  "t" : "N"
+}, {
+  "w" : "tratar",
+  "t" : "V"
+}, {
+  "w" : "nosotros",
+  "t" : "O"
+}, {
+  "w" : "libro",
+  "t" : "N"
+}, {
+  "w" : "brazo",
+  "t" : "N"
+}, {
+  "w" : "andar",
+  "t" : "V"
+}, {
+  "w" : "escribir",
+  "t" : "V"
+}, {
+  "w" : "pronto",
+  "t" : "D"
+}, {
+  "w" : "unos",
+  "t" : "T"
+}, {
+  "w" : "correr",
+  "t" : "V"
+}, {
+  "w" : "España",
+  "t" : "M"
+}, {
+  "w" : "mil",
+  "t" : "T"
+}, {
+  "w" : "cuando",
+  "t" : "O"
+}, {
+  "w" : "cuerpo",
+  "t" : "N"
+}, {
+  "w" : "recibir",
+  "t" : "V"
+}, {
+  "w" : "buscar",
+  "t" : "V"
+}, {
+  "w" : "como",
+  "t" : "O"
+}, {
+  "w" : "otros",
+  "t" : "O"
+}, {
+  "w" : "joven",
+  "t" : "N"
+}, {
+  "w" : "aún",
+  "t" : "D"
+}, {
+  "w" : "e",
+  "t" : "C"
+}, {
+  "w" : "traer",
+  "t" : "V"
+}, {
+  "w" : "abrir",
+  "t" : "V"
+}, {
+  "w" : "echar",
+  "t" : "V"
+}, {
+  "w" : "doña",
+  "t" : "N"
+}, {
+  "w" : "hermoso",
+  "t" : "A"
+}, {
+  "w" : "pequeño",
+  "t" : "A"
+}, {
+  "w" : "sacar",
+  "t" : "V"
+}, {
+  "w" : "hoy",
+  "t" : "D"
+}, {
+  "w" : "amar",
+  "t" : "V"
+}, {
+  "w" : "pedir",
+  "t" : "V"
+}, {
+  "w" : "comenzar",
+  "t" : "V"
+}, {
+  "w" : "mandar",
+  "t" : "V"
+}, {
+  "w" : "cielo",
+  "t" : "N"
+}, {
+  "w" : "general",
+  "t" : "A"
+}, {
+  "w" : "el",
+  "t" : "O"
+}, {
+  "w" : "exclamar",
+  "t" : "V"
+}, {
+  "w" : "antiguo",
+  "t" : "A"
+}, {
+  "w" : "misma",
+  "t" : "T"
+}, {
+  "w" : "ellas",
+  "t" : "O"
+}, {
+  "w" : "estado",
+  "t" : "N"
+}, {
+  "w" : "familia",
+  "t" : "N"
+}, {
+  "w" : "calle",
+  "t" : "N"
+}, {
+  "w" : "comer",
+  "t" : "V"
+}, {
+  "w" : "ante",
+  "t" : "P"
+}, {
+  "w" : "algunas",
+  "t" : "T"
+}, {
+  "w" : "caballo",
+  "t" : "N"
+}, {
+  "w" : "aquellos",
+  "t" : "T"
+}, {
+  "w" : "cierto",
+  "t" : "A"
+}, {
+  "w" : "tío",
+  "t" : "N"
+}, {
+  "w" : "muchas",
+  "t" : "T"
+}, {
+  "w" : "mejor",
+  "t" : "A"
+}, {
+  "w" : "embargo",
+  "t" : "N"
+}, {
+  "w" : "aun",
+  "t" : "D"
+}, {
+  "w" : "mar",
+  "t" : "N"
+}, {
+  "w" : "mirada",
+  "t" : "N"
+}, {
+  "w" : "Don",
+  "t" : "M"
+}, {
+  "w" : "carta",
+  "t" : "N"
+}, {
+  "w" : "hasta",
+  "t" : "D"
+}, {
+  "w" : "mal",
+  "t" : "D"
+}, {
+  "w" : "reír",
+  "t" : "V"
+}, {
+  "w" : "blanco",
+  "t" : "A"
+}, {
+  "w" : "espíritu",
+  "t" : "N"
+}, {
+  "w" : "razón",
+  "t" : "N"
+}, {
+  "w" : "orden",
+  "t" : "N"
+}, {
+  "w" : "algún",
+  "t" : "T"
+}, {
+  "w" : "cuatro",
+  "t" : "T"
+}, {
+  "w" : "contestar",
+  "t" : "V"
+}, {
+  "w" : "Madrid",
+  "t" : "M"
+}, {
+  "w" : "causa",
+  "t" : "N"
+}, {
+  "w" : "trabajo",
+  "t" : "N"
+}, {
+  "w" : "empezar",
+  "t" : "V"
+}, {
+  "w" : "presentar",
+  "t" : "V"
+}, {
+  "w" : "indio",
+  "t" : "N"
+}, {
+  "w" : "caballero",
+  "t" : "N"
+}, {
+  "w" : "comprender",
+  "t" : "V"
+}, {
+  "w" : "formar",
+  "t" : "V"
+}, {
+  "w" : "lleno",
+  "t" : "A"
+}, {
+  "w" : "leer",
+  "t" : "V"
+}, {
+  "w" : "durante",
+  "t" : "P"
+}, {
+  "w" : "junto",
+  "t" : "A"
+}, {
+  "w" : "nuestros",
+  "t" : "T"
+}, {
+  "w" : "efecto",
+  "t" : "N"
+}, {
+  "w" : "oh",
+  "t" : "I"
+}, {
+  "w" : "faltar",
+  "t" : "V"
+}, {
+  "w" : "guerra",
+  "t" : "N"
+}, {
+  "w" : "todavía",
+  "t" : "D"
+}, {
+  "w" : "unas",
+  "t" : "T"
+}, {
+  "w" : "historia",
+  "t" : "N"
+}, {
+  "w" : "m.",
+  "t" : "A"
+}, {
+  "w" : "país",
+  "t" : "N"
+}, {
+  "w" : "vista",
+  "t" : "N"
+}, {
+  "w" : "cerca",
+  "t" : "D"
+}, {
+  "w" : "sol",
+  "t" : "N"
+}, {
+  "w" : "fuera",
+  "t" : "D"
+}, {
+  "w" : "oro",
+  "t" : "N"
+}, {
+  "w" : "forma",
+  "t" : "N"
+}, {
+  "w" : "duda",
+  "t" : "N"
+}, {
+  "w" : "campo",
+  "t" : "N"
+}, {
+  "w" : "verdadero",
+  "t" : "A"
+}, {
+  "w" : "rostro",
+  "t" : "N"
+}, {
+  "w" : "tarde",
+  "t" : "N"
+}, {
+  "w" : "aire",
+  "t" : "N"
+}, {
+  "w" : "negro",
+  "t" : "A"
+}, {
+  "w" : "además",
+  "t" : "D"
+}, {
+  "w" : "gracia",
+  "t" : "N"
+}, {
+  "w" : "desear",
+  "t" : "V"
+}, {
+  "w" : "español",
+  "t" : "A"
+}, {
+  "w" : "pobre",
+  "t" : "A"
+}, {
+  "w" : "cara",
+  "t" : "N"
+}, {
+  "w" : "dentro",
+  "t" : "D"
+}, {
+  "w" : "subir",
+  "t" : "V"
+}, {
+  "w" : "dinero",
+  "t" : "N"
+}, {
+  "w" : "pesar",
+  "t" : "N"
+}, {
+  "w" : "mío",
+  "t" : "O"
+}, {
+  "w" : "á",
+  "t" : "O"
+}, {
+  "w" : "objeto",
+  "t" : "N"
+}, {
+  "w" : "delante",
+  "t" : "D"
+}, {
+  "w" : "siguiente",
+  "t" : "A"
+}, {
+  "w" : "entender",
+  "t" : "V"
+}, {
+  "w" : "siglo",
+  "t" : "N"
+}, {
+  "w" : "guardar",
+  "t" : "V"
+}, {
+  "w" : "necesario",
+  "t" : "A"
+}, {
+  "w" : "único",
+  "t" : "A"
+}, {
+  "w" : "Pedro",
+  "t" : "M"
+}, {
+  "w" : "ley",
+  "t" : "N"
+}, {
+  "w" : "sangre",
+  "t" : "N"
+}, {
+  "w" : "triste",
+  "t" : "A"
+}, {
+  "w" : "allá",
+  "t" : "D"
+}, {
+  "w" : "soldado",
+  "t" : "N"
+}, {
+  "w" : "María",
+  "t" : "M"
+}, {
+  "w" : "é",
+  "t" : "N"
+}, {
+  "w" : "á",
+  "t" : "V"
+}, {
+  "w" : "mes",
+  "t" : "N"
+}, {
+  "w" : "natural",
+  "t" : "A"
+}, {
+  "w" : "mostrar",
+  "t" : "V"
+}, {
+  "w" : "ello",
+  "t" : "O"
+}, {
+  "w" : "principio",
+  "t" : "N"
+}, {
+  "w" : "según",
+  "t" : "P"
+}, {
+  "w" : "pensamiento",
+  "t" : "N"
+}, {
+  "w" : "mesa",
+  "t" : "N"
+}, {
+  "w" : "boca",
+  "t" : "N"
+}, {
+  "w" : "acercar",
+  "t" : "V"
+}, {
+  "w" : "sitio",
+  "t" : "N"
+}, {
+  "w" : "ofrecer",
+  "t" : "V"
+}, {
+  "w" : "necesitar",
+  "t" : "V"
+}, {
+  "w" : "dio",
+  "t" : "V"
+}, {
+  "w" : "dolor",
+  "t" : "N"
+}, {
+  "w" : "fondo",
+  "t" : "N"
+}, {
+  "w" : "apenas",
+  "t" : "D"
+}, {
+  "w" : "posible",
+  "t" : "A"
+}, {
+  "w" : "segundo",
+  "t" : "A"
+}, {
+  "w" : "aparecer",
+  "t" : "V"
+}, {
+  "w" : "matar",
+  "t" : "V"
+}, {
+  "w" : "como",
+  "t" : "P"
+}, {
+  "w" : "I",
+  "t" : "M"
+}, {
+  "w" : "muchos",
+  "t" : "O"
+}, {
+  "w" : "recordar",
+  "t" : "V"
+}, {
+  "w" : "instante",
+  "t" : "N"
+}, {
+  "w" : "Como",
+  "t" : "C"
+}, {
+  "w" : "joven",
+  "t" : "A"
+}, {
+  "w" : "carácter",
+  "t" : "N"
+}, {
+  "w" : "suelo",
+  "t" : "N"
+}, {
+  "w" : "ah",
+  "t" : "I"
+}, {
+  "w" : "suerte",
+  "t" : "N"
+}, {
+  "w" : "continuar",
+  "t" : "V"
+}, {
+  "w" : "fuego",
+  "t" : "N"
+}, {
+  "w" : "fuerte",
+  "t" : "A"
+}, {
+  "w" : "marido",
+  "t" : "N"
+}, {
+  "w" : "costumbre",
+  "t" : "N"
+}, {
+  "w" : "bajar",
+  "t" : "V"
+}, {
+  "w" : "esos",
+  "t" : "T"
+}, {
+  "w" : "añadir",
+  "t" : "V"
+}, {
+  "w" : "producir",
+  "t" : "V"
+}, {
+  "w" : "muchos",
+  "t" : "T"
+}, {
+  "w" : "tocar",
+  "t" : "V"
+}, {
+  "w" : "mañana",
+  "t" : "N"
+}, {
+  "w" : "lejos",
+  "t" : "D"
+}, {
+  "w" : "humano",
+  "t" : "A"
+}, {
+  "w" : "papel",
+  "t" : "N"
+}, {
+  "w" : "dirigir",
+  "t" : "V"
+}, {
+  "w" : "muchacho",
+  "t" : "N"
+}, {
+  "w" : "arma",
+  "t" : "N"
+}, {
+  "w" : "dónde",
+  "t" : "O"
+}, {
+  "w" : "existir",
+  "t" : "V"
+}, {
+  "w" : "arte",
+  "t" : "N"
+}, {
+  "w" : "silencio",
+  "t" : "N"
+}, {
+  "w" : "llorar",
+  "t" : "V"
+}, {
+  "w" : "suceder",
+  "t" : "V"
+}, {
+  "w" : "flor",
+  "t" : "N"
+}, {
+  "w" : "duque",
+  "t" : "N"
+}, {
+  "w" : "gusto",
+  "t" : "N"
+}, {
+  "w" : "fe",
+  "t" : "N"
+}, {
+  "w" : "cuenta",
+  "t" : "N"
+}, {
+  "w" : "jamás",
+  "t" : "D"
+}, {
+  "w" : "dos",
+  "t" : "O"
+}, {
+  "w" : "puesto",
+  "t" : "N"
+}, {
+  "w" : "esas",
+  "t" : "T"
+}, {
+  "w" : "capitán",
+  "t" : "N"
+}, {
+  "w" : "enemigo",
+  "t" : "N"
+}, {
+  "w" : "piedra",
+  "t" : "N"
+}, {
+  "w" : "Señor",
+  "t" : "N"
+}, {
+  "w" : "dormir",
+  "t" : "V"
+}, {
+  "w" : "poeta",
+  "t" : "N"
+}, {
+  "w" : "conseguir",
+  "t" : "V"
+}, {
+  "w" : "noticia",
+  "t" : "N"
+}, {
+  "w" : "profundo",
+  "t" : "A"
+}, {
+  "w" : "mucho",
+  "t" : "T"
+}, {
+  "w" : "derecho",
+  "t" : "N"
+}, {
+  "w" : "soler",
+  "t" : "V"
+}, {
+  "w" : "aquellas",
+  "t" : "T"
+}, {
+  "w" : "bastante",
+  "t" : "D"
+}, {
+  "w" : "dama",
+  "t" : "N"
+}, {
+  "w" : "autor",
+  "t" : "N"
+}, {
+  "w" : "vivo",
+  "t" : "A"
+}, {
+  "w" : "deseo",
+  "t" : "N"
+}, {
+  "w" : "rico",
+  "t" : "A"
+}, {
+  "w" : "olvidar",
+  "t" : "V"
+}, {
+  "w" : "mejor",
+  "t" : "D"
+}, {
+  "w" : "número",
+  "t" : "N"
+}, {
+  "w" : "gritar",
+  "t" : "V"
+}, {
+  "w" : "vuestra",
+  "t" : "T"
+}, {
+  "w" : "cabo",
+  "t" : "N"
+}, {
+  "w" : "viaje",
+  "t" : "N"
+}, {
+  "w" : "poder",
+  "t" : "N"
+}, {
+  "w" : "detener",
+  "t" : "V"
+}, {
+  "w" : "dulce",
+  "t" : "A"
+}, {
+  "w" : "pecho",
+  "t" : "N"
+}, {
+  "w" : "trabajar",
+  "t" : "V"
+}, {
+  "w" : "et",
+  "t" : "M"
+}, {
+  "w" : "notar",
+  "t" : "V"
+}, {
+  "w" : "vos",
+  "t" : "O"
+}, {
+  "w" : "iglesia",
+  "t" : "N"
+}, {
+  "w" : "sombra",
+  "t" : "N"
+}, {
+  "w" : "valer",
+  "t" : "V"
+}, {
+  "w" : "clase",
+  "t" : "N"
+}, {
+  "w" : "compañero",
+  "t" : "N"
+}, {
+  "w" : "necesidad",
+  "t" : "N"
+}, {
+  "w" : "frente",
+  "t" : "D"
+}, {
+  "w" : "plaza",
+  "t" : "N"
+}, {
+  "w" : "valor",
+  "t" : "N"
+}, {
+  "w" : "ocupar",
+  "t" : "V"
+}, {
+  "w" : "voluntad",
+  "t" : "N"
+}, {
+  "w" : "hacendar",
+  "t" : "V"
+}, {
+  "w" : "propio",
+  "t" : "A"
+}, {
+  "w" : "provincia",
+  "t" : "N"
+}, {
+  "w" : "pagar",
+  "t" : "V"
+}, {
+  "w" : "mucha",
+  "t" : "T"
+}, {
+  "w" : "tus",
+  "t" : "T"
+}, {
+  "w" : "temer",
+  "t" : "V"
+}, {
+  "w" : "noble",
+  "t" : "A"
+}, {
+  "w" : "miedo",
+  "t" : "N"
+}, {
+  "w" : "cantar",
+  "t" : "V"
+}, {
+  "w" : "observar",
+  "t" : "V"
+}, {
+  "w" : "ocasión",
+  "t" : "N"
+}, {
+  "w" : "movimiento",
+  "t" : "N"
+}, {
+  "w" : "cuarto",
+  "t" : "N"
+}, {
+  "w" : "be",
+  "t" : "V"
+}, {
+  "w" : "sufrir",
+  "t" : "V"
+}, {
+  "w" : "libertad",
+  "t" : "N"
+}, {
+  "w" : "árbol",
+  "t" : "N"
+}, {
+  "w" : "Rey",
+  "t" : "M"
+}, {
+  "w" : "escuchar",
+  "t" : "V"
+}, {
+  "w" : "descubrir",
+  "t" : "V"
+}, {
+  "w" : "seguido",
+  "t" : "A"
+}, {
+  "w" : "sentimiento",
+  "t" : "N"
+}, {
+  "w" : "repetir",
+  "t" : "V"
+}, {
+  "w" : "considerar",
+  "t" : "V"
+}, {
+  "w" : "Manuel",
+  "t" : "M"
+}, {
+  "w" : "asunto",
+  "t" : "N"
+}, {
+  "w" : "esperanza",
+  "t" : "N"
+}, {
+  "w" : "teatro",
+  "t" : "N"
+}, {
+  "w" : "claro",
+  "t" : "A"
+}, {
+  "w" : "vio",
+  "t" : "V"
+}, {
+  "w" : "acaso",
+  "t" : "D"
+}, {
+  "w" : "mío",
+  "t" : "T"
+}, {
+  "w" : "terrible",
+  "t" : "A"
+}, {
+  "w" : "permanecer",
+  "t" : "V"
+}, {
+  "w" : "marchar",
+  "t" : "V"
+}, {
+  "w" : "pobre",
+  "t" : "N"
+}, {
+  "w" : "ti",
+  "t" : "O"
+}, {
+  "w" : "memoria",
+  "t" : "N"
+}, {
+  "w" : "labio",
+  "t" : "N"
+}, {
+  "w" : "bastar",
+  "t" : "V"
+}, {
+  "w" : "nacer",
+  "t" : "V"
+}, {
+  "w" : "alegría",
+  "t" : "N"
+}, {
+  "w" : "lengua",
+  "t" : "N"
+}, {
+  "w" : "español",
+  "t" : "N"
+}, {
+  "w" : "quitar",
+  "t" : "V"
+}, {
+  "w" : "ganar",
+  "t" : "V"
+}, {
+  "w" : "adelante",
+  "t" : "D"
+}, {
+  "w" : "cinco",
+  "t" : "T"
+}, {
+  "w" : "ninguno",
+  "t" : "O"
+}, {
+  "w" : "ninguna",
+  "t" : "T"
+}, {
+  "w" : "enviar",
+  "t" : "V"
+}, {
+  "w" : "grave",
+  "t" : "A"
+}, {
+  "w" : "lágrima",
+  "t" : "N"
+}, {
+  "w" : "sueño",
+  "t" : "N"
+}, {
+  "w" : "sentido",
+  "t" : "N"
+}, {
+  "w" : "bello",
+  "t" : "A"
+}, {
+  "w" : "mas",
+  "t" : "C"
+}, {
+  "w" : "fortuna",
+  "t" : "N"
+}, {
+  "w" : "ocurrir",
+  "t" : "V"
+}, {
+  "w" : "sonreír",
+  "t" : "V"
+}, {
+  "w" : "huir",
+  "t" : "V"
+}, {
+  "w" : "p.",
+  "t" : "M"
+}, {
+  "w" : "virtud",
+  "t" : "N"
+}, {
+  "w" : "mismo",
+  "t" : "O"
+}, {
+  "w" : "procurar",
+  "t" : "V"
+}, {
+  "w" : "bajo",
+  "t" : "A"
+}, {
+  "w" : "hecho",
+  "t" : "N"
+}, {
+  "w" : "mi",
+  "t" : "O"
+}, {
+  "w" : "m.",
+  "t" : "N"
+}, {
+  "w" : "época",
+  "t" : "N"
+}, {
+  "w" : "grito",
+  "t" : "N"
+}, {
+  "w" : "gobierno",
+  "t" : "N"
+}, {
+  "w" : "conservar",
+  "t" : "V"
+}, {
+  "w" : "Francisco",
+  "t" : "M"
+}, {
+  "w" : "medio",
+  "t" : "A"
+}, {
+  "w" : "paz",
+  "t" : "N"
+}, {
+  "w" : "á",
+  "t" : "M"
+}, {
+  "w" : "vuelta",
+  "t" : "N"
+}, {
+  "w" : "seguro",
+  "t" : "A"
+}, {
+  "w" : "edad",
+  "t" : "N"
+}, {
+  "w" : "sociedad",
+  "t" : "N"
+}, {
+  "w" : "poco",
+  "t" : "O"
+}, {
+  "w" : "permitir",
+  "t" : "V"
+}, {
+  "w" : "tanta",
+  "t" : "T"
+}, {
+  "w" : "muerto",
+  "t" : "A"
+}, {
+  "w" : "naturaleza",
+  "t" : "N"
+}, {
+  "w" : "público",
+  "t" : "A"
+}, {
+  "w" : "uno",
+  "t" : "T"
+}, {
+  "w" : "tampoco",
+  "t" : "D"
+}, {
+  "w" : "cerrar",
+  "t" : "V"
+}, {
+  "w" : "conde",
+  "t" : "N"
+}, {
+  "w" : "bien",
+  "t" : "C"
+}, {
+  "w" : "lograr",
+  "t" : "V"
+}, {
+  "w" : "gustar",
+  "t" : "V"
+}, {
+  "w" : "reconocer",
+  "t" : "V"
+}, {
+  "w" : "existencia",
+  "t" : "N"
+}, {
+  "w" : "motivo",
+  "t" : "N"
+}, {
+  "w" : "demás",
+  "t" : "O"
+}, {
+  "w" : "isla",
+  "t" : "N"
+}, {
+  "w" : "puro",
+  "t" : "A"
+}, {
+  "w" : "recuerdo",
+  "t" : "N"
+}, {
+  "w" : "palacio",
+  "t" : "N"
+}, {
+  "w" : "Miguel",
+  "t" : "M"
+}, {
+  "w" : "alcanzar",
+  "t" : "V"
+}, {
+  "w" : "viento",
+  "t" : "N"
+}, {
+  "w" : "atrever",
+  "t" : "V"
+}, {
+  "w" : "seis",
+  "t" : "T"
+}, {
+  "w" : "libre",
+  "t" : "A"
+}, {
+  "w" : "tras",
+  "t" : "P"
+}, {
+  "w" : "servicio",
+  "t" : "N"
+}, {
+  "w" : "peligro",
+  "t" : "N"
+}, {
+  "w" : "esposa",
+  "t" : "N"
+}, {
+  "w" : "falta",
+  "t" : "N"
+}, {
+  "w" : "especie",
+  "t" : "N"
+}, {
+  "w" : "feliz",
+  "t" : "A"
+}, {
+  "w" : "coger",
+  "t" : "V"
+}, {
+  "w" : "hecho",
+  "t" : "A"
+}, {
+  "w" : "color",
+  "t" : "N"
+}, {
+  "w" : "golpe",
+  "t" : "N"
+}, {
+  "w" : "cura",
+  "t" : "N"
+}, {
+  "w" : "cumplir",
+  "t" : "V"
+}, {
+  "w" : "acto",
+  "t" : "N"
+}, {
+  "w" : "río",
+  "t" : "N"
+}, {
+  "w" : "aspecto",
+  "t" : "N"
+}, {
+  "w" : "Sr.",
+  "t" : "M"
+}, {
+  "w" : "completo",
+  "t" : "A"
+}, {
+  "w" : "imagen",
+  "t" : "N"
+}, {
+  "w" : "carne",
+  "t" : "N"
+}, {
+  "w" : "si",
+  "t" : "D"
+}, {
+  "w" : "querido",
+  "t" : "A"
+}, {
+  "w" : "meter",
+  "t" : "V"
+}, {
+  "w" : "desaparecer",
+  "t" : "V"
+}, {
+  "w" : "ventana",
+  "t" : "N"
+}, {
+  "w" : "justicia",
+  "t" : "N"
+}, {
+  "w" : "José",
+  "t" : "M"
+}, {
+  "w" : "preciso",
+  "t" : "A"
+}, {
+  "w" : "acompañar",
+  "t" : "V"
+}, {
+  "w" : "figura",
+  "t" : "N"
+}, {
+  "w" : "acudir",
+  "t" : "V"
+}, {
+  "w" : "ahí",
+  "t" : "D"
+}, {
+  "w" : "lanzar",
+  "t" : "V"
+}, {
+  "w" : "representar",
+  "t" : "V"
+}, {
+  "w" : "usar",
+  "t" : "V"
+}, {
+  "w" : "ay",
+  "t" : "I"
+}, {
+  "w" : "ser",
+  "t" : "N"
+}, {
+  "w" : "entregar",
+  "t" : "V"
+}, {
+  "w" : "honor",
+  "t" : "N"
+}, {
+  "w" : "montaña",
+  "t" : "N"
+}, {
+  "w" : "abandonar",
+  "t" : "V"
+}, {
+  "w" : "rato",
+  "t" : "N"
+}, {
+  "w" : "arrojar",
+  "t" : "V"
+}, {
+  "w" : "contemplar",
+  "t" : "V"
+}, {
+  "w" : "convenir",
+  "t" : "V"
+}, {
+  "w" : "conciencia",
+  "t" : "N"
+}, {
+  "w" : "vino",
+  "t" : "N"
+}, {
+  "w" : "partir",
+  "t" : "V"
+}, {
+  "w" : "despertar",
+  "t" : "V"
+}, {
+  "w" : "Santa",
+  "t" : "M"
+}, {
+  "w" : "digno",
+  "t" : "A"
+}, {
+  "w" : "príncipe",
+  "t" : "N"
+}, {
+  "w" : "santo",
+  "t" : "N"
+}, {
+  "w" : "loco",
+  "t" : "A"
+}, {
+  "w" : "bien",
+  "t" : "N"
+}, {
+  "w" : "gloria",
+  "t" : "N"
+}, {
+  "w" : "Francia",
+  "t" : "M"
+}, {
+  "w" : "inmenso",
+  "t" : "A"
+}, {
+  "w" : "á"
+}, {
+  "w" : "maestro",
+  "t" : "N"
+}, {
+  "w" : "ejemplo",
+  "t" : "N"
+}, {
+  "w" : "igual",
+  "t" : "A"
+}, {
+  "w" : "nuestras",
+  "t" : "T"
+}, {
+  "w" : "sonrisa",
+  "t" : "N"
+}, {
+  "w" : "imposible",
+  "t" : "A"
+}, {
+  "w" : "esfuerzo",
+  "t" : "N"
+}, {
+  "w" : "mal",
+  "t" : "N"
+}, {
+  "w" : "murmurar",
+  "t" : "V"
+}, {
+  "w" : "pasión",
+  "t" : "N"
+}, {
+  "w" : "Doña",
+  "t" : "M"
+}, {
+  "w" : "según",
+  "t" : "C"
+}, {
+  "w" : "fiesta",
+  "t" : "N"
+}, {
+  "w" : "doctor",
+  "t" : "N"
+}, {
+  "w" : "atención",
+  "t" : "N"
+}, {
+  "w" : "donde",
+  "t" : "C"
+}, {
+  "w" : "otras",
+  "t" : "O"
+}, {
+  "w" : "demasiado",
+  "t" : "D"
+}, {
+  "w" : "explicar",
+  "t" : "V"
+}, {
+  "w" : "París",
+  "t" : "M"
+}, {
+  "w" : "mañana",
+  "t" : "D"
+}, {
+  "w" : "ciencia",
+  "t" : "N"
+}, {
+  "w" : "anterior",
+  "t" : "A"
+}, {
+  "w" : "nota",
+  "t" : "M"
+}, {
+  "w" : "varias",
+  "t" : "T"
+}, {
+  "w" : "diez",
+  "t" : "T"
+}, {
+  "w" : "línea",
+  "t" : "N"
+}, {
+  "w" : "resultar",
+  "t" : "V"
+}, {
+  "w" : "etc."
+}, {
+  "w" : "cambio",
+  "t" : "N"
+}, {
+  "w" : "secreto",
+  "t" : "N"
+}, {
+  "w" : "tranquilo",
+  "t" : "A"
+}, {
+  "w" : "aquello",
+  "t" : "O"
+}, {
+  "w" : "suponer",
+  "t" : "V"
+}, {
+  "w" : "expresión",
+  "t" : "N"
+}, {
+  "w" : "abierto",
+  "t" : "A"
+}, {
+  "w" : "dueño",
+  "t" : "N"
+}, {
+  "w" : "favor",
+  "t" : "N"
+}, {
+  "w" : "cualquier",
+  "t" : "T"
+}, {
+  "w" : "ejército",
+  "t" : "N"
+}, {
+  "w" : "ningún",
+  "t" : "T"
+}, {
+  "w" : "merecer",
+  "t" : "V"
+}, {
+  "w" : "aun",
+  "t" : "C"
+}, {
+  "w" : "tenia",
+  "t" : "V"
+}, {
+  "w" : "suyo",
+  "t" : "T"
+}, {
+  "w" : "terminar",
+  "t" : "V"
+}, {
+  "w" : "was",
+  "t" : "V"
+}, {
+  "w" : "contener",
+  "t" : "V"
+}, {
+  "w" : "tambien",
+  "t" : "V"
+}, {
+  "w" : "América",
+  "t" : "M"
+}, {
+  "w" : "ruido",
+  "t" : "N"
+}, {
+  "w" : "cama",
+  "t" : "N"
+}, {
+  "w" : "pálido",
+  "t" : "A"
+}, {
+  "w" : "colocar",
+  "t" : "V"
+}, {
+  "w" : "condición",
+  "t" : "N"
+}, {
+  "w" : "sostener",
+  "t" : "V"
+}, {
+  "w" : "presencia",
+  "t" : "N"
+}, {
+  "w" : "importar",
+  "t" : "V"
+}, {
+  "w" : "grupo",
+  "t" : "N"
+}, {
+  "w" : "referir",
+  "t" : "V"
+}, {
+  "w" : "varios",
+  "t" : "T"
+}, {
+  "w" : "tales",
+  "t" : "T"
+}, {
+  "w" : "cierta",
+  "t" : "T"
+}, {
+  "w" : "negro",
+  "t" : "N"
+}, {
+  "w" : "escena",
+  "t" : "N"
+}, {
+  "w" : "contrario",
+  "t" : "A"
+}, {
+  "w" : "chico",
+  "t" : "N"
+}, {
+  "w" : "menor",
+  "t" : "A"
+}, {
+  "w" : "tarde",
+  "t" : "D"
+}, {
+  "w" : "traje",
+  "t" : "N"
+}, {
+  "w" : "estudio",
+  "t" : "N"
+}, {
+  "w" : "pasado",
+  "t" : "A"
+}, {
+  "w" : "conversación",
+  "t" : "N"
+}, {
+  "w" : "declarar",
+  "t" : "V"
+}, {
+  "w" : "veinte",
+  "t" : "T"
+}, {
+  "w" : "hombro",
+  "t" : "N"
+}, {
+  "w" : "manifestar",
+  "t" : "V"
+}, {
+  "w" : "pan",
+  "t" : "N"
+}, {
+  "w" : "señorita",
+  "t" : "N"
+}, {
+  "w" : "médico",
+  "t" : "N"
+}, {
+  "w" : "compañía",
+  "t" : "N"
+}, {
+  "w" : "par",
+  "t" : "N"
+}, {
+  "w" : "replicar",
+  "t" : "V"
+}, {
+  "w" : "propósito",
+  "t" : "N"
+}, {
+  "w" : "francés",
+  "t" : "A"
+}, {
+  "w" : "perro",
+  "t" : "N"
+}, {
+  "w" : "cambiar",
+  "t" : "V"
+}, {
+  "w" : "reino",
+  "t" : "N"
+}, {
+  "w" : "romper",
+  "t" : "V"
+}, {
+  "w" : "cubierto",
+  "t" : "A"
+}, {
+  "w" : "mover",
+  "t" : "V"
+}, {
+  "w" : "enorme",
+  "t" : "A"
+}, {
+  "w" : "costa",
+  "t" : "N"
+}, {
+  "w" : "moral",
+  "t" : "A"
+}, {
+  "w" : "superior",
+  "t" : "A"
+}, {
+  "w" : "dia",
+  "t" : "N"
+}, {
+  "w" : "encima",
+  "t" : "D"
+}, {
+  "w" : "espacio",
+  "t" : "N"
+}, {
+  "w" : "cuidado",
+  "t" : "N"
+}, {
+  "w" : "del",
+  "t" : "M"
+}, {
+  "w" : "causar",
+  "t" : "V"
+}, {
+  "w" : "vestido",
+  "t" : "A"
+}, {
+  "w" : "espada",
+  "t" : "N"
+}, {
+  "w" : "Luis",
+  "t" : "M"
+}, {
+  "w" : "ustedes",
+  "t" : "O"
+}, {
+  "w" : "entero",
+  "t" : "A"
+}, {
+  "w" : "asegurar",
+  "t" : "V"
+}, {
+  "w" : "negocio",
+  "t" : "N"
+}, {
+  "w" : "placer",
+  "t" : "N"
+}, {
+  "w" : "leguas",
+  "t" : "M"
+}, {
+  "w" : "criar",
+  "t" : "V"
+}, {
+  "w" : "calles",
+  "t" : "N"
+}, {
+  "w" : "sentado",
+  "t" : "A"
+}, {
+  "w" : "detrás",
+  "t" : "D"
+}, {
+  "w" : "marqués",
+  "t" : "N"
+}, {
+  "w" : "Antonio",
+  "t" : "M"
+}, {
+  "w" : "raro",
+  "t" : "A"
+}, {
+  "w" : "religioso",
+  "t" : "A"
+}, {
+  "w" : "gozar",
+  "t" : "V"
+}, {
+  "w" : "arriba",
+  "t" : "D"
+}, {
+  "w" : "letra",
+  "t" : "N"
+}, {
+  "w" : "rojo",
+  "t" : "A"
+}, {
+  "w" : "azul",
+  "t" : "A"
+}, {
+  "w" : "negar",
+  "t" : "V"
+}, {
+  "w" : "tono",
+  "t" : "N"
+}, {
+  "w" : "cortar",
+  "t" : "V"
+}, {
+  "w" : "salón",
+  "t" : "N"
+}, {
+  "w" : "puerto",
+  "t" : "N"
+}, {
+  "w" : "duro",
+  "t" : "A"
+}, {
+  "w" : "político",
+  "t" : "A"
+}, {
+  "w" : "merced",
+  "t" : "N"
+}, {
+  "w" : "cubrir",
+  "t" : "V"
+}, {
+  "w" : "conducir",
+  "t" : "V"
+}, {
+  "w" : "bosque",
+  "t" : "N"
+}, {
+  "w" : "disponer",
+  "t" : "V"
+}, {
+  "w" : "vecino",
+  "t" : "N"
+}, {
+  "w" : "espalda",
+  "t" : "N"
+}, {
+  "w" : "centro",
+  "t" : "N"
+}, {
+  "w" : "famoso",
+  "t" : "A"
+}, {
+  "w" : "callar",
+  "t" : "V"
+}, {
+  "w" : "importante",
+  "t" : "A"
+}, {
+  "w" : "semejante",
+  "t" : "A"
+}, {
+  "w" : "principal",
+  "t" : "A"
+}, {
+  "w" : "capaz",
+  "t" : "A"
+}, {
+  "w" : "llenar",
+  "t" : "V"
+}, {
+  "w" : "juicio",
+  "t" : "N"
+}, {
+  "w" : "social",
+  "t" : "A"
+}, {
+  "w" : "acordar",
+  "t" : "V"
+}, {
+  "w" : "término",
+  "t" : "N"
+}, {
+  "w" : "poseer",
+  "t" : "V"
+}, {
+  "w" : "abajo",
+  "t" : "D"
+}, {
+  "w" : "cierto",
+  "t" : "T"
+}, {
+  "w" : "S.",
+  "t" : "M"
+}, {
+  "w" : "conocimiento",
+  "t" : "N"
+}, {
+  "w" : "escapar",
+  "t" : "V"
+}, {
+  "w" : "marcha",
+  "t" : "N"
+}, {
+  "w" : "jardín",
+  "t" : "N"
+}, {
+  "w" : "mozo",
+  "t" : "N"
+}, {
+  "w" : "obligar",
+  "t" : "V"
+}, {
+  "w" : "temor",
+  "t" : "N"
+}, {
+  "w" : "pocos",
+  "t" : "T"
+}, {
+  "w" : "reunir",
+  "t" : "V"
+}, {
+  "w" : "entrada",
+  "t" : "N"
+}, {
+  "w" : "ocultar",
+  "t" : "V"
+}, {
+  "w" : "realidad",
+  "t" : "N"
+}, {
+  "w" : "nación",
+  "t" : "N"
+}, {
+  "w" : "habitación",
+  "t" : "N"
+}, {
+  "w" : "enseñar",
+  "t" : "V"
+}, {
+  "w" : "Diego",
+  "t" : "M"
+}, {
+  "w" : "confesar",
+  "t" : "V"
+}, {
+  "w" : "Europa",
+  "t" : "M"
+}, {
+  "w" : "juzgar",
+  "t" : "V"
+}, {
+  "w" : "engañar",
+  "t" : "V"
+}, {
+  "w" : "belleza",
+  "t" : "N"
+}, {
+  "w" : "Padre",
+  "t" : "N"
+}, {
+  "w" : "corte",
+  "t" : "N"
+}, {
+  "w" : "tirar",
+  "t" : "V"
+}, {
+  "w" : "penetrar",
+  "t" : "V"
+}, {
+  "w" : "sombrero",
+  "t" : "N"
+}, {
+  "w" : "cuadro",
+  "t" : "N"
+}, {
+  "w" : "cristiano",
+  "t" : "N"
+}, {
+  "w" : "emplear",
+  "t" : "V"
+}, {
+  "w" : "sala",
+  "t" : "N"
+}, {
+  "w" : "indicar",
+  "t" : "V"
+}, {
+  "w" : "frente",
+  "t" : "N"
+}, {
+  "w" : "comedia",
+  "t" : "N"
+}, {
+  "w" : "saltar",
+  "t" : "V"
+}, {
+  "w" : "real",
+  "t" : "A"
+}, {
+  "w" : "animal",
+  "t" : "N"
+}, {
+  "w" : "advertir",
+  "t" : "V"
+}, {
+  "w" : "pena",
+  "t" : "N"
+}, {
+  "w" : "terreno",
+  "t" : "N"
+}, {
+  "w" : "tantas",
+  "t" : "T"
+}, {
+  "w" : "perdido",
+  "t" : "A"
+}, {
+  "w" : "amo",
+  "t" : "N"
+}, {
+  "w" : "fácil",
+  "t" : "A"
+}, {
+  "w" : "plata",
+  "t" : "N"
+}, {
+  "w" : "oído",
+  "t" : "N"
+}, {
+  "w" : "ánimo",
+  "t" : "N"
+}, {
+  "w" : "señal",
+  "t" : "N"
+}, {
+  "w" : "respeto",
+  "t" : "N"
+}, {
+  "w" : "convertir",
+  "t" : "V"
+}, {
+  "w" : "orilla",
+  "t" : "N"
+}, {
+  "w" : "demás",
+  "t" : "T"
+}, {
+  "w" : "pared",
+  "t" : "N"
+}, {
+  "w" : "aceptar",
+  "t" : "V"
+}, {
+  "w" : "interés",
+  "t" : "N"
+}, {
+  "w" : "página",
+  "t" : "N"
+}, {
+  "w" : "jugar",
+  "t" : "V"
+}, {
+  "w" : "autoridad",
+  "t" : "N"
+}, {
+  "w" : "riqueza",
+  "t" : "N"
+}, {
+  "w" : "situación",
+  "t" : "N"
+}, {
+  "w" : "inglés",
+  "t" : "N"
+}, {
+  "w" : "verde",
+  "t" : "A"
+}, {
+  "w" : "desgracia",
+  "t" : "N"
+}, {
+  "w" : "inmediatamente",
+  "t" : "D"
+}, {
+  "w" : "señalar",
+  "t" : "V"
+}, {
+  "w" : "dedo",
+  "t" : "N"
+}, {
+  "w" : "siquiera",
+  "t" : "D"
+}, {
+  "w" : "reponer",
+  "t" : "V"
+}, {
+  "w" : "hoja",
+  "t" : "N"
+}, {
+  "w" : "proponer",
+  "t" : "V"
+}, {
+  "w" : "é",
+  "t" : "P"
+}, {
+  "w" : "castillo",
+  "t" : "N"
+}, {
+  "w" : "mucho",
+  "t" : "O"
+}, {
+  "w" : "suceso",
+  "t" : "N"
+}, {
+  "w" : "frase",
+  "t" : "N"
+}, {
+  "w" : "solamente",
+  "t" : "D"
+}, {
+  "w" : "cruzar",
+  "t" : "V"
+}, {
+  "w" : "caminar",
+  "t" : "V"
+}, {
+  "w" : "intentar",
+  "t" : "V"
+}, {
+  "w" : "temblar",
+  "t" : "V"
+}, {
+  "w" : "edificio",
+  "t" : "N"
+}, {
+  "w" : "raza",
+  "t" : "N"
+}, {
+  "w" : "sonar",
+  "t" : "V"
+}, {
+  "w" : "m.",
+  "t" : "M"
+}, {
+  "w" : "des",
+  "t" : "M"
+}, {
+  "w" : "eterno",
+  "t" : "A"
+}, {
+  "w" : "tardar",
+  "t" : "V"
+}, {
+  "w" : "opinión",
+  "t" : "N"
+}, {
+  "w" : "calor",
+  "t" : "N"
+}, {
+  "w" : "vengar",
+  "t" : "V"
+}, {
+  "w" : "templo",
+  "t" : "N"
+}, {
+  "w" : "salvar",
+  "t" : "V"
+}, {
+  "w" : "silla",
+  "t" : "N"
+}, {
+  "w" : "brillar",
+  "t" : "V"
+}, {
+  "w" : "beber",
+  "t" : "V"
+}, {
+  "w" : "primero",
+  "t" : "D"
+}, {
+  "w" : "gesto",
+  "t" : "N"
+}, {
+  "w" : "comprar",
+  "t" : "V"
+}, {
+  "w" : "fijar",
+  "t" : "V"
+}, {
+  "w" : "esta",
+  "t" : "V"
+}, {
+  "w" : "costar",
+  "t" : "V"
+}, {
+  "w" : "difícil",
+  "t" : "A"
+}, {
+  "w" : "circunstancia",
+  "t" : "N"
+}, {
+  "w" : "música",
+  "t" : "N"
+}, {
+  "w" : "unir",
+  "t" : "V"
+}, {
+  "w" : "jefe",
+  "t" : "N"
+}, {
+  "w" : "alzar",
+  "t" : "V"
+}, {
+  "w" : "distancia",
+  "t" : "N"
+}, {
+  "w" : "valle",
+  "t" : "N"
+}, {
+  "w" : "extender",
+  "t" : "V"
+}, {
+  "w" : "general",
+  "t" : "N"
+}, {
+  "w" : "enfermedad",
+  "t" : "N"
+}, {
+  "w" : "retirar",
+  "t" : "V"
+}, {
+  "w" : "café",
+  "t" : "N"
+}, {
+  "w" : "ropa",
+  "t" : "N"
+}, {
+  "w" : "ocho",
+  "t" : "T"
+}, {
+  "w" : "avanzar",
+  "t" : "V"
+}, {
+  "w" : "patria",
+  "t" : "N"
+}, {
+  "w" : "tercero",
+  "t" : "A"
+}, {
+  "w" : "nube",
+  "t" : "N"
+}, {
+  "w" : "ministro",
+  "t" : "N"
+}, {
+  "w" : "confianza",
+  "t" : "N"
+}, {
+  "w" : "ligero",
+  "t" : "A"
+}, {
+  "w" : "sistema",
+  "t" : "N"
+}, {
+  "w" : "Fernando",
+  "t" : "M"
+}, {
+  "w" : "rayo",
+  "t" : "N"
+}, {
+  "w" : "afirmar",
+  "t" : "V"
+}, {
+  "w" : "infinito",
+  "t" : "A"
+}, {
+  "w" : "género",
+  "t" : "N"
+}, {
+  "w" : "pertenecer",
+  "t" : "V"
+}, {
+  "w" : "título",
+  "t" : "N"
+}, {
+  "w" : "admirar",
+  "t" : "V"
+}, {
+  "w" : "reina",
+  "t" : "N"
+}, {
+  "w" : "torre",
+  "t" : "N"
+}, {
+  "w" : "oscuro",
+  "t" : "A"
+}, {
+  "w" : "mantener",
+  "t" : "V"
+}, {
+  "w" : "francés",
+  "t" : "N"
+}, {
+  "w" : "debajo",
+  "t" : "D"
+}, {
+  "w" : "sentar",
+  "t" : "V"
+}, {
+  "w" : "atravesar",
+  "t" : "V"
+}, {
+  "w" : "propia",
+  "t" : "T"
+}, {
+  "w" : "curiosidad",
+  "t" : "N"
+}, {
+  "w" : "público",
+  "t" : "N"
+}, {
+  "w" : "fuente",
+  "t" : "N"
+}, {
+  "w" : "tantos",
+  "t" : "T"
+}, {
+  "w" : "concluir",
+  "t" : "V"
+}, {
+  "w" : "divino",
+  "t" : "A"
+}, {
+  "w" : "cabello",
+  "t" : "N"
+}, {
+  "w" : "juventud",
+  "t" : "N"
+}, {
+  "w" : "parar",
+  "t" : "V"
+}, {
+  "w" : "Sancho",
+  "t" : "M"
+}, {
+  "w" : "alegre",
+  "t" : "A"
+}, {
+  "w" : "recoger",
+  "t" : "V"
+}, {
+  "w" : "escalera",
+  "t" : "N"
+}, {
+  "w" : "misterioso",
+  "t" : "A"
+}, {
+  "w" : "poca",
+  "t" : "T"
+}, {
+  "w" : "Carlos",
+  "t" : "M"
+}, {
+  "w" : "altura",
+  "t" : "N"
+}, {
+  "w" : "Isabel",
+  "t" : "M"
+}, {
+  "w" : "partido",
+  "t" : "N"
+}, {
+  "w" : "extraño",
+  "t" : "A"
+}, {
+  "w" : "consejo",
+  "t" : "N"
+}, {
+  "w" : "acción",
+  "t" : "N"
+}, {
+  "w" : "coche",
+  "t" : "N"
+}, {
+  "w" : "importancia",
+  "t" : "N"
+}, {
+  "w" : "dudar",
+  "t" : "V"
+}, {
+  "w" : "conocido",
+  "t" : "A"
+}, {
+  "w" : "próximo",
+  "t" : "A"
+}, {
+  "w" : "amistad",
+  "t" : "N"
+}, {
+  "w" : "llamado",
+  "t" : "A"
+}, {
+  "w" : "poderoso",
+  "t" : "A"
+}, {
+  "w" : "Quijote",
+  "t" : "M"
+}, {
+  "w" : "uso",
+  "t" : "N"
+}, {
+  "w" : "cuál",
+  "t" : "O"
+}, {
+  "w" : "estas",
+  "t" : "V"
+}, {
+  "w" : "presente",
+  "t" : "A"
+}, {
+  "w" : "muerto",
+  "t" : "N"
+}, {
+  "w" : "santo",
+  "t" : "A"
+}, {
+  "w" : "extremo",
+  "t" : "N"
+}, {
+  "w" : "hierro",
+  "t" : "N"
+}, {
+  "w" : "cuello",
+  "t" : "N"
+}, {
+  "w" : "decidir",
+  "t" : "V"
+}, {
+  "w" : "preparar",
+  "t" : "V"
+}, {
+  "w" : "contento",
+  "t" : "A"
+}, {
+  "w" : "novio",
+  "t" : "N"
+}, {
+  "w" : "separar",
+  "t" : "V"
+}, {
+  "w" : "vano",
+  "t" : "A"
+}, {
+  "w" : "mitad",
+  "t" : "N"
+}, {
+  "w" : "personaje",
+  "t" : "N"
+}, {
+  "w" : "abuelo",
+  "t" : "N"
+}, {
+  "w" : "inteligencia",
+  "t" : "N"
+}, {
+  "w" : "juego",
+  "t" : "N"
+}, {
+  "w" : "Cristo",
+  "t" : "M"
+}, {
+  "w" : "minuto",
+  "t" : "N"
+}, {
+  "w" : "vencer",
+  "t" : "V"
+}, {
+  "w" : "evitar",
+  "t" : "V"
+}, {
+  "w" : "notable",
+  "t" : "A"
+}, {
+  "w" : "pretender",
+  "t" : "V"
+}, {
+  "w" : "rodear",
+  "t" : "V"
+}, {
+  "w" : "breve",
+  "t" : "A"
+}, {
+  "w" : "pocas",
+  "t" : "T"
+}, {
+  "w" : "prestar",
+  "t" : "V"
+}, {
+  "w" : "Felipe",
+  "t" : "M"
+}, {
+  "w" : "escuela",
+  "t" : "N"
+}, {
+  "w" : "convento",
+  "t" : "N"
+}, {
+  "w" : "diablo",
+  "t" : "N"
+}, {
+  "w" : "paseo",
+  "t" : "N"
+}, {
+  "w" : "moderno",
+  "t" : "A"
+}, {
+  "w" : "resultado",
+  "t" : "N"
+}, {
+  "w" : "siete",
+  "t" : "T"
+}, {
+  "w" : "elegante",
+  "t" : "A"
+}, {
+  "w" : "celebrar",
+  "t" : "V"
+}, {
+  "w" : "prometer",
+  "t" : "V"
+}, {
+  "w" : "grado",
+  "t" : "N"
+}, {
+  "w" : "aprovechar",
+  "t" : "V"
+}, {
+  "w" : "demostrar",
+  "t" : "V"
+}, {
+  "w" : "cesar",
+  "t" : "V"
+}, {
+  "w" : "capítulo",
+  "t" : "N"
+}, {
+  "w" : "tristeza",
+  "t" : "N"
+}, {
+  "w" : "cargo",
+  "t" : "N"
+}, {
+  "w" : "peso",
+  "t" : "N"
+}, {
+  "w" : "crecer",
+  "t" : "V"
+}, {
+  "w" : "sacerdote",
+  "t" : "N"
+}, {
+  "w" : "vosotros",
+  "t" : "N"
+}, {
+  "w" : "nada",
+  "t" : "D"
+}, {
+  "w" : "horrible",
+  "t" : "A"
+}, {
+  "w" : "encerrar",
+  "t" : "V"
+}, {
+  "w" : "daño",
+  "t" : "N"
+}, {
+  "w" : "conmigo",
+  "t" : "N"
+}, {
+  "w" : "hombre",
+  "t" : "I"
+}, {
+  "w" : "defender",
+  "t" : "V"
+}, {
+  "w" : "poesía",
+  "t" : "N"
+}, {
+  "w" : "cualquiera",
+  "t" : "O"
+}, {
+  "w" : "cien",
+  "t" : "T"
+}, {
+  "w" : "hambre",
+  "t" : "N"
+}, {
+  "w" : "capital",
+  "t" : "N"
+}, {
+  "w" : "empresa",
+  "t" : "N"
+}, {
+  "w" : "distinguir",
+  "t" : "V"
+}, {
+  "w" : "felicidad",
+  "t" : "N"
+}, {
+  "w" : "sorpresa",
+  "t" : "N"
+}, {
+  "w" : "verso",
+  "t" : "N"
+}, {
+  "w" : "cruel",
+  "t" : "A"
+}, {
+  "w" : "ayudar",
+  "t" : "V"
+}, {
+  "w" : "deber",
+  "t" : "N"
+}, {
+  "w" : "través",
+  "t" : "N"
+}, {
+  "w" : "pierna",
+  "t" : "N"
+}, {
+  "w" : "acento",
+  "t" : "N"
+}, {
+  "w" : "medio",
+  "t" : "T"
+}, {
+  "w" : "doce",
+  "t" : "T"
+}, {
+  "w" : "figurar",
+  "t" : "V"
+}, {
+  "w" : "estudiar",
+  "t" : "V"
+}, {
+  "w" : "matrimonio",
+  "t" : "N"
+}, {
+  "w" : "pasear",
+  "t" : "V"
+}, {
+  "w" : "adquirir",
+  "t" : "V"
+}, {
+  "w" : "magnífico",
+  "t" : "A"
+}, {
+  "w" : "aumentar",
+  "t" : "V"
+}, {
+  "w" : "pecado",
+  "t" : "N"
+}, {
+  "w" : "débil",
+  "t" : "A"
+}, {
+  "w" : "Sevilla",
+  "t" : "M"
+}, {
+  "w" : "comida",
+  "t" : "N"
+}, {
+  "w" : "visitar",
+  "t" : "V"
+}, {
+  "w" : "oficio",
+  "t" : "N"
+}, {
+  "w" : "risa",
+  "t" : "N"
+}, {
+  "w" : "arrastrar",
+  "t" : "V"
+}, {
+  "w" : "emoción",
+  "t" : "N"
+}, {
+  "w" : "remedio",
+  "t" : "N"
+}, {
+  "w" : "relaciones",
+  "t" : "N"
+}, {
+  "w" : "cariño",
+  "t" : "N"
+}, {
+  "w" : "resto",
+  "t" : "N"
+}, {
+  "w" : "entusiasmo",
+  "t" : "N"
+}, {
+  "w" : "millón",
+  "t" : "N"
+}, {
+  "w" : "frío",
+  "t" : "A"
+}, {
+  "w" : "pieza",
+  "t" : "N"
+}, {
+  "w" : "casar",
+  "t" : "V"
+}, {
+  "w" : "población",
+  "t" : "N"
+}, {
+  "w" : "saludar",
+  "t" : "V"
+}, {
+  "w" : "iglesia",
+  "t" : "M"
+}, {
+  "w" : "apartar",
+  "t" : "V"
+}, {
+  "w" : "nueva",
+  "t" : "A"
+}, {
+  "w" : "estado",
+  "t" : "M"
+}, {
+  "w" : "precioso",
+  "t" : "A"
+}, {
+  "w" : "probar",
+  "t" : "V"
+}, {
+  "w" : "corto",
+  "t" : "A"
+}, {
+  "w" : "Santo",
+  "t" : "M"
+}, {
+  "w" : "componer",
+  "t" : "V"
+}, {
+  "w" : "torno",
+  "t" : "N"
+}, {
+  "w" : "serio",
+  "t" : "A"
+}, {
+  "w" : "dominar",
+  "t" : "V"
+}, {
+  "w" : "escrito",
+  "t" : "A"
+}, {
+  "w" : "completamente",
+  "t" : "D"
+}, {
+  "w" : "perdonar",
+  "t" : "V"
+}, {
+  "w" : "carrera",
+  "t" : "N"
+}, {
+  "w" : "esposo",
+  "t" : "N"
+}, {
+  "w" : "misterio",
+  "t" : "N"
+}, {
+  "w" : "ángel",
+  "t" : "N"
+}, {
+  "w" : "madera",
+  "t" : "N"
+}, {
+  "w" : "materia",
+  "t" : "N"
+}, {
+  "w" : "tres",
+  "t" : "O"
+}, {
+  "w" : "proseguir",
+  "t" : "V"
+}, {
+  "w" : "estrella",
+  "t" : "N"
+}, {
+  "w" : "fijo",
+  "t" : "A"
+}, {
+  "w" : "periódico",
+  "t" : "N"
+}, {
+  "w" : "fino",
+  "t" : "A"
+}, {
+  "w" : "extraordinario",
+  "t" : "A"
+}, {
+  "w" : "religión",
+  "t" : "N"
+}, {
+  "w" : "non",
+  "t" : "M"
+}, {
+  "w" : "do",
+  "t" : "M"
+}, {
+  "w" : "estilo",
+  "t" : "N"
+}, {
+  "w" : "prueba",
+  "t" : "N"
+}, {
+  "w" : "revelar",
+  "t" : "V"
+}, {
+  "w" : "imaginación",
+  "t" : "N"
+}, {
+  "w" : "miserable",
+  "t" : "A"
+}, {
+  "w" : "canto",
+  "t" : "N"
+}, {
+  "w" : "durar",
+  "t" : "V"
+}, {
+  "w" : "aguardar",
+  "t" : "V"
+}, {
+  "w" : "interior",
+  "t" : "N"
+}, {
+  "w" : "atrás",
+  "t" : "D"
+}, {
+  "w" : "partida",
+  "t" : "N"
+}, {
+  "w" : "brillante",
+  "t" : "A"
+}, {
+  "w" : "error",
+  "t" : "N"
+}, {
+  "w" : "ingenio",
+  "t" : "N"
+}, {
+  "w" : "establecer",
+  "t" : "V"
+}, {
+  "w" : "cantidad",
+  "t" : "N"
+}, {
+  "w" : "vender",
+  "t" : "V"
+}, {
+  "w" : "pedazo",
+  "t" : "N"
+}, {
+  "w" : "luna",
+  "t" : "N"
+}, {
+  "w" : "Ana",
+  "t" : "M"
+}, {
+  "w" : "ignorar",
+  "t" : "V"
+}, {
+  "w" : "expresar",
+  "t" : "V"
+}, {
+  "w" : "orgullo",
+  "t" : "N"
+}, {
+  "w" : "doncella",
+  "t" : "N"
+}, {
+  "w" : "justo",
+  "t" : "A"
+}, {
+  "w" : "habitante",
+  "t" : "N"
+}, {
+  "w" : "punta",
+  "t" : "N"
+}, {
+  "w" : "político",
+  "t" : "N"
+}, {
+  "w" : "triunfo",
+  "t" : "N"
+}, {
+  "w" : "hermosura",
+  "t" : "N"
+}, {
+  "w" : "medida",
+  "t" : "N"
+}, {
+  "w" : "impedir",
+  "t" : "V"
+}, {
+  "w" : "cuarto",
+  "t" : "A"
+}, {
+  "w" : "pluma",
+  "t" : "N"
+}, {
+  "w" : "nariz",
+  "t" : "N"
+}, {
+  "w" : "común",
+  "t" : "A"
+}, {
+  "w" : "juez",
+  "t" : "N"
+}, {
+  "w" : "comercio",
+  "t" : "N"
+}, {
+  "w" : "dificultad",
+  "t" : "N"
+}, {
+  "w" : "arrancar",
+  "t" : "V"
+}, {
+  "w" : "as",
+  "t" : "O"
+}, {
+  "w" : "ala",
+  "t" : "N"
+}, {
+  "w" : "miseria",
+  "t" : "N"
+}, {
+  "w" : "ancho",
+  "t" : "A"
+}, {
+  "w" : "media",
+  "t" : "T"
+}, {
+  "w" : "lector",
+  "t" : "N"
+}, {
+  "w" : "sospechar",
+  "t" : "V"
+}, {
+  "w" : "suya",
+  "t" : "T"
+}, {
+  "w" : "numeroso",
+  "t" : "A"
+}, {
+  "w" : "descender",
+  "t" : "V"
+}, {
+  "w" : "salud",
+  "t" : "N"
+}, {
+  "w" : "lucha",
+  "t" : "N"
+}, {
+  "w" : "distinto",
+  "t" : "A"
+}, {
+  "w" : "lecho",
+  "t" : "N"
+}, {
+  "w" : "cerrado",
+  "t" : "A"
+}, {
+  "w" : "dirección",
+  "t" : "N"
+}, {
+  "w" : "fruto",
+  "t" : "N"
+}, {
+  "w" : "publicar",
+  "t" : "V"
+}, {
+  "w" : "piel",
+  "t" : "N"
+}, {
+  "w" : "criatura",
+  "t" : "N"
+}, {
+  "w" : "obstante",
+  "t" : "A"
+}, {
+  "w" : "respecto",
+  "t" : "N"
+}, {
+  "w" : "plan",
+  "t" : "N"
+}, {
+  "w" : "corresponder",
+  "t" : "V"
+}, {
+  "w" : "recorrer",
+  "t" : "V"
+}, {
+  "w" : "inspirar",
+  "t" : "V"
+}, {
+  "w" : "multitud",
+  "t" : "N"
+}, {
+  "w" : "talento",
+  "t" : "N"
+}, {
+  "w" : "propio",
+  "t" : "T"
+}, {
+  "w" : "aventura",
+  "t" : "N"
+}, {
+  "w" : "singular",
+  "t" : "A"
+}, {
+  "w" : "aquél",
+  "t" : "O"
+}, {
+  "w" : "anunciar",
+  "t" : "V"
+}, {
+  "w" : "desconocido",
+  "t" : "A"
+}, {
+  "w" : "adivinar",
+  "t" : "V"
+}, {
+  "w" : "ciertas",
+  "t" : "T"
+}, {
+  "w" : "fama",
+  "t" : "N"
+}, {
+  "w" : "asistir",
+  "t" : "V"
+}, {
+  "w" : "culpa",
+  "t" : "N"
+}, {
+  "w" : "enamorar",
+  "t" : "V"
+}, {
+  "w" : "imaginar",
+  "t" : "V"
+}, {
+  "w" : "fresco",
+  "t" : "A"
+}, {
+  "w" : "excelente",
+  "t" : "A"
+}, {
+  "w" : "gastar",
+  "t" : "V"
+}, {
+  "w" : "mérito",
+  "t" : "N"
+}, {
+  "w" : "delicado",
+  "t" : "A"
+}, {
+  "w" : "inútil",
+  "t" : "A"
+}, {
+  "w" : "drama",
+  "t" : "N"
+}, {
+  "w" : "absoluto",
+  "t" : "A"
+}, {
+  "w" : "facultad",
+  "t" : "N"
+}, {
+  "w" : "Pablo",
+  "t" : "M"
+}, {
+  "w" : "aprender",
+  "t" : "V"
+}, {
+  "w" : "original",
+  "t" : "A"
+}, {
+  "w" : "curioso",
+  "t" : "A"
+}, {
+  "w" : "patio",
+  "t" : "N"
+}, {
+  "w" : "quizá",
+  "t" : "D"
+}, {
+  "w" : "artículo",
+  "t" : "N"
+}, {
+  "w" : "colores",
+  "t" : "N"
+}, {
+  "w" : "elemento",
+  "t" : "N"
+}, {
+  "w" : "alejar",
+  "t" : "V"
+}, {
+  "w" : "pocos",
+  "t" : "O"
+}, {
+  "w" : "rodilla",
+  "t" : "N"
+}, {
+  "w" : "planta",
+  "t" : "N"
+}, {
+  "w" : "balcón",
+  "t" : "N"
+}, {
+  "w" : "consecuencia",
+  "t" : "N"
+}, {
+  "w" : "destino",
+  "t" : "N"
+}, {
+  "w" : "resolver",
+  "t" : "V"
+}, {
+  "w" : "menudo",
+  "t" : "A"
+}, {
+  "w" : "constituir",
+  "t" : "V"
+}, {
+  "w" : "jurar",
+  "t" : "V"
+}, {
+  "w" : "significar",
+  "t" : "V"
+}, {
+  "w" : "amante",
+  "t" : "N"
+}, {
+  "w" : "dispuesto",
+  "t" : "A"
+}, {
+  "w" : "consistir",
+  "t" : "V"
+}, {
+  "w" : "monte",
+  "t" : "N"
+}, {
+  "w" : "tender",
+  "t" : "V"
+}, {
+  "w" : "satisfecho",
+  "t" : "A"
+}, {
+  "w" : "semana",
+  "t" : "N"
+}, {
+  "w" : "mejores",
+  "t" : "A"
+}, {
+  "w" : "muro",
+  "t" : "N"
+}, {
+  "w" : "inclinar",
+  "t" : "V"
+}, {
+  "w" : "sagrado",
+  "t" : "A"
+}, {
+  "w" : "artista",
+  "t" : "N"
+}, {
+  "w" : "cólera",
+  "t" : "N"
+}, {
+  "w" : "tropa",
+  "t" : "N"
+}, {
+  "w" : "terror",
+  "t" : "N"
+}, {
+  "w" : "idioma",
+  "t" : "N"
+}, {
+  "w" : "despedir",
+  "t" : "V"
+}, {
+  "w" : "demonio",
+  "t" : "N"
+}, {
+  "w" : "razones",
+  "t" : "N"
+}, {
+  "w" : "simple",
+  "t" : "A"
+}, {
+  "w" : "pájaro",
+  "t" : "N"
+}, {
+  "w" : "nervioso",
+  "t" : "A"
+}, {
+  "w" : "ésta",
+  "t" : "O"
+}, {
+  "w" : "admirable",
+  "t" : "A"
+}, {
+  "w" : "todas",
+  "t" : "O"
+}, {
+  "w" : "genio",
+  "t" : "N"
+}, {
+  "w" : "honrado",
+  "t" : "A"
+}, {
+  "w" : "Granada",
+  "t" : "M"
+}, {
+  "w" : "íntimo",
+  "t" : "A"
+}, {
+  "w" : "realizar",
+  "t" : "V"
+}, {
+  "w" : "ambos",
+  "t" : "T"
+}, {
+  "w" : "particular",
+  "t" : "A"
+}, {
+  "w" : "inmediato",
+  "t" : "A"
+}, {
+  "w" : "influencia",
+  "t" : "N"
+}, {
+  "w" : "obedecer",
+  "t" : "V"
+}, {
+  "w" : "escritor",
+  "t" : "N"
+}, {
+  "w" : "principales",
+  "t" : "A"
+}, {
+  "w" : "odio",
+  "t" : "N"
+}, {
+  "w" : "humilde",
+  "t" : "A"
+}, {
+  "w" : "cometer",
+  "t" : "V"
+}, {
+  "w" : "algun",
+  "t" : "T"
+}, {
+  "w" : "individuo",
+  "t" : "N"
+}, {
+  "w" : "soñar",
+  "t" : "V"
+}, {
+  "w" : "Jesús",
+  "t" : "M"
+}, {
+  "w" : "nota",
+  "t" : "N"
+}, {
+  "w" : "Martín",
+  "t" : "M"
+}, {
+  "w" : "batalla",
+  "t" : "N"
+}, {
+  "w" : "resistir",
+  "t" : "V"
+}, {
+  "w" : "villa",
+  "t" : "N"
+}, {
+  "w" : "n",
+  "t" : "N"
+}, {
+  "w" : "soltar",
+  "t" : "V"
+}, {
+  "w" : "gobernador",
+  "t" : "N"
+}, {
+  "w" : "seno",
+  "t" : "N"
+}, {
+  "w" : "pronunciar",
+  "t" : "V"
+}, {
+  "w" : "porvenir",
+  "t" : "N"
+}, {
+  "w" : "concepto",
+  "t" : "N"
+}, {
+  "w" : "salida",
+  "t" : "N"
+}, {
+  "w" : "cuidar",
+  "t" : "V"
+}, {
+  "w" : "ése",
+  "t" : "O"
+}, {
+  "w" : "falso",
+  "t" : "A"
+}, {
+  "w" : "buenos",
+  "t" : "M"
+}, {
+  "w" : "tesoro",
+  "t" : "N"
+}, {
+  "w" : "Lope",
+  "t" : "M"
+}, {
+  "w" : "roca",
+  "t" : "N"
+}, {
+  "w" : "rosa",
+  "t" : "N"
+}, {
+  "w" : "cristiano",
+  "t" : "A"
+}, {
+  "w" : "obtener",
+  "t" : "V"
+}, {
+  "w" : "poco",
+  "t" : "T"
+}, {
+  "w" : "beso",
+  "t" : "N"
+}, {
+  "w" : "asiento",
+  "t" : "N"
+}, {
+  "w" : "continuo",
+  "t" : "A"
+}, {
+  "w" : "silencioso",
+  "t" : "A"
+}, {
+  "w" : "primo",
+  "t" : "N"
+}, {
+  "w" : "Inglaterra",
+  "t" : "M"
+}, {
+  "w" : "propiedad",
+  "t" : "N"
+}, {
+  "w" : "sencillo",
+  "t" : "A"
+}, {
+  "w" : "corriente",
+  "t" : "N"
+}, {
+  "w" : "arreglar",
+  "t" : "V"
+}, {
+  "w" : "edición",
+  "t" : "N"
+}, {
+  "w" : "entendimiento",
+  "t" : "N"
+}, {
+  "w" : "capa",
+  "t" : "N"
+}, {
+  "w" : "ordenar",
+  "t" : "V"
+}, {
+  "w" : "cincuenta",
+  "t" : "T"
+}, {
+  "w" : "proyecto",
+  "t" : "N"
+}, {
+  "w" : "puente",
+  "t" : "N"
+}, {
+  "w" : "frío",
+  "t" : "N"
+}, {
+  "w" : "discurso",
+  "t" : "N"
+}, {
+  "w" : "visita",
+  "t" : "N"
+}, {
+  "w" : "cadáver",
+  "t" : "N"
+}, {
+  "w" : "copa",
+  "t" : "N"
+}, {
+  "w" : "à",
+  "t" : "N"
+}, {
+  "w" : "nombrar",
+  "t" : "V"
+}, {
+  "w" : "pelo",
+  "t" : "N"
+}, {
+  "w" : "diez",
+  "t" : "O"
+}, {
+  "w" : "inmóvil",
+  "t" : "A"
+}, {
+  "w" : "encuentro",
+  "t" : "N"
+}, {
+  "w" : "primera",
+  "t" : "A"
+}, {
+  "w" : "diferencia",
+  "t" : "N"
+}, {
+  "w" : "volar",
+  "t" : "V"
+}, {
+  "w" : "barco",
+  "t" : "N"
+}, {
+  "w" : "interrumpir",
+  "t" : "V"
+}, {
+  "w" : "gracioso",
+  "t" : "A"
+}, {
+  "w" : "violento",
+  "t" : "A"
+}, {
+  "w" : "vela",
+  "t" : "N"
+}, {
+  "w" : "retrato",
+  "t" : "N"
+}, {
+  "w" : "misa",
+  "t" : "N"
+}, {
+  "w" : "descansar",
+  "t" : "V"
+}, {
+  "w" : "locura",
+  "t" : "N"
+}, {
+  "w" : "estancia",
+  "t" : "N"
+}, {
+  "w" : "interesante",
+  "t" : "A"
+}, {
+  "w" : "buque",
+  "t" : "N"
+}, {
+  "w" : "estrecho",
+  "t" : "A"
+}, {
+  "w" : "perfectamente",
+  "t" : "D"
+}, {
+  "w" : "preferir",
+  "t" : "V"
+}, {
+  "w" : "determinar",
+  "t" : "V"
+}, {
+  "w" : "ola",
+  "t" : "N"
+}, {
+  "w" : "caber",
+  "t" : "V"
+}, {
+  "w" : "imponer",
+  "t" : "V"
+}, {
+  "w" : "asomar",
+  "t" : "V"
+}, {
+  "w" : "Castilla",
+  "t" : "M"
+}, {
+  "w" : "s"
+}, {
+  "w" : "preso",
+  "t" : "N"
+}, {
+  "w" : "aquéllos",
+  "t" : "O"
+}, {
+  "w" : "bonito",
+  "t" : "A"
+}, {
+  "w" : "aires",
+  "t" : "M"
+}, {
+  "w" : "origen",
+  "t" : "N"
+}, {
+  "w" : "especial",
+  "t" : "A"
+}, {
+  "w" : "adelantar",
+  "t" : "V"
+}, {
+  "w" : "calma",
+  "t" : "N"
+}, {
+  "w" : "experimentar",
+  "t" : "V"
+}, {
+  "w" : "nacional",
+  "t" : "A"
+}, {
+  "w" : "cristal",
+  "t" : "N"
+}, {
+  "w" : "proceder",
+  "t" : "V"
+}, {
+  "w" : "mente",
+  "t" : "N"
+}, {
+  "w" : "pintar",
+  "t" : "V"
+}, {
+  "w" : "agitar",
+  "t" : "V"
+}, {
+  "w" : "ciego",
+  "t" : "A"
+}, {
+  "w" : "robar",
+  "t" : "V"
+}, {
+  "w" : "besar",
+  "t" : "V"
+}, {
+  "w" : "herir",
+  "t" : "V"
+}, {
+  "w" : "guardia",
+  "t" : "N"
+}, {
+  "w" : "barba",
+  "t" : "N"
+}, {
+  "w" : "Clara",
+  "t" : "M"
+}, {
+  "w" : "m",
+  "t" : "M"
+}, {
+  "w" : "afecto",
+  "t" : "N"
+}, {
+  "w" : "casado",
+  "t" : "A"
+}, {
+  "w" : "tribunal",
+  "t" : "N"
+}, {
+  "w" : "perseguir",
+  "t" : "V"
+}, {
+  "w" : "diferente",
+  "t" : "A"
+}, {
+  "w" : "ruina",
+  "t" : "N"
+}, {
+  "w" : "sal",
+  "t" : "N"
+}, {
+  "w" : "ardiente",
+  "t" : "A"
+}, {
+  "w" : "doctrina",
+  "t" : "N"
+}, {
+  "w" : "rápido",
+  "t" : "A"
+}, {
+  "w" : "as",
+  "t" : "N"
+}, {
+  "w" : "rincón",
+  "t" : "N"
+}, {
+  "w" : "vergüenza",
+  "t" : "N"
+}, {
+  "w" : "intención",
+  "t" : "N"
+}, {
+  "w" : "fundar",
+  "t" : "V"
+}, {
+  "w" : "arco",
+  "t" : "N"
+}, {
+  "w" : "versar",
+  "t" : "V"
+}, {
+  "w" : "mejilla",
+  "t" : "N"
+}, {
+  "w" : "O",
+  "t" : "C"
+}, {
+  "w" : "examinar",
+  "t" : "V"
+}, {
+  "w" : "generoso",
+  "t" : "A"
+}, {
+  "w" : "capitulo",
+  "t" : "N"
+}, {
+  "w" : "sano",
+  "t" : "A"
+}, {
+  "w" : "únicamente",
+  "t" : "D"
+}, {
+  "w" : "palo",
+  "t" : "N"
+}, {
+  "w" : "dedicar",
+  "t" : "V"
+}, {
+  "w" : "lluvia",
+  "t" : "N"
+}, {
+  "w" : "internet",
+  "t" : "M"
+}, {
+  "w" : "historia",
+  "t" : "M"
+}, {
+  "w" : "exigir",
+  "t" : "V"
+}, {
+  "w" : "gobierno",
+  "t" : "M"
+}, {
+  "w" : "perfecto",
+  "t" : "A"
+}, {
+  "w" : "víctima",
+  "t" : "N"
+}, {
+  "w" : "tipo",
+  "t" : "N"
+}, {
+  "w" : "cocina",
+  "t" : "N"
+}, {
+  "w" : "caja",
+  "t" : "N"
+}, {
+  "w" : "cruz",
+  "t" : "N"
+}, {
+  "w" : "limpio",
+  "t" : "A"
+}, {
+  "w" : "emprender",
+  "t" : "V"
+}, {
+  "w" : "suave",
+  "t" : "A"
+}, {
+  "w" : "actitud",
+  "t" : "N"
+}, {
+  "w" : "menos",
+  "t" : "P"
+}, {
+  "w" : "polvo",
+  "t" : "N"
+}, {
+  "w" : "conceder",
+  "t" : "V"
+}, {
+  "w" : "conducta",
+  "t" : "N"
+}, {
+  "w" : "tomo",
+  "t" : "N"
+}, {
+  "w" : "salvaje",
+  "t" : "A"
+}, {
+  "w" : "repente",
+  "t" : "N"
+}, {
+  "w" : "prisa",
+  "t" : "N"
+}, {
+  "w" : "venganza",
+  "t" : "N"
+}, {
+  "w" : "vapor",
+  "t" : "N"
+}, {
+  "w" : "bolsillo",
+  "t" : "N"
+}, {
+  "w" : "región",
+  "t" : "N"
+}, {
+  "w" : "derecho",
+  "t" : "A"
+}, {
+  "w" : "juntar",
+  "t" : "V"
+}, {
+  "w" : "experiencia",
+  "t" : "N"
+}, {
+  "w" : "elevar",
+  "t" : "V"
+}, {
+  "w" : "á",
+  "t" : "A"
+}, {
+  "w" : "frecuencia",
+  "t" : "N"
+}, {
+  "w" : "nieve",
+  "t" : "N"
+}, {
+  "w" : "sobrino",
+  "t" : "N"
+}, {
+  "w" : "obrar",
+  "t" : "V"
+}, {
+  "w" : "obligado",
+  "t" : "A"
+}, {
+  "w" : "fiebre",
+  "t" : "N"
+}, {
+  "w" : "lectura",
+  "t" : "N"
+}, {
+  "w" : "inglés",
+  "t" : "A"
+}, {
+  "w" : "espectáculo",
+  "t" : "N"
+}, {
+  "w" : "viajero",
+  "t" : "N"
+}, {
+  "w" : "masa",
+  "t" : "N"
+}, {
+  "w" : "piso",
+  "t" : "N"
+}, {
+  "w" : "pesado",
+  "t" : "A"
+}, {
+  "w" : "grandeza",
+  "t" : "N"
+}, {
+  "w" : "padecer",
+  "t" : "V"
+}, {
+  "w" : "luchar",
+  "t" : "V"
+}, {
+  "w" : "castigo",
+  "t" : "N"
+}, {
+  "w" : "diente",
+  "t" : "N"
+}, {
+  "w" : "cuarenta",
+  "t" : "T"
+}, {
+  "w" : "sorprender",
+  "t" : "V"
+}, {
+  "w" : "sacrificio",
+  "t" : "N"
+}, {
+  "w" : "toro",
+  "t" : "N"
+}, {
+  "w" : "alcalde",
+  "t" : "N"
+}, {
+  "w" : "discípulo",
+  "t" : "N"
+}, {
+  "w" : "civil",
+  "t" : "A"
+}, {
+  "w" : "asombro",
+  "t" : "N"
+}, {
+  "w" : "seguridad",
+  "t" : "N"
+}, {
+  "w" : "elevado",
+  "t" : "A"
+}, {
+  "w" : "popular",
+  "t" : "A"
+}, {
+  "w" : "consentir",
+  "t" : "V"
+}, {
+  "w" : "novela",
+  "t" : "N"
+}, {
+  "w" : "impresión",
+  "t" : "N"
+}, {
+  "w" : "altar",
+  "t" : "N"
+}, {
+  "w" : "enteramente",
+  "t" : "D"
+}, {
+  "w" : "f",
+  "t" : "N"
+}, {
+  "w" : "cuento",
+  "t" : "N"
+}, {
+  "w" : "así",
+  "t" : "A"
+}, {
+  "w" : "ayer",
+  "t" : "D"
+}, {
+  "w" : "vaso",
+  "t" : "N"
+}, {
+  "w" : "actividad",
+  "t" : "N"
+}, {
+  "w" : "límite",
+  "t" : "N"
+}, {
+  "w" : "ejercer",
+  "t" : "V"
+}, {
+  "w" : "oficial",
+  "t" : "A"
+}, {
+  "w" : "soledad",
+  "t" : "N"
+}, {
+  "w" : "cárcel",
+  "t" : "N"
+}, {
+  "w" : "capilla",
+  "t" : "N"
+}, {
+  "w" : "horizonte",
+  "t" : "N"
+}, {
+  "w" : "victoria",
+  "t" : "N"
+}, {
+  "w" : "castigar",
+  "t" : "V"
+}, {
+  "w" : "sabio",
+  "t" : "A"
+}, {
+  "w" : "literario",
+  "t" : "A"
+}, {
+  "w" : "rama",
+  "t" : "N"
+}, {
+  "w" : "derecha",
+  "t" : "N"
+}, {
+  "w" : "ceder",
+  "t" : "V"
+}, {
+  "w" : "crimen",
+  "t" : "N"
+}, {
+  "w" : "progreso",
+  "t" : "N"
+}, {
+  "w" : "defensa",
+  "t" : "N"
+}, {
+  "w" : "real",
+  "t" : "M"
+}, {
+  "w" : "viuda",
+  "t" : "N"
+}, {
+  "w" : "admiración",
+  "t" : "N"
+}, {
+  "w" : "plato",
+  "t" : "N"
+}, {
+  "w" : "encender",
+  "t" : "V"
+}, {
+  "w" : "cacique",
+  "t" : "N"
+}, {
+  "w" : "Córdoba",
+  "t" : "M"
+}, {
+  "w" : "respetar",
+  "t" : "V"
+}, {
+  "w" : "conquista",
+  "t" : "N"
+}, {
+  "w" : "Andrés",
+  "t" : "M"
+}, {
+  "w" : "arroyo",
+  "t" : "N"
+}, {
+  "w" : "alguien",
+  "t" : "O"
+}, {
+  "w" : "energía",
+  "t" : "N"
+}, {
+  "w" : "playa",
+  "t" : "N"
+}, {
+  "w" : "ordinario",
+  "t" : "A"
+}, {
+  "w" : "agradable",
+  "t" : "A"
+}, {
+  "w" : "fraile",
+  "t" : "N"
+}, {
+  "w" : "rumor",
+  "t" : "N"
+}, {
+  "w" : "dorado",
+  "t" : "A"
+}, {
+  "w" : "sur",
+  "t" : "N"
+}, {
+  "w" : "Rafael",
+  "t" : "M"
+}, {
+  "w" : "suyos",
+  "t" : "T"
+}, {
+  "w" : "célebre",
+  "t" : "A"
+}, {
+  "w" : "amoroso",
+  "t" : "A"
+}, {
+  "w" : "respuesta",
+  "t" : "N"
+}, {
+  "w" : "encanto",
+  "t" : "N"
+}, {
+  "w" : "héroe",
+  "t" : "N"
+}, {
+  "w" : "ciertos",
+  "t" : "T"
+}, {
+  "w" : "horror",
+  "t" : "N"
+}, {
+  "w" : "recurso",
+  "t" : "N"
+}, {
+  "w" : "invierno",
+  "t" : "N"
+}, {
+  "w" : "blanco",
+  "t" : "N"
+}, {
+  "w" : "sé",
+  "t" : "V"
+}, {
+  "w" : "hacienda",
+  "t" : "N"
+}, {
+  "w" : "humor",
+  "t" : "N"
+}, {
+  "w" : "encargar",
+  "t" : "V"
+}, {
+  "w" : "histórico",
+  "t" : "A"
+}, {
+  "w" : "capitán",
+  "t" : "M"
+}, {
+  "w" : "quince",
+  "t" : "T"
+}, {
+  "w" : "columna",
+  "t" : "N"
+}, {
+  "w" : "lentamente",
+  "t" : "D"
+}, {
+  "w" : "rendir",
+  "t" : "V"
+}, {
+  "w" : "situado",
+  "t" : "A"
+}, {
+  "w" : "disposición",
+  "t" : "N"
+}, {
+  "w" : "precio",
+  "t" : "N"
+}, {
+  "w" : "interesar",
+  "t" : "V"
+}, {
+  "w" : "claridad",
+  "t" : "N"
+}, {
+  "w" : "feo",
+  "t" : "A"
+}, {
+  "w" : "llave",
+  "t" : "N"
+}, {
+  "w" : "norte",
+  "t" : "M"
+}, {
+  "w" : "aquella",
+  "t" : "M"
+}, {
+  "w" : "media",
+  "t" : "N"
+}, {
+  "w" : "ventaja",
+  "t" : "N"
+}, {
+  "w" : "Sol",
+  "t" : "M"
+}, {
+  "w" : "baile",
+  "t" : "N"
+}, {
+  "w" : "honra",
+  "t" : "N"
+}, {
+  "w" : "llama",
+  "t" : "N"
+}, {
+  "w" : "disgusto",
+  "t" : "N"
+}, {
+  "w" : "admitir",
+  "t" : "V"
+}, {
+  "w" : "lindo",
+  "t" : "A"
+}, {
+  "w" : "base",
+  "t" : "N"
+}, {
+  "w" : "industria",
+  "t" : "N"
+}, {
+  "w" : "instrumento",
+  "t" : "N"
+}, {
+  "w" : "busca",
+  "t" : "N"
+}, {
+  "w" : "quizás",
+  "t" : "D"
+}, {
+  "w" : "humanidad",
+  "t" : "N"
+}, {
+  "w" : "darle",
+  "t" : "V"
+}, {
+  "w" : "unidos",
+  "t" : "M"
+}, {
+  "w" : "ilustre",
+  "t" : "A"
+}, {
+  "w" : "regla",
+  "t" : "N"
+}, {
+  "w" : "Señora",
+  "t" : "N"
+}, {
+  "w" : "alegrar",
+  "t" : "V"
+}, {
+  "w" : "rogar",
+  "t" : "V"
+}, {
+  "w" : "hogar",
+  "t" : "N"
+}, {
+  "w" : "documento",
+  "t" : "N"
+}, {
+  "w" : "verdaderamente",
+  "t" : "D"
+}, {
+  "w" : "cuantos",
+  "t" : "T"
+}, {
+  "w" : "hierba",
+  "t" : "N"
+}, {
+  "w" : "Vd.",
+  "t" : "M"
+}, {
+  "w" : "bailar",
+  "t" : "V"
+}, {
+  "w" : "nave",
+  "t" : "N"
+}, {
+  "w" : "satisfacción",
+  "t" : "N"
+}, {
+  "w" : "corona",
+  "t" : "N"
+}, {
+  "w" : "de",
+  "t" : "V"
+}, {
+  "w" : "algo",
+  "t" : "D"
+}, {
+  "w" : "Toledo",
+  "t" : "M"
+}, {
+  "w" : "Conde",
+  "t" : "M"
+}, {
+  "w" : "barrio",
+  "t" : "N"
+}, {
+  "w" : "monumento",
+  "t" : "N"
+}, {
+  "w" : "bondad",
+  "t" : "N"
+}, {
+  "w" : "tu",
+  "t" : "O"
+}, {
+  "w" : "Enrique",
+  "t" : "M"
+}, {
+  "w" : "llegada",
+  "t" : "N"
+}, {
+  "w" : "oscuridad",
+  "t" : "N"
+}, {
+  "w" : "mas",
+  "t" : "M"
+}, {
+  "w" : "lástima",
+  "t" : "N"
+}, {
+  "w" : "comunicar",
+  "t" : "V"
+}, {
+  "w" : "resolución",
+  "t" : "N"
+}, {
+  "w" : "virgen",
+  "t" : "M"
+}, {
+  "w" : "tiro",
+  "t" : "N"
+}, {
+  "w" : "carecer",
+  "t" : "V"
+}, {
+  "w" : "Bueno",
+  "t" : "I"
+}, {
+  "w" : "círculo",
+  "t" : "N"
+}, {
+  "w" : "igualmente",
+  "t" : "D"
+}, {
+  "w" : "amable",
+  "t" : "A"
+}, {
+  "w" : "hondo",
+  "t" : "A"
+}, {
+  "w" : "atender",
+  "t" : "V"
+}, {
+  "w" : "paciencia",
+  "t" : "N"
+}, {
+  "w" : "peligroso",
+  "t" : "A"
+}, {
+  "w" : "Roma",
+  "t" : "M"
+}, {
+  "w" : "severo",
+  "t" : "A"
+}, {
+  "w" : "infeliz",
+  "t" : "N"
+}, {
+  "w" : "Cruz",
+  "t" : "M"
+}, {
+  "w" : "bandera",
+  "t" : "N"
+}, {
+  "w" : "doloroso",
+  "t" : "A"
+}, {
+  "w" : "ambos",
+  "t" : "O"
+}, {
+  "w" : "furioso",
+  "t" : "A"
+}, {
+  "w" : "m.",
+  "t" : "T"
+}, {
+  "w" : "culto",
+  "t" : "N"
+}, {
+  "w" : "criada",
+  "t" : "N"
+}, {
+  "w" : "mayo",
+  "t" : "N"
+}, {
+  "w" : "arena",
+  "t" : "N"
+}, {
+  "w" : "harto",
+  "t" : "A"
+}, {
+  "w" : "respirar",
+  "t" : "V"
+}, {
+  "w" : "rápidamente",
+  "t" : "D"
+}, {
+  "w" : "llegado",
+  "t" : "A"
+}, {
+  "w" : "aldea",
+  "t" : "N"
+}, {
+  "w" : "surgir",
+  "t" : "V"
+}, {
+  "w" : "observación",
+  "t" : "N"
+}, {
+  "w" : "campaña",
+  "t" : "N"
+}, {
+  "w" : "abrazar",
+  "t" : "V"
+}, {
+  "w" : "mentira",
+  "t" : "N"
+}, {
+  "w" : "extranjero",
+  "t" : "N"
+}, {
+  "w" : "impulso",
+  "t" : "N"
+}, {
+  "w" : "caridad",
+  "t" : "N"
+}, {
+  "w" : "menos",
+  "t" : "A"
+}, {
+  "w" : "vaya",
+  "t" : "I"
+}, {
+  "w" : "oponer",
+  "t" : "V"
+}, {
+  "w" : "interior",
+  "t" : "A"
+}, {
+  "w" : "tierno",
+  "t" : "A"
+}, {
+  "w" : "dignidad",
+  "t" : "N"
+}, {
+  "w" : "tienda",
+  "t" : "N"
+}, {
+  "w" : "literatura",
+  "t" : "N"
+}, {
+  "w" : "cuerda",
+  "t" : "N"
+}, {
+  "w" : "herida",
+  "t" : "N"
+}, {
+  "w" : "destruir",
+  "t" : "V"
+}, {
+  "w" : "éxito",
+  "t" : "N"
+}, {
+  "w" : "miembro",
+  "t" : "N"
+}, {
+  "w" : "cadena",
+  "t" : "N"
+}, {
+  "w" : "curso",
+  "t" : "N"
+}, {
+  "w" : "sujeto",
+  "t" : "A"
+}, {
+  "w" : "unido",
+  "t" : "A"
+}, {
+  "w" : "primitivo",
+  "t" : "A"
+}, {
+  "w" : "hueso",
+  "t" : "N"
+}, {
+  "w" : "pesetas",
+  "t" : "T"
+}, {
+  "w" : "banco",
+  "t" : "N"
+}, {
+  "w" : "sabio",
+  "t" : "N"
+}, {
+  "w" : "medicamento",
+  "t" : "N"
+}, {
+  "w" : "revolución",
+  "t" : "N"
+}, {
+  "w" : "Claudio",
+  "t" : "M"
+}, {
+  "w" : "trato",
+  "t" : "N"
+}, {
+  "w" : "so",
+  "t" : "M"
+}, {
+  "w" : "conforme",
+  "t" : "A"
+}, {
+  "w" : "verano",
+  "t" : "N"
+}, {
+  "w" : "laguna",
+  "t" : "N"
+}, {
+  "w" : "precisamente",
+  "t" : "D"
+}, {
+  "w" : "obispo",
+  "t" : "N"
+}, {
+  "w" : "cuestión",
+  "t" : "N"
+}, {
+  "w" : "majestad",
+  "t" : "N"
+}, {
+  "w" : "americano",
+  "t" : "A"
+}, {
+  "w" : "treinta",
+  "t" : "T"
+}, {
+  "w" : "desesperado",
+  "t" : "A"
+}, {
+  "w" : "texto",
+  "t" : "N"
+}, {
+  "w" : "rezar",
+  "t" : "V"
+}, {
+  "w" : "oficial",
+  "t" : "N"
+}, {
+  "w" : "acostumbrado",
+  "t" : "A"
+}, {
+  "w" : "supremo",
+  "t" : "A"
+}, {
+  "w" : "desierto",
+  "t" : "N"
+}, {
+  "w" : "envuelto",
+  "t" : "A"
+}, {
+  "w" : "convencer",
+  "t" : "V"
+}, {
+  "w" : "habitar",
+  "t" : "V"
+}, {
+  "w" : "Inés",
+  "t" : "M"
+}, {
+  "w" : "empleado",
+  "t" : "N"
+}, {
+  "w" : "inquietud",
+  "t" : "N"
+}, {
+  "w" : "condesa",
+  "t" : "N"
+}, {
+  "w" : "tropezar",
+  "t" : "V"
+}, {
+  "w" : "maravilloso",
+  "t" : "A"
+}, {
+  "w" : "combate",
+  "t" : "N"
+}, {
+  "w" : "vago",
+  "t" : "A"
+}, {
+  "w" : "europeo",
+  "t" : "A"
+}, {
+  "w" : "humo",
+  "t" : "N"
+}, {
+  "w" : "éstos",
+  "t" : "O"
+}, {
+  "w" : "vestido",
+  "t" : "N"
+}, {
+  "w" : "cerebro",
+  "t" : "N"
+}, {
+  "w" : "ira",
+  "t" : "N"
+}, {
+  "w" : "México",
+  "t" : "M"
+}, {
+  "w" : "romano",
+  "t" : "A"
+}, {
+  "w" : "techo",
+  "t" : "N"
+}, {
+  "w" : "acuerdo",
+  "t" : "N"
+}, {
+  "w" : "testigo",
+  "t" : "N"
+}, {
+  "w" : "cansado",
+  "t" : "A"
+}, {
+  "w" : "dividir",
+  "t" : "V"
+}, {
+  "w" : "crear",
+  "t" : "V"
+}, {
+  "w" : "Pérez",
+  "t" : "M"
+}, {
+  "w" : "filósofo",
+  "t" : "N"
+}, {
+  "w" : "desprecio",
+  "t" : "N"
+}, {
+  "w" : "adiós",
+  "t" : "I"
+}, {
+  "w" : "reinar",
+  "t" : "V"
+}, {
+  "w" : "Juana",
+  "t" : "M"
+}, {
+  "w" : "inocente",
+  "t" : "A"
+}, {
+  "w" : "confuso",
+  "t" : "A"
+}, {
+  "w" : "máquina",
+  "t" : "N"
+}, {
+  "w" : "acá",
+  "t" : "D"
+}, {
+  "w" : "artístico",
+  "t" : "A"
+}, {
+  "w" : "adorar",
+  "t" : "V"
+}, {
+  "w" : "Santiago",
+  "t" : "M"
+}, {
+  "w" : "valiente",
+  "t" : "A"
+}, {
+  "w" : "violencia",
+  "t" : "N"
+}, {
+  "w" : "jornada",
+  "t" : "N"
+}, {
+  "w" : "civilización",
+  "t" : "N"
+}, {
+  "w" : "montar",
+  "t" : "V"
+}, {
+  "w" : "ayuda",
+  "t" : "N"
+}, {
+  "w" : "oculto",
+  "t" : "A"
+}, {
+  "w" : "despacho",
+  "t" : "N"
+}, {
+  "w" : "exponer",
+  "t" : "V"
+}, {
+  "w" : "citado",
+  "t" : "A"
+}, {
+  "w" : "reducir",
+  "t" : "V"
+}, {
+  "w" : "delito",
+  "t" : "N"
+}, {
+  "w" : "atraer",
+  "t" : "V"
+}, {
+  "w" : "oración",
+  "t" : "N"
+}, {
+  "w" : "solitario",
+  "t" : "A"
+}, {
+  "w" : "confiar",
+  "t" : "V"
+}, {
+  "w" : "ave",
+  "t" : "N"
+}, {
+  "w" : "herido",
+  "t" : "A"
+}, {
+  "w" : "catedral",
+  "t" : "N"
+}, {
+  "w" : "pañuelo",
+  "t" : "N"
+}, {
+  "w" : "consuelo",
+  "t" : "N"
+}, {
+  "w" : "vacilar",
+  "t" : "V"
+}, {
+  "w" : "apoyar",
+  "t" : "V"
+}, {
+  "w" : "fenómeno",
+  "t" : "N"
+}, {
+  "w" : "agudo",
+  "t" : "A"
+}, {
+  "w" : "cuantas",
+  "t" : "T"
+}, {
+  "w" : "vicio",
+  "t" : "N"
+}, {
+  "w" : "lujo",
+  "t" : "N"
+}, {
+  "w" : "tornar",
+  "t" : "V"
+}, {
+  "w" : "dato",
+  "t" : "N"
+}, {
+  "w" : "consiguiente",
+  "t" : "A"
+}, {
+  "w" : "establecimiento",
+  "t" : "N"
+}, {
+  "w" : "aplicar",
+  "t" : "V"
+}, {
+  "w" : "pegar",
+  "t" : "V"
+}, {
+  "w" : "sumo",
+  "t" : "A"
+}, {
+  "w" : "abundante",
+  "t" : "A"
+}, {
+  "w" : "viejo",
+  "t" : "N"
+}, {
+  "w" : "detalle",
+  "t" : "N"
+}, {
+  "w" : "estremecer",
+  "t" : "V"
+}, {
+  "w" : "oreja",
+  "t" : "N"
+}, {
+  "w" : "describir",
+  "t" : "V"
+}, {
+  "w" : "enferma",
+  "t" : "N"
+}, {
+  "w" : "agregar",
+  "t" : "V"
+}, {
+  "w" : "dramático",
+  "t" : "A"
+}, {
+  "w" : "tren",
+  "t" : "N"
+}, {
+  "w" : "dichoso",
+  "t" : "A"
+}, {
+  "w" : "seña",
+  "t" : "N"
+}, {
+  "w" : "Gabriel",
+  "t" : "M"
+}, {
+  "w" : "vulgar",
+  "t" : "A"
+}, {
+  "w" : "aliento",
+  "t" : "N"
+}, {
+  "w" : "guerrero",
+  "t" : "N"
+}, {
+  "w" : "Italia",
+  "t" : "M"
+}, {
+  "w" : "fiel",
+  "t" : "A"
+}, {
+  "w" : "milagro",
+  "t" : "N"
+}, {
+  "w" : "glorioso",
+  "t" : "A"
+}, {
+  "w" : "firme",
+  "t" : "A"
+}, {
+  "w" : "auxilio",
+  "t" : "N"
+}, {
+  "w" : "tamaño",
+  "t" : "N"
+}, {
+  "w" : "cargar",
+  "t" : "V"
+}, {
+  "w" : "poético",
+  "t" : "A"
+}, {
+  "w" : "esclavo",
+  "t" : "N"
+}, {
+  "w" : "desnudo",
+  "t" : "A"
+}, {
+  "w" : "imperio",
+  "t" : "N"
+}, {
+  "w" : "dormido",
+  "t" : "A"
+}, {
+  "w" : "lago",
+  "t" : "N"
+}, {
+  "w" : "confundir",
+  "t" : "V"
+}, {
+  "w" : "preso",
+  "t" : "A"
+}, {
+  "w" : "apariencia",
+  "t" : "N"
+}, {
+  "w" : "deposición",
+  "t" : "N"
+}, {
+  "w" : "hábito",
+  "t" : "N"
+}, {
+  "w" : "leve",
+  "t" : "A"
+}, {
+  "w" : "gabinete",
+  "t" : "N"
+}, {
+  "w" : "espejo",
+  "t" : "N"
+}, {
+  "w" : "armado",
+  "t" : "A"
+}, {
+  "w" : "opuesto",
+  "t" : "A"
+}, {
+  "w" : "pintura",
+  "t" : "N"
+}, {
+  "w" : "mortal",
+  "t" : "A"
+}, {
+  "w" : "reparar",
+  "t" : "V"
+}, {
+  "w" : "avisar",
+  "t" : "V"
+}, {
+  "w" : "piedad",
+  "t" : "N"
+}, {
+  "w" : "período",
+  "t" : "N"
+}, {
+  "w" : "inferior",
+  "t" : "A"
+}, {
+  "w" : "concebir",
+  "t" : "V"
+}, {
+  "w" : "profesor",
+  "t" : "N"
+}, {
+  "w" : "vanidad",
+  "t" : "N"
+}, {
+  "w" : "apresurar",
+  "t" : "V"
+}, {
+  "w" : "mismos",
+  "t" : "O"
+}, {
+  "w" : "coronel",
+  "t" : "N"
+}, {
+  "w" : "duro",
+  "t" : "N"
+}, {
+  "w" : "broma",
+  "t" : "N"
+}, {
+  "w" : "solemne",
+  "t" : "A"
+}, {
+  "w" : "posición",
+  "t" : "N"
+}, {
+  "w" : "testimonio",
+  "t" : "N"
+}, {
+  "w" : "ladrón",
+  "t" : "N"
+}, {
+  "w" : "gota",
+  "t" : "N"
+}, {
+  "w" : "estudiante",
+  "t" : "N"
+}, {
+  "w" : "V",
+  "t" : "M"
+}, {
+  "w" : "gana",
+  "t" : "N"
+}, {
+  "w" : "conjunto",
+  "t" : "N"
+}, {
+  "w" : "proporcionar",
+  "t" : "V"
+}, {
+  "w" : "calidad",
+  "t" : "N"
+}, {
+  "w" : "especialmente",
+  "t" : "D"
+}, {
+  "w" : "apoderar",
+  "t" : "V"
+}, {
+  "w" : "feroz",
+  "t" : "A"
+}, {
+  "w" : "instinto",
+  "t" : "N"
+}, {
+  "w" : "intereses",
+  "t" : "N"
+}, {
+  "w" : "gasto",
+  "t" : "N"
+}, {
+  "w" : "abandonado",
+  "t" : "A"
+}, {
+  "w" : "pérdida",
+  "t" : "N"
+}, {
+  "w" : "pastor",
+  "t" : "N"
+}, {
+  "w" : "redondo",
+  "t" : "A"
+}, {
+  "w" : "papá",
+  "t" : "N"
+}, {
+  "w" : "abismo",
+  "t" : "N"
+}, {
+  "w" : "conveniente",
+  "t" : "A"
+}, {
+  "w" : "suficiente",
+  "t" : "A"
+}, {
+  "w" : "misma",
+  "t" : "O"
+}, {
+  "w" : "hotel",
+  "t" : "N"
+}, {
+  "w" : "sacudir",
+  "t" : "V"
+}, {
+  "w" : "semejante",
+  "t" : "T"
+}, {
+  "w" : "seda",
+  "t" : "N"
+}, {
+  "w" : "ausencia",
+  "t" : "N"
+}, {
+  "w" : "lenguaje",
+  "t" : "N"
+}, {
+  "w" : "emperador",
+  "t" : "N"
+}, {
+  "w" : "apreciar",
+  "t" : "V"
+}, {
+  "w" : "arder",
+  "t" : "V"
+}, {
+  "w" : "introducir",
+  "t" : "V"
+}, {
+  "w" : "ajeno",
+  "t" : "A"
+}, {
+  "w" : "recobrar",
+  "t" : "V"
+}, {
+  "w" : "Jaime",
+  "t" : "M"
+}, {
+  "w" : "educación",
+  "t" : "N"
+}, {
+  "w" : "producto",
+  "t" : "N"
+}, {
+  "w" : "Elena",
+  "t" : "M"
+}, {
+  "w" : "república",
+  "t" : "M"
+}, {
+  "w" : "encendido",
+  "t" : "A"
+}, {
+  "w" : "derramar",
+  "t" : "V"
+}, {
+  "w" : "huevo",
+  "t" : "N"
+}, {
+  "w" : "muestra",
+  "t" : "N"
+}, {
+  "w" : "izquierda",
+  "t" : "N"
+}, {
+  "w" : "dominio",
+  "t" : "N"
+}, {
+  "w" : "capricho",
+  "t" : "N"
+}, {
+  "w" : "modelo",
+  "t" : "N"
+}, {
+  "w" : "regresar",
+  "t" : "V"
+}, {
+  "w" : "apretar",
+  "t" : "V"
+}, {
+  "w" : "moneda",
+  "t" : "N"
+}, {
+  "w" : "supuesto",
+  "t" : "A"
+}, {
+  "w" : "relación",
+  "t" : "N"
+}, {
+  "w" : "cuán",
+  "t" : "D"
+}, {
+  "w" : "territorio",
+  "t" : "N"
+}, {
+  "w" : "escaso",
+  "t" : "A"
+}, {
+  "w" : "carga",
+  "t" : "N"
+}, {
+  "w" : "tuyo",
+  "t" : "O"
+}, {
+  "w" : "mezclar",
+  "t" : "V"
+}, {
+  "w" : "fácilmente",
+  "t" : "D"
+}, {
+  "w" : "traducción",
+  "t" : "N"
+}, {
+  "w" : "contribuir",
+  "t" : "V"
+}, {
+  "w" : "citar",
+  "t" : "V"
+}, {
+  "w" : "montes",
+  "t" : "N"
+}, {
+  "w" : "satisfacer",
+  "t" : "V"
+}, {
+  "w" : "agradecer",
+  "t" : "V"
+}, {
+  "w" : "azúcar",
+  "t" : "N"
+}, {
+  "w" : "tema",
+  "t" : "N"
+}, {
+  "w" : "ambas",
+  "t" : "T"
+}, {
+  "w" : "colegio",
+  "t" : "N"
+}, {
+  "w" : "Domingo",
+  "t" : "M"
+}, {
+  "w" : "fecha",
+  "t" : "N"
+}, {
+  "w" : "realmente",
+  "t" : "D"
+}, {
+  "w" : "rodar",
+  "t" : "V"
+}, {
+  "w" : "promesa",
+  "t" : "N"
+}, {
+  "w" : "hija",
+  "t" : "N"
+}, {
+  "w" : "eh",
+  "t" : "I"
+}, {
+  "w" : "mando",
+  "t" : "N"
+}, {
+  "w" : "mayor",
+  "t" : "N"
+}, {
+  "w" : "Rodrigo",
+  "t" : "M"
+}, {
+  "w" : "universal",
+  "t" : "A"
+}, {
+  "w" : "director",
+  "t" : "N"
+}, {
+  "w" : "celos",
+  "t" : "N"
+}, {
+  "w" : "gobernar",
+  "t" : "V"
+}, {
+  "w" : "prudente",
+  "t" : "A"
+}, {
+  "w" : "consideración",
+  "t" : "N"
+}, {
+  "w" : "visto",
+  "t" : "A"
+}, {
+  "w" : "pobres",
+  "t" : "N"
+}, {
+  "w" : "orar",
+  "t" : "V"
+}, {
+  "w" : "falda",
+  "t" : "N"
+}, {
+  "w" : "carcajada",
+  "t" : "N"
+}, {
+  "w" : "maldito",
+  "t" : "A"
+}, {
+  "w" : "síntoma",
+  "t" : "N"
+}, {
+  "w" : "duque",
+  "t" : "M"
+}, {
+  "w" : "boda",
+  "t" : "N"
+}, {
+  "w" : "militar",
+  "t" : "A"
+}, {
+  "w" : "fray",
+  "t" : "M"
+}, {
+  "w" : "reloj",
+  "t" : "N"
+}, {
+  "w" : "escudo",
+  "t" : "N"
+}, {
+  "w" : "aposento",
+  "t" : "N"
+}, {
+  "w" : "marinero",
+  "t" : "N"
+}, {
+  "w" : "lento",
+  "t" : "A"
+}, {
+  "w" : "Lucía",
+  "t" : "M"
+}, {
+  "w" : "comedor",
+  "t" : "N"
+}, {
+  "w" : "pregunta",
+  "t" : "N"
+}, {
+  "w" : "lazo",
+  "t" : "N"
+}, {
+  "w" : "ciento",
+  "t" : "N"
+}, {
+  "w" : "Gil",
+  "t" : "M"
+}, {
+  "w" : "desgraciado",
+  "t" : "A"
+}, {
+  "w" : "medio",
+  "t" : "O"
+}, {
+  "w" : "rudo",
+  "t" : "A"
+}, {
+  "w" : "vera",
+  "t" : "N"
+}, {
+  "w" : "caña",
+  "t" : "N"
+}, {
+  "w" : "extraña",
+  "t" : "A"
+}, {
+  "w" : "mar",
+  "t" : "M"
+}, {
+  "w" : "criados",
+  "t" : "A"
+}, {
+  "w" : "católico",
+  "t" : "A"
+}, {
+  "w" : "libres",
+  "t" : "A"
+}, {
+  "w" : "generalmente",
+  "t" : "D"
+}, {
+  "w" : "atacar",
+  "t" : "V"
+}, {
+  "w" : "melancólico",
+  "t" : "A"
+}, {
+  "w" : "alrededor",
+  "t" : "D"
+}, {
+  "w" : "ventura",
+  "t" : "N"
+}, {
+  "w" : "amenazar",
+  "t" : "V"
+}, {
+  "w" : "pelear",
+  "t" : "V"
+}, {
+  "w" : "cargado",
+  "t" : "A"
+}, {
+  "w" : "cobrar",
+  "t" : "V"
+}, {
+  "w" : "Colón",
+  "t" : "M"
+}, {
+  "w" : "princesa",
+  "t" : "N"
+}, {
+  "w" : "levantarse",
+  "t" : "V"
+}, {
+  "w" : "elegir",
+  "t" : "V"
+}, {
+  "w" : "bestia",
+  "t" : "N"
+}, {
+  "w" : "enfermo",
+  "t" : "A"
+}, {
+  "w" : "profundamente",
+  "t" : "D"
+}, {
+  "w" : "fila",
+  "t" : "N"
+}, {
+  "w" : "debilidad",
+  "t" : "N"
+}, {
+  "w" : "tela",
+  "t" : "N"
+}, {
+  "w" : "Magdalena",
+  "t" : "M"
+}, {
+  "w" : "Tomás",
+  "t" : "M"
+}, {
+  "w" : "fiera",
+  "t" : "N"
+}, {
+  "w" : "estimar",
+  "t" : "V"
+}, {
+  "w" : "modesto",
+  "t" : "A"
+}, {
+  "w" : "ademán",
+  "t" : "N"
+}, {
+  "w" : "grueso",
+  "t" : "A"
+}, {
+  "w" : "penas",
+  "t" : "N"
+}, {
+  "w" : "percibir",
+  "t" : "V"
+}, {
+  "w" : "sensible",
+  "t" : "A"
+}, {
+  "w" : "mármol",
+  "t" : "N"
+}, {
+  "w" : "hacerse",
+  "t" : "V"
+}, {
+  "w" : "mueble",
+  "t" : "N"
+}, {
+  "w" : "espanto",
+  "t" : "N"
+}, {
+  "w" : "intelectual",
+  "t" : "A"
+}, {
+  "w" : "Nueva",
+  "t" : "M"
+}, {
+  "w" : "muchedumbre",
+  "t" : "N"
+}, {
+  "w" : "Carmen",
+  "t" : "M"
+}, {
+  "w" : "atribuir",
+  "t" : "V"
+}, {
+  "w" : "espantoso",
+  "t" : "A"
+}, {
+  "w" : "antiguas",
+  "t" : "A"
+}, {
+  "w" : "congreso",
+  "t" : "M"
+}, {
+  "w" : "sed",
+  "t" : "N"
+}, {
+  "w" : "indispensable",
+  "t" : "A"
+}, {
+  "w" : "Tierra",
+  "t" : "M"
+}, {
+  "w" : "voto",
+  "t" : "N"
+}, {
+  "w" : "disimular",
+  "t" : "V"
+}, {
+  "w" : "superficie",
+  "t" : "N"
+}, {
+  "w" : "pesar",
+  "t" : "V"
+}, {
+  "w" : "vuestro",
+  "t" : "A"
+}, {
+  "w" : "seguramente",
+  "t" : "D"
+}, {
+  "w" : "empeño",
+  "t" : "N"
+}, {
+  "w" : "roto",
+  "t" : "A"
+}, {
+  "w" : "diligencia",
+  "t" : "N"
+}, {
+  "w" : "tronco",
+  "t" : "N"
+}, {
+  "w" : "absurdo",
+  "t" : "A"
+}, {
+  "w" : "lejano",
+  "t" : "A"
+}, {
+  "w" : "venta",
+  "t" : "N"
+}, {
+  "w" : "estatua",
+  "t" : "N"
+}, {
+  "w" : "ceremonia",
+  "t" : "N"
+}, {
+  "w" : "tradición",
+  "t" : "N"
+}, {
+  "w" : "preguntas",
+  "t" : "N"
+}, {
+  "w" : "envolver",
+  "t" : "V"
+}, {
+  "w" : "tumba",
+  "t" : "N"
+}, {
+  "w" : "amarillo",
+  "t" : "A"
+}, {
+  "w" : "orgulloso",
+  "t" : "A"
+}, {
+  "w" : "pintor",
+  "t" : "N"
+}, {
+  "w" : "seco",
+  "t" : "A"
+}, {
+  "w" : "constar",
+  "t" : "V"
+}, {
+  "w" : "llanura",
+  "t" : "N"
+}, {
+  "w" : "imitar",
+  "t" : "V"
+}, {
+  "w" : "tempestad",
+  "t" : "N"
+}, {
+  "w" : "cultura",
+  "t" : "N"
+}, {
+  "w" : "personal",
+  "t" : "A"
+}, {
+  "w" : "presidente",
+  "t" : "N"
+}, {
+  "w" : "A",
+  "t" : "M"
+}, {
+  "w" : "delicioso",
+  "t" : "A"
+}, {
+  "w" : "animar",
+  "t" : "V"
+}, {
+  "w" : "suyo",
+  "t" : "A"
+}, {
+  "w" : "estación",
+  "t" : "N"
+}, {
+  "w" : "ciertamente",
+  "t" : "D"
+}, {
+  "w" : "discreto",
+  "t" : "A"
+}, {
+  "w" : "Perú",
+  "t" : "M"
+}, {
+  "w" : "combatir",
+  "t" : "V"
+}, {
+  "w" : "coro",
+  "t" : "N"
+}, {
+  "w" : "fantasía",
+  "t" : "N"
+}, {
+  "w" : "escándalo",
+  "t" : "N"
+}, {
+  "w" : "Cuba",
+  "t" : "M"
+}, {
+  "w" : "menester",
+  "t" : "A"
+}, {
+  "w" : "indiferencia",
+  "t" : "N"
+}, {
+  "w" : "niña",
+  "t" : "N"
+}, {
+  "w" : "aconsejar",
+  "t" : "V"
+}, {
+  "w" : "filosofía",
+  "t" : "N"
+}, {
+  "w" : "regalo",
+  "t" : "N"
+}, {
+  "w" : "huésped",
+  "t" : "N"
+}, {
+  "w" : "ejercicio",
+  "t" : "N"
+}, {
+  "w" : "trono",
+  "t" : "N"
+}, {
+  "w" : "llanto",
+  "t" : "N"
+}, {
+  "w" : "tranquilidad",
+  "t" : "N"
+}, {
+  "w" : "olor",
+  "t" : "N"
+}, {
+  "w" : "aparte",
+  "t" : "D"
+}, {
+  "w" : "inteligente",
+  "t" : "A"
+}, {
+  "w" : "fingir",
+  "t" : "V"
+}, {
+  "w" : "domingo",
+  "t" : "N"
+}, {
+  "w" : "atar",
+  "t" : "V"
+}, {
+  "w" : "borde",
+  "t" : "N"
+}, {
+  "w" : "Reyes",
+  "t" : "M"
+}, {
+  "w" : "cualidad",
+  "t" : "N"
+}, {
+  "w" : "tertulia",
+  "t" : "N"
+}, {
+  "w" : "Rosa",
+  "t" : "M"
+}, {
+  "w" : "aspirar",
+  "t" : "V"
+}, {
+  "w" : "serie",
+  "t" : "N"
+}, {
+  "w" : "rumbo",
+  "t" : "N"
+}, {
+  "w" : "facilidad",
+  "t" : "N"
+}, {
+  "w" : "mina",
+  "t" : "N"
+}, {
+  "w" : "principalmente",
+  "t" : "D"
+}, {
+  "w" : "afición",
+  "t" : "N"
+}, {
+  "w" : "Ricardo",
+  "t" : "M"
+}, {
+  "w" : "obstáculo",
+  "t" : "N"
+}, {
+  "w" : "condenar",
+  "t" : "V"
+}, {
+  "w" : "brotar",
+  "t" : "V"
+}, {
+  "w" : "sordo",
+  "t" : "A"
+}, {
+  "w" : "cocinero",
+  "t" : "N"
+}, {
+  "w" : "carro",
+  "t" : "N"
+}, {
+  "w" : "fábrica",
+  "t" : "N"
+}, {
+  "w" : "Julio",
+  "t" : "M"
+}, {
+  "w" : "as",
+  "t" : "M"
+}, {
+  "w" : "fortaleza",
+  "t" : "N"
+}, {
+  "w" : "explicación",
+  "t" : "N"
+}, {
+  "w" : "aproximar",
+  "t" : "V"
+}, {
+  "w" : "molestar",
+  "t" : "V"
+}, {
+  "w" : "biblioteca",
+  "t" : "N"
+}, {
+  "w" : "moda",
+  "t" : "N"
+}, {
+  "w" : "constante",
+  "t" : "A"
+}, {
+  "w" : "carruaje",
+  "t" : "N"
+}, {
+  "w" : "resonar",
+  "t" : "V"
+}, {
+  "w" : "ataque",
+  "t" : "N"
+}, {
+  "w" : "ejecutar",
+  "t" : "V"
+}, {
+  "w" : "aceite",
+  "t" : "N"
+}, {
+  "w" : "Paris",
+  "t" : "M"
+}, {
+  "w" : "señorito",
+  "t" : "N"
+}, {
+  "w" : "verle",
+  "t" : "V"
+}, {
+  "w" : "crítico",
+  "t" : "N"
+}, {
+  "w" : "trozo",
+  "t" : "N"
+}, {
+  "w" : "compuesto",
+  "t" : "A"
+}, {
+  "w" : "extranjero",
+  "t" : "A"
+}, {
+  "w" : "hacerlo",
+  "t" : "N"
+}, {
+  "w" : "camisa",
+  "t" : "N"
+}, {
+  "w" : "placer",
+  "t" : "V"
+}, {
+  "w" : "preocupación",
+  "t" : "N"
+}, {
+  "w" : "verla",
+  "t" : "V"
+}, {
+  "w" : "Alfonso",
+  "t" : "M"
+}, {
+  "w" : "impaciencia",
+  "t" : "N"
+}, {
+  "w" : "apuntar",
+  "t" : "V"
+}, {
+  "w" : "Roberto",
+  "t" : "M"
+}, {
+  "w" : "ternura",
+  "t" : "N"
+}, {
+  "w" : "nobleza",
+  "t" : "N"
+}, {
+  "w" : "Valencia",
+  "t" : "M"
+}, {
+  "w" : "simpatía",
+  "t" : "N"
+}, {
+  "w" : "cuidado",
+  "t" : "A"
+}, {
+  "w" : "beneficio",
+  "t" : "N"
+}, {
+  "w" : "treinta",
+  "t" : "O"
+}, {
+  "w" : "resistencia",
+  "t" : "N"
+}, {
+  "w" : "príncipe",
+  "t" : "M"
+}, {
+  "w" : "actual",
+  "t" : "A"
+}, {
+  "w" : "envidia",
+  "t" : "N"
+}, {
+  "w" : "insistir",
+  "t" : "V"
+}, {
+  "w" : "resuelto",
+  "t" : "A"
+}, {
+  "w" : "tanto",
+  "t" : "T"
+}, {
+  "w" : "argumento",
+  "t" : "N"
+}, {
+  "w" : "suspirar",
+  "t" : "V"
+}, {
+  "w" : "sensación",
+  "t" : "N"
+}, {
+  "w" : "ambiente",
+  "t" : "N"
+}, {
+  "w" : "tarea",
+  "t" : "N"
+}, {
+  "w" : "apagar",
+  "t" : "V"
+}, {
+  "w" : "dulzura",
+  "t" : "N"
+}, {
+  "w" : "ama",
+  "t" : "N"
+}, {
+  "w" : "varón",
+  "t" : "N"
+}, {
+  "w" : "García",
+  "t" : "M"
+}, {
+  "w" : "limitar",
+  "t" : "V"
+}, {
+  "w" : "nacido",
+  "t" : "A"
+}, {
+  "w" : "práctico",
+  "t" : "A"
+}, {
+  "w" : "Luisa",
+  "t" : "M"
+}, {
+  "w" : "pasado",
+  "t" : "N"
+}, {
+  "w" : "determinado",
+  "t" : "A"
+}, {
+  "w" : "frontera",
+  "t" : "N"
+}, {
+  "w" : "fisonomía",
+  "t" : "N"
+}, {
+  "w" : "clérigo",
+  "t" : "N"
+}, {
+  "w" : "velo",
+  "t" : "N"
+}, {
+  "w" : "independencia",
+  "t" : "N"
+}, {
+  "w" : "cuanto",
+  "t" : "O"
+}, {
+  "w" : "estrechar",
+  "t" : "V"
+}, {
+  "w" : "fatal",
+  "t" : "A"
+}, {
+  "w" : "igual",
+  "t" : "D"
+}, {
+  "w" : "aquél",
+  "t" : "N"
+}, {
+  "w" : "cariñoso",
+  "t" : "A"
+}, {
+  "w" : "simpático",
+  "t" : "A"
+}, {
+  "w" : "rasgo",
+  "t" : "N"
+}, {
+  "w" : "joya",
+  "t" : "N"
+}, {
+  "w" : "práctica",
+  "t" : "N"
+}, {
+  "w" : "futuro",
+  "t" : "A"
+}, {
+  "w" : "ésos",
+  "t" : "O"
+}, {
+  "w" : "leche",
+  "t" : "N"
+}, {
+  "w" : "espeso",
+  "t" : "A"
+}, {
+  "w" : "infierno",
+  "t" : "N"
+}, {
+  "w" : "tiniebla",
+  "t" : "N"
+}, {
+  "w" : "despreciar",
+  "t" : "V"
+}, {
+  "w" : "averiguar",
+  "t" : "V"
+}, {
+  "w" : "ocupado",
+  "t" : "A"
+}, {
+  "w" : "seria",
+  "t" : "V"
+}, {
+  "w" : "trasladar",
+  "t" : "V"
+}, {
+  "w" : "construir",
+  "t" : "V"
+}, {
+  "w" : "representación",
+  "t" : "N"
+}, {
+  "w" : "Y",
+  "t" : "M"
+}, {
+  "w" : "teniente",
+  "t" : "N"
+}, {
+  "w" : "divertir",
+  "t" : "V"
+}, {
+  "w" : "caballería",
+  "t" : "N"
+}, {
+  "w" : "deshacer",
+  "t" : "V"
+}, {
+  "w" : "sucio",
+  "t" : "A"
+}, {
+  "w" : "salar",
+  "t" : "V"
+}, {
+  "w" : "defecto",
+  "t" : "N"
+}, {
+  "w" : "rechazar",
+  "t" : "V"
+}, {
+  "w" : "material",
+  "t" : "A"
+}, {
+  "w" : "acertar",
+  "t" : "V"
+}, {
+  "w" : "armar",
+  "t" : "V"
+}, {
+  "w" : "pretexto",
+  "t" : "N"
+}, {
+  "w" : "marqués",
+  "t" : "M"
+}, {
+  "w" : "suplicar",
+  "t" : "V"
+}, {
+  "w" : "sombrío",
+  "t" : "A"
+}, {
+  "w" : "muralla",
+  "t" : "N"
+}, {
+  "w" : "semblante",
+  "t" : "N"
+}, {
+  "w" : "campana",
+  "t" : "N"
+}, {
+  "w" : "perdón",
+  "t" : "N"
+}, {
+  "w" : "sorprendido",
+  "t" : "A"
+}, {
+  "w" : "reducido",
+  "t" : "A"
+}, {
+  "w" : "acometer",
+  "t" : "V"
+}, {
+  "w" : "acusar",
+  "t" : "V"
+}, {
+  "w" : "tratado",
+  "t" : "N"
+}, {
+  "w" : "primavera",
+  "t" : "N"
+}, {
+  "w" : "mamá",
+  "t" : "N"
+}, {
+  "w" : "izquierdo",
+  "t" : "A"
+}, {
+  "w" : "vi",
+  "t" : "M"
+}, {
+  "w" : "sur",
+  "t" : "M"
+}, {
+  "w" : "galería",
+  "t" : "N"
+}, {
+  "w" : "espiritual",
+  "t" : "A"
+}, {
+  "w" : "lucir",
+  "t" : "V"
+}, {
+  "w" : "abundancia",
+  "t" : "N"
+}, {
+  "w" : "navegar",
+  "t" : "V"
+}, {
+  "w" : "renta",
+  "t" : "N"
+}, {
+  "w" : "impreso",
+  "t" : "A"
+}, {
+  "w" : "adoptar",
+  "t" : "V"
+}, {
+  "w" : "t",
+  "t" : "M"
+}, {
+  "w" : "garganta",
+  "t" : "N"
+}, {
+  "w" : "perla",
+  "t" : "N"
+}, {
+  "w" : "sillón",
+  "t" : "N"
+}, {
+  "w" : "vaca",
+  "t" : "N"
+}, {
+  "w" : "caza",
+  "t" : "N"
+}, {
+  "w" : "curar",
+  "t" : "V"
+}, {
+  "w" : "renunciar",
+  "t" : "V"
+}, {
+  "w" : "are",
+  "t" : "M"
+}, {
+  "w" : "armonía",
+  "t" : "N"
+}, {
+  "w" : "tal",
+  "t" : "A"
+}, {
+  "w" : "descubrimiento",
+  "t" : "N"
+}, {
+  "w" : "seguro",
+  "t" : "D"
+}, {
+  "w" : "grandes",
+  "t" : "N"
+}, {
+  "w" : "acostumbrar",
+  "t" : "V"
+}, {
+  "w" : "perecer",
+  "t" : "V"
+}, {
+  "w" : "ésa",
+  "t" : "O"
+}, {
+  "w" : "contentar",
+  "t" : "V"
+}, {
+  "w" : "eco",
+  "t" : "N"
+}, {
+  "w" : "cómico",
+  "t" : "A"
+}, {
+  "w" : "exacto",
+  "t" : "A"
+}, {
+  "w" : "Víctor",
+  "t" : "M"
+}, {
+  "w" : "convencido",
+  "t" : "A"
+}, {
+  "w" : "posesión",
+  "t" : "N"
+}, {
+  "w" : "out",
+  "t" : "M"
+}, {
+  "w" : "signo",
+  "t" : "N"
+}, {
+  "w" : "adentro",
+  "t" : "D"
+}, {
+  "w" : "red",
+  "t" : "N"
+}, {
+  "w" : "lección",
+  "t" : "N"
+}, {
+  "w" : "tormento",
+  "t" : "N"
+}, {
+  "w" : "habilidad",
+  "t" : "N"
+}, {
+  "w" : "colonia",
+  "t" : "N"
+}, {
+  "w" : "estómago",
+  "t" : "N"
+}, {
+  "w" : "nada",
+  "t" : "N"
+}, {
+  "w" : "ahogar",
+  "t" : "V"
+}, {
+  "w" : "web",
+  "t" : "N"
+}, {
+  "w" : "monja",
+  "t" : "N"
+}, {
+  "w" : "desarrollo",
+  "t" : "N"
+}, {
+  "w" : "Joaquín",
+  "t" : "M"
+}, {
+  "w" : "prisionero",
+  "t" : "N"
+}, {
+  "w" : "esconder",
+  "t" : "V"
+}, {
+  "w" : "función",
+  "t" : "N"
+}, {
+  "w" : "corte",
+  "t" : "M"
+}, {
+  "w" : "lord",
+  "t" : "N"
+}, {
+  "w" : "comun",
+  "t" : "M"
+}, {
+  "w" : "Reina",
+  "t" : "M"
+}, {
+  "w" : "doblar",
+  "t" : "V"
+}, {
+  "w" : "operación",
+  "t" : "N"
+}, {
+  "w" : "chiquillo",
+  "t" : "N"
+}, {
+  "w" : "desgraciado",
+  "t" : "N"
+}, {
+  "w" : "ciudadano",
+  "t" : "N"
+}, {
+  "w" : "pruebas",
+  "t" : "N"
+}, {
+  "w" : "Catalina",
+  "t" : "M"
+}, {
+  "w" : "socorro",
+  "t" : "N"
+}, {
+  "w" : "presenciar",
+  "t" : "V"
+}, {
+  "w" : "entraña",
+  "t" : "N"
+}, {
+  "w" : "piadoso",
+  "t" : "A"
+}, {
+  "w" : "problema",
+  "t" : "N"
+}, {
+  "w" : "comparar",
+  "t" : "V"
+}, {
+  "w" : "absolutamente",
+  "t" : "D"
+}, {
+  "w" : "enseñanza",
+  "t" : "N"
+}, {
+  "w" : "empleo",
+  "t" : "N"
+}, {
+  "w" : "vencido",
+  "t" : "A"
+}, {
+  "w" : "reposo",
+  "t" : "N"
+}, {
+  "w" : "desesperación",
+  "t" : "N"
+}, {
+  "w" : "indias",
+  "t" : "M"
+}, {
+  "w" : "Luz",
+  "t" : "M"
+}, {
+  "w" : "útil",
+  "t" : "A"
+}, {
+  "w" : "nacimiento",
+  "t" : "N"
+}, {
+  "w" : "Gonzalo",
+  "t" : "M"
+}, {
+  "w" : "pues",
+  "t" : "D"
+}, {
+  "w" : "pico",
+  "t" : "N"
+}, {
+  "w" : "puño",
+  "t" : "N"
+}, {
+  "w" : "poblar",
+  "t" : "V"
+}, {
+  "w" : "arrebatar",
+  "t" : "V"
+}, {
+  "w" : "gravedad",
+  "t" : "N"
+}, {
+  "w" : "paño",
+  "t" : "N"
+}, {
+  "w" : "novedad",
+  "t" : "N"
+}, {
+  "w" : "canción",
+  "t" : "N"
+}, {
+  "w" : "quemar",
+  "t" : "V"
+}, {
+  "w" : "cazador",
+  "t" : "N"
+}, {
+  "w" : "cercano",
+  "t" : "A"
+}, {
+  "w" : "batir",
+  "t" : "V"
+}, {
+  "w" : "rio",
+  "t" : "M"
+}, {
+  "w" : "república",
+  "t" : "N"
+}, {
+  "w" : "hundir",
+  "t" : "V"
+}, {
+  "w" : "adonde",
+  "t" : "O"
+}, {
+  "w" : "agradar",
+  "t" : "V"
+}, {
+  "w" : "recién",
+  "t" : "D"
+}, {
+  "w" : "prender",
+  "t" : "V"
+}, {
+  "w" : "colgar",
+  "t" : "V"
+}, {
+  "w" : "diverso",
+  "t" : "A"
+}, {
+  "w" : "vía",
+  "t" : "N"
+}, {
+  "w" : "cenar",
+  "t" : "V"
+}, {
+  "w" : "fantástico",
+  "t" : "A"
+}, {
+  "w" : "taberna",
+  "t" : "N"
+}, {
+  "w" : "colina",
+  "t" : "N"
+}, {
+  "w" : "sublime",
+  "t" : "A"
+}, {
+  "w" : "desarrollar",
+  "t" : "V"
+}, {
+  "w" : "ridículo",
+  "t" : "A"
+}, {
+  "w" : "Pepe",
+  "t" : "M"
+}, {
+  "w" : "page",
+  "t" : "M"
+}, {
+  "w" : "intento",
+  "t" : "N"
+}, {
+  "w" : "burlar",
+  "t" : "V"
+}, {
+  "w" : "infame",
+  "t" : "A"
+}, {
+  "w" : "cuchillo",
+  "t" : "N"
+}, {
+  "w" : "botella",
+  "t" : "N"
+}, {
+  "w" : "palacio",
+  "t" : "M"
+}, {
+  "w" : "yndio",
+  "t" : "N"
+}, {
+  "w" : "Chile",
+  "t" : "M"
+}, {
+  "w" : "tribu",
+  "t" : "N"
+}, {
+  "w" : "distinguido",
+  "t" : "A"
+}, {
+  "w" : "excitar",
+  "t" : "V"
+}, {
+  "w" : "Filipinas",
+  "t" : "M"
+}, {
+  "w" : "we",
+  "t" : "M"
+}, {
+  "w" : "rubio",
+  "t" : "A"
+}, {
+  "w" : "rigor",
+  "t" : "N"
+}, {
+  "w" : "naturalmente",
+  "t" : "D"
+}, {
+  "w" : "favorecer",
+  "t" : "V"
+}, {
+  "w" : "Jacobo",
+  "t" : "M"
+}, {
+  "w" : "húmedo",
+  "t" : "A"
+}, {
+  "w" : "retroceder",
+  "t" : "V"
+}, {
+  "w" : "vuelo",
+  "t" : "N"
+}, {
+  "w" : "decirle",
+  "t" : "V"
+}, {
+  "w" : "vamos",
+  "t" : "I"
+}, {
+  "w" : "Calderón",
+  "t" : "M"
+}, {
+  "w" : "bárbaro",
+  "t" : "A"
+}, {
+  "w" : "casualidad",
+  "t" : "N"
+}, {
+  "w" : "señor",
+  "t" : "I"
+}, {
+  "w" : "discutir",
+  "t" : "V"
+}, {
+  "w" : "meditar",
+  "t" : "V"
+}, {
+  "w" : "marquesa",
+  "t" : "N"
+}, {
+  "w" : "Señor",
+  "t" : "I"
+}, {
+  "w" : "vuestro",
+  "t" : "T"
+}, {
+  "w" : "esparcir",
+  "t" : "V"
+}, {
+  "w" : "quando",
+  "t" : "V"
+}, {
+  "w" : "Paco",
+  "t" : "M"
+}, {
+  "w" : "tabla",
+  "t" : "N"
+}, {
+  "w" : "furor",
+  "t" : "N"
+}, {
+  "w" : "iluminar",
+  "t" : "V"
+}, {
+  "w" : "reales",
+  "t" : "N"
+}, {
+  "w" : "novelas",
+  "t" : "N"
+}, {
+  "w" : "pariente",
+  "t" : "N"
+}, {
+  "w" : "cuánto",
+  "t" : "O"
+}, {
+  "w" : "escrito",
+  "t" : "N"
+}, {
+  "w" : "reflexión",
+  "t" : "N"
+}, {
+  "w" : "amenaza",
+  "t" : "N"
+}, {
+  "w" : "atmósfera",
+  "t" : "N"
+}, {
+  "w" : "puesta",
+  "t" : "A"
+}, {
+  "w" : "finalmente",
+  "t" : "D"
+}, {
+  "w" : "are",
+  "t" : "N"
+}, {
+  "w" : "Melchor",
+  "t" : "M"
+}, {
+  "w" : "Ilustración",
+  "t" : "M"
+}, {
+  "w" : "mayoría",
+  "t" : "N"
+}, {
+  "w" : "cumbre",
+  "t" : "N"
+}, {
+  "w" : "fruta",
+  "t" : "N"
+}, {
+  "w" : "barca",
+  "t" : "N"
+}, {
+  "w" : "castellano",
+  "t" : "N"
+}, {
+  "w" : "comarca",
+  "t" : "N"
+}, {
+  "w" : "regalar",
+  "t" : "V"
+}, {
+  "w" : "na",
+  "t" : "M"
+}, {
+  "w" : "jinete",
+  "t" : "N"
+}, {
+  "w" : "órgano",
+  "t" : "N"
+}, {
+  "w" : "visión",
+  "t" : "N"
+}, {
+  "w" : "cortado",
+  "t" : "A"
+}, {
+  "w" : "gigante",
+  "t" : "N"
+}, {
+  "w" : "escoger",
+  "t" : "V"
+}, {
+  "w" : "creencia",
+  "t" : "N"
+}, {
+  "w" : "depender",
+  "t" : "V"
+}, {
+  "w" : "considerable",
+  "t" : "A"
+}, {
+  "w" : "proteger",
+  "t" : "V"
+}, {
+  "w" : "qué",
+  "t" : "C"
+}, {
+  "w" : "alimento",
+  "t" : "N"
+}, {
+  "w" : "obligación",
+  "t" : "N"
+}, {
+  "w" : "obscuro",
+  "t" : "A"
+}, {
+  "w" : "mudar",
+  "t" : "V"
+}, {
+  "w" : "diferentes",
+  "t" : "T"
+}, {
+  "w" : "entretener",
+  "t" : "V"
+}, {
+  "w" : "ancho",
+  "t" : "N"
+}, {
+  "w" : "trazar",
+  "t" : "V"
+}, {
+  "w" : "caliente",
+  "t" : "A"
+}, {
+  "w" : "Margarita",
+  "t" : "M"
+}, {
+  "w" : "conquistar",
+  "t" : "V"
+}, {
+  "w" : "galera",
+  "t" : "N"
+}, {
+  "w" : "norte",
+  "t" : "N"
+}, {
+  "w" : "clavar",
+  "t" : "V"
+}, {
+  "w" : "pié",
+  "t" : "N"
+}, {
+  "w" : "Beatriz",
+  "t" : "M"
+}, {
+  "w" : "Alemania",
+  "t" : "M"
+}, {
+  "w" : "judío",
+  "t" : "N"
+}, {
+  "w" : "luminoso",
+  "t" : "A"
+}, {
+  "w" : "relativo",
+  "t" : "A"
+}, {
+  "w" : "ramo",
+  "t" : "N"
+}, {
+  "w" : "echado",
+  "t" : "A"
+}, {
+  "w" : "esclavo",
+  "t" : "A"
+}, {
+  "w" : "estallar",
+  "t" : "V"
+}, {
+  "w" : "pareja",
+  "t" : "N"
+}, {
+  "w" : "solicitar",
+  "t" : "V"
+}, {
+  "w" : "provecho",
+  "t" : "N"
+}, {
+  "w" : "blando",
+  "t" : "A"
+}, {
+  "w" : "metal",
+  "t" : "N"
+}, {
+  "w" : "secretario",
+  "t" : "N"
+}, {
+  "w" : "empeñar",
+  "t" : "V"
+}, {
+  "w" : "docena",
+  "t" : "N"
+}, {
+  "w" : "claramente",
+  "t" : "D"
+}, {
+  "w" : "institución",
+  "t" : "N"
+}, {
+  "w" : "preparado",
+  "t" : "A"
+}, {
+  "w" : "cañón",
+  "t" : "N"
+}, {
+  "w" : "casa",
+  "t" : "M"
+}, {
+  "w" : "mudo",
+  "t" : "A"
+}, {
+  "w" : "Barcelona",
+  "t" : "M"
+}, {
+  "w" : "sudor",
+  "t" : "N"
+}, {
+  "w" : "reunión",
+  "t" : "N"
+}, {
+  "w" : "acoger",
+  "t" : "V"
+}, {
+  "w" : "expedición",
+  "t" : "N"
+}, {
+  "w" : "caída",
+  "t" : "N"
+}, {
+  "w" : "ilusión",
+  "t" : "N"
+}, {
+  "w" : "rueda",
+  "t" : "N"
+}, {
+  "w" : "descanso",
+  "t" : "N"
+}, {
+  "w" : "nueve",
+  "t" : "T"
+}, {
+  "w" : "tal",
+  "t" : "O"
+}, {
+  "w" : "indiferente",
+  "t" : "A"
+}, {
+  "w" : "pleno",
+  "t" : "A"
+}, {
+  "w" : "prudencia",
+  "t" : "N"
+}, {
+  "w" : "sobrina",
+  "t" : "N"
+}, {
+  "w" : "acceso",
+  "t" : "N"
+}, {
+  "w" : "aparato",
+  "t" : "N"
+}, {
+  "w" : "León",
+  "t" : "M"
+}, {
+  "w" : "cocer",
+  "t" : "V"
+}, {
+  "w" : "policía",
+  "t" : "N"
+}, {
+  "w" : "Dorotea",
+  "t" : "M"
+}, {
+  "w" : "paisaje",
+  "t" : "N"
+}, {
+  "w" : "diversos",
+  "t" : "T"
+}, {
+  "w" : "traducir",
+  "t" : "V"
+}, {
+  "w" : "Dolores",
+  "t" : "M"
+}, {
+  "w" : "alemán",
+  "t" : "N"
+}, {
+  "w" : "oriental",
+  "t" : "A"
+}, {
+  "w" : "devorar",
+  "t" : "V"
+}, {
+  "w" : "final",
+  "t" : "N"
+}, {
+  "w" : "Aguirre",
+  "t" : "M"
+}, {
+  "w" : "mula",
+  "t" : "N"
+}, {
+  "w" : "olvido",
+  "t" : "N"
+}, {
+  "w" : "licencia",
+  "t" : "N"
+}, {
+  "w" : "alrededor",
+  "t" : "N"
+}, {
+  "w" : "intenso",
+  "t" : "A"
+}, {
+  "w" : "Londres",
+  "t" : "M"
+}, {
+  "w" : "unidad",
+  "t" : "N"
+}, {
+  "w" : "fundamento",
+  "t" : "N"
+}, {
+  "w" : "presente",
+  "t" : "N"
+}, {
+  "w" : "gato",
+  "t" : "N"
+}, {
+  "w" : "afección",
+  "t" : "N"
+}, {
+  "w" : "sustancia",
+  "t" : "N"
+}, {
+  "w" : "gris",
+  "t" : "A"
+}, {
+  "w" : "puerto",
+  "t" : "M"
+}, {
+  "w" : "esquina",
+  "t" : "N"
+}, {
+  "w" : "aviso",
+  "t" : "N"
+}, {
+  "w" : "acariciar",
+  "t" : "V"
+}, {
+  "w" : "doméstico",
+  "t" : "A"
+}, {
+  "w" : "junio",
+  "t" : "N"
+}, {
+  "w" : "respetable",
+  "t" : "A"
+}, {
+  "w" : "once",
+  "t" : "O"
+}, {
+  "w" : "repartir",
+  "t" : "V"
+}, {
+  "w" : "acontecer",
+  "t" : "V"
+}, {
+  "w" : "devolver",
+  "t" : "V"
+}, {
+  "w" : "sólido",
+  "t" : "A"
+}, {
+  "w" : "ostentar",
+  "t" : "V"
+}, {
+  "w" : "enterar",
+  "t" : "V"
+}, {
+  "w" : "parecido",
+  "t" : "A"
+}, {
+  "w" : "fuerte",
+  "t" : "N"
+}, {
+  "w" : "repetido",
+  "t" : "A"
+}, {
+  "w" : "dirigiéndose",
+  "t" : "V"
+}, {
+  "w" : "sierra",
+  "t" : "N"
+}, {
+  "w" : "Mendoza",
+  "t" : "M"
+}, {
+  "w" : "composición",
+  "t" : "N"
+}, {
+  "w" : "selva",
+  "t" : "N"
+}, {
+  "w" : "indudablemente",
+  "t" : "D"
+}, {
+  "w" : "lienzo",
+  "t" : "N"
+}, {
+  "w" : "privado",
+  "t" : "A"
+}, {
+  "w" : "cima",
+  "t" : "N"
+}, {
+  "w" : "metro",
+  "t" : "N"
+}, {
+  "w" : "lámpara",
+  "t" : "N"
+}, {
+  "w" : "compasión",
+  "t" : "N"
+}, {
+  "w" : "digital",
+  "t" : "A"
+}, {
+  "w" : "sonido",
+  "t" : "N"
+}, {
+  "w" : "manteca",
+  "t" : "N"
+}, {
+  "w" : "acontecimiento",
+  "t" : "N"
+}, {
+  "w" : "alcoba",
+  "t" : "N"
+}, {
+  "w" : "probablemente",
+  "t" : "D"
+}, {
+  "w" : "sangriento",
+  "t" : "A"
+}, {
+  "w" : "monarca",
+  "t" : "N"
+}, {
+  "w" : "áspero",
+  "t" : "A"
+}, {
+  "w" : "velar",
+  "t" : "V"
+}, {
+  "w" : "naturaleza",
+  "t" : "M"
+}, {
+  "w" : "Vicente",
+  "t" : "M"
+}, {
+  "w" : "extenso",
+  "t" : "A"
+}, {
+  "w" : "relato",
+  "t" : "N"
+}, {
+  "w" : "piano",
+  "t" : "N"
+}, {
+  "w" : "confirmar",
+  "t" : "V"
+}, {
+  "w" : "crueldad",
+  "t" : "N"
+}, {
+  "w" : "agarrar",
+  "t" : "V"
+}, {
+  "w" : "exquisito",
+  "t" : "A"
+}, {
+  "w" : "ilusiones",
+  "t" : "N"
+}, {
+  "w" : "aplauso",
+  "t" : "N"
+}, {
+  "w" : "banda",
+  "t" : "N"
+}, {
+  "w" : "enérgico",
+  "t" : "A"
+}, {
+  "w" : "prisión",
+  "t" : "N"
+}, {
+  "w" : "turbar",
+  "t" : "V"
+}, {
+  "w" : "amanecer",
+  "t" : "N"
+}, {
+  "w" : "protestar",
+  "t" : "V"
+}, {
+  "w" : "guiar",
+  "t" : "V"
+}, {
+  "w" : "sacrificar",
+  "t" : "V"
+}, {
+  "w" : "serlo",
+  "t" : "V"
+}, {
+  "w" : "espléndido",
+  "t" : "A"
+}, {
+  "w" : "inventar",
+  "t" : "V"
+}, {
+  "w" : "desempeñar",
+  "t" : "V"
+}, {
+  "w" : "Tristán",
+  "t" : "M"
+}, {
+  "w" : "inca",
+  "t" : "M"
+}, {
+  "w" : "vacío",
+  "t" : "A"
+}, {
+  "w" : "desvanecer",
+  "t" : "V"
+}, {
+  "w" : "sepulcro",
+  "t" : "N"
+}, {
+  "w" : "temeroso",
+  "t" : "A"
+}, {
+  "w" : "sereno",
+  "t" : "A"
+}, {
+  "w" : "medir",
+  "t" : "V"
+}, {
+  "w" : "disparar",
+  "t" : "V"
+}, {
+  "w" : "crédito",
+  "t" : "N"
+}, {
+  "w" : "ignorancia",
+  "t" : "N"
+}, {
+  "w" : "enterrar",
+  "t" : "V"
+}, {
+  "w" : "billete",
+  "t" : "N"
+}, {
+  "w" : "remoto",
+  "t" : "A"
+}, {
+  "w" : "cuándo",
+  "t" : "O"
+}, {
+  "w" : "reflexionar",
+  "t" : "V"
+}, {
+  "w" : "infante",
+  "t" : "N"
+}, {
+  "w" : "chimenea",
+  "t" : "N"
+}, {
+  "w" : "espíritu",
+  "t" : "M"
+}, {
+  "w" : "raíz",
+  "t" : "N"
+}, {
+  "w" : "ambición",
+  "t" : "N"
+}, {
+  "w" : "cuantos",
+  "t" : "O"
+}, {
+  "w" : "rabia",
+  "t" : "N"
+}, {
+  "w" : "evidente",
+  "t" : "A"
+}, {
+  "w" : "transcurrir",
+  "t" : "V"
+}, {
+  "w" : "Castro",
+  "t" : "M"
+}, {
+  "w" : "empujar",
+  "t" : "V"
+}, {
+  "w" : "león",
+  "t" : "N"
+}, {
+  "w" : "moro",
+  "t" : "N"
+}, {
+  "w" : "cuatro",
+  "t" : "O"
+}, {
+  "w" : "Portugal",
+  "t" : "M"
+}, {
+  "w" : "enemigo",
+  "t" : "A"
+}, {
+  "w" : "resplandor",
+  "t" : "N"
+}, {
+  "w" : "sincero",
+  "t" : "A"
+}, {
+  "w" : "contacto",
+  "t" : "N"
+}, {
+  "w" : "encantado",
+  "t" : "A"
+}, {
+  "w" : "casamiento",
+  "t" : "N"
+}, {
+  "w" : "elegancia",
+  "t" : "N"
+}, {
+  "w" : "encantador",
+  "t" : "A"
+}, {
+  "w" : "llover",
+  "t" : "V"
+}, {
+  "w" : "mancha",
+  "t" : "N"
+}, {
+  "w" : "zapato",
+  "t" : "N"
+}, {
+  "w" : "conmover",
+  "t" : "V"
+}, {
+  "w" : "atento",
+  "t" : "A"
+}, {
+  "w" : "dios",
+  "t" : "N"
+}, {
+  "w" : "hermana",
+  "t" : "N"
+}, {
+  "w" : "asustar",
+  "t" : "V"
+}, {
+  "w" : "informe",
+  "t" : "N"
+}, {
+  "w" : "bah",
+  "t" : "I"
+}, {
+  "w" : "lobo",
+  "t" : "N"
+}, {
+  "w" : "Oriente",
+  "t" : "M"
+}, {
+  "w" : "rapidez",
+  "t" : "N"
+}, {
+  "w" : "diario",
+  "t" : "N"
+}, {
+  "w" : "exterior",
+  "t" : "A"
+}, {
+  "w" : "llano",
+  "t" : "A"
+}, {
+  "w" : "borrar",
+  "t" : "V"
+}, {
+  "w" : "amargura",
+  "t" : "N"
+}, {
+  "w" : "César",
+  "t" : "M"
+}, {
+  "w" : "nuestro",
+  "t" : "O"
+}, {
+  "w" : "acero",
+  "t" : "N"
+}, {
+  "w" : "volumen",
+  "t" : "N"
+}, {
+  "w" : "encargo",
+  "t" : "N"
+}, {
+  "w" : "cansar",
+  "t" : "V"
+}, {
+  "w" : "ansiedad",
+  "t" : "N"
+}, {
+  "w" : "serenidad",
+  "t" : "N"
+}, {
+  "w" : "particularmente",
+  "t" : "D"
+}, {
+  "w" : "infancia",
+  "t" : "N"
+}, {
+  "w" : "infantil",
+  "t" : "A"
+}, {
+  "w" : "apasionado",
+  "t" : "A"
+}, {
+  "w" : "portal",
+  "t" : "N"
+}, {
+  "w" : "penoso",
+  "t" : "A"
+}, {
+  "w" : "brisa",
+  "t" : "N"
+}, {
+  "w" : "pez",
+  "t" : "N"
+}, {
+  "w" : "creen",
+  "t" : "V"
+}, {
+  "w" : "actor",
+  "t" : "N"
+}, {
+  "w" : "riesgo",
+  "t" : "N"
+}, {
+  "w" : "esclavitud",
+  "t" : "N"
+}, {
+  "w" : "oportuno",
+  "t" : "A"
+}, {
+  "w" : "precipitar",
+  "t" : "V"
+}, {
+  "w" : "insignificante",
+  "t" : "A"
+}, {
+  "w" : "sexo",
+  "t" : "N"
+}, {
+  "w" : "montón",
+  "t" : "N"
+}, {
+  "w" : "angustia",
+  "t" : "N"
+}, {
+  "w" : "mentir",
+  "t" : "V"
+}, {
+  "w" : "Blanca",
+  "t" : "M"
+}, {
+  "w" : "diputado",
+  "t" : "N"
+}, {
+  "w" : "premio",
+  "t" : "N"
+}, {
+  "w" : "manto",
+  "t" : "N"
+}, {
+  "w" : "enfermos",
+  "t" : "N"
+}, {
+  "w" : "regular",
+  "t" : "A"
+}, {
+  "w" : "tímido",
+  "t" : "A"
+}, {
+  "w" : "condenado",
+  "t" : "A"
+}, {
+  "w" : "desdén",
+  "t" : "N"
+}, {
+  "w" : "poema",
+  "t" : "N"
+}, {
+  "w" : "hazaña",
+  "t" : "N"
+}, {
+  "w" : "labor",
+  "t" : "N"
+}, {
+  "w" : "librar",
+  "t" : "V"
+}, {
+  "w" : "adornar",
+  "t" : "V"
+}, {
+  "w" : "consultar",
+  "t" : "V"
+}, {
+  "w" : "anciano",
+  "t" : "N"
+}, {
+  "w" : "aquéllas",
+  "t" : "O"
+}, {
+  "w" : "lavar",
+  "t" : "V"
+}, {
+  "w" : "procesión",
+  "t" : "N"
+}, {
+  "w" : "verme",
+  "t" : "V"
+}, {
+  "w" : "Cuzco",
+  "t" : "M"
+}, {
+  "w" : "pensativo",
+  "t" : "A"
+}, {
+  "w" : "ardor",
+  "t" : "N"
+}, {
+  "w" : "preceder",
+  "t" : "V"
+}, {
+  "w" : "flaco",
+  "t" : "A"
+}, {
+  "w" : "gitano",
+  "t" : "N"
+}, {
+  "w" : "sesenta",
+  "t" : "T"
+}, {
+  "w" : "temprano",
+  "t" : "D"
+}, {
+  "w" : "visible",
+  "t" : "A"
+}, {
+  "w" : "vuestro",
+  "t" : "V"
+}, {
+  "w" : "pescado",
+  "t" : "N"
+}, {
+  "w" : "extensión",
+  "t" : "N"
+}, {
+  "w" : "cena",
+  "t" : "N"
+}, {
+  "w" : "web",
+  "t" : "A"
+}, {
+  "w" : "ribera",
+  "t" : "N"
+}, {
+  "w" : "monstruo",
+  "t" : "N"
+}, {
+  "w" : "can",
+  "t" : "M"
+}, {
+  "w" : "arreglo",
+  "t" : "N"
+}, {
+  "w" : "ofender",
+  "t" : "V"
+}, {
+  "w" : "asimismo",
+  "t" : "D"
+}, {
+  "w" : "cueva",
+  "t" : "N"
+}, {
+  "w" : "tremendo",
+  "t" : "A"
+}, {
+  "w" : "Marta",
+  "t" : "M"
+}, {
+  "w" : "soberbio",
+  "t" : "A"
+}, {
+  "w" : "anciano",
+  "t" : "A"
+}, {
+  "w" : "melancolía",
+  "t" : "N"
+}, {
+  "w" : "esencia",
+  "t" : "N"
+}, {
+  "w" : "junta",
+  "t" : "N"
+}, {
+  "w" : "juramento",
+  "t" : "N"
+}, {
+  "w" : "extrañar",
+  "t" : "V"
+}, {
+  "w" : "método",
+  "t" : "N"
+}, {
+  "w" : "furia",
+  "t" : "N"
+}, {
+  "w" : "esfera",
+  "t" : "N"
+}, {
+  "w" : "alemán",
+  "t" : "A"
+}, {
+  "w" : "constantemente",
+  "t" : "D"
+}, {
+  "w" : "cómodo",
+  "t" : "A"
+}, {
+  "w" : "vientre",
+  "t" : "N"
+}, {
+  "w" : "Velázquez",
+  "t" : "M"
+}, {
+  "w" : "abogado",
+  "t" : "N"
+}, {
+  "w" : "pendiente",
+  "t" : "A"
+}, {
+  "w" : "intervenir",
+  "t" : "V"
+}, {
+  "w" : "diversas",
+  "t" : "T"
+}, {
+  "w" : "Juanito",
+  "t" : "M"
+}, {
+  "w" : "reflejo",
+  "t" : "N"
+}, {
+  "w" : "activo",
+  "t" : "A"
+}, {
+  "w" : "favorable",
+  "t" : "A"
+}, {
+  "w" : "cobarde",
+  "t" : "A"
+}, {
+  "w" : "Fermín",
+  "t" : "M"
+}, {
+  "w" : "bota",
+  "t" : "N"
+}, {
+  "w" : "colocado",
+  "t" : "A"
+}, {
+  "w" : "canal",
+  "t" : "N"
+}, {
+  "w" : "generación",
+  "t" : "N"
+}, {
+  "w" : "consagrar",
+  "t" : "V"
+}, {
+  "w" : "invitar",
+  "t" : "V"
+}, {
+  "w" : "amiga",
+  "t" : "N"
+}, {
+  "w" : "gordo",
+  "t" : "A"
+}, {
+  "w" : "cuero",
+  "t" : "N"
+}, {
+  "w" : "mercado",
+  "t" : "N"
+}, {
+  "w" : "distar",
+  "t" : "V"
+}, {
+  "w" : "continente",
+  "t" : "N"
+}, {
+  "w" : "visitas",
+  "t" : "N"
+}, {
+  "w" : "enfrente",
+  "t" : "D"
+}, {
+  "w" : "Ramón",
+  "t" : "M"
+}, {
+  "w" : "leyenda",
+  "t" : "N"
+}, {
+  "w" : "corredor",
+  "t" : "N"
+}, {
+  "w" : "verificar",
+  "t" : "V"
+}, {
+  "w" : "indignación",
+  "t" : "N"
+}, {
+  "w" : "consolar",
+  "t" : "V"
+}, {
+  "w" : "animado",
+  "t" : "A"
+}, {
+  "w" : "id",
+  "t" : "M"
+}, {
+  "w" : "milla",
+  "t" : "N"
+}, {
+  "w" : "instrucción",
+  "t" : "N"
+}, {
+  "w" : "sazón",
+  "t" : "N"
+}, {
+  "w" : "misión",
+  "t" : "N"
+}, {
+  "w" : "compañía",
+  "t" : "M"
+}, {
+  "w" : "contrario",
+  "t" : "N"
+}, {
+  "w" : "remordimiento",
+  "t" : "N"
+}, {
+  "w" : "irritar",
+  "t" : "V"
+}, {
+  "w" : "verter",
+  "t" : "V"
+}, {
+  "w" : "confusión",
+  "t" : "N"
+}, {
+  "w" : "Simón",
+  "t" : "M"
+}, {
+  "w" : "hospital",
+  "t" : "N"
+}, {
+  "w" : "recomendar",
+  "t" : "V"
+}, {
+  "w" : "baño",
+  "t" : "N"
+}, {
+  "w" : "grosero",
+  "t" : "A"
+}, {
+  "w" : "derribar",
+  "t" : "V"
+}, {
+  "w" : "físico",
+  "t" : "A"
+}, {
+  "w" : "heroico",
+  "t" : "A"
+}, {
+  "w" : "trágico",
+  "t" : "A"
+}, {
+  "w" : "invisible",
+  "t" : "A"
+}, {
+  "w" : "reja",
+  "t" : "N"
+}, {
+  "w" : "legítimo",
+  "t" : "A"
+}, {
+  "w" : "disfrutar",
+  "t" : "V"
+}, {
+  "w" : "vagar",
+  "t" : "V"
+}, {
+  "w" : "vigoroso",
+  "t" : "A"
+}, {
+  "w" : "adorno",
+  "t" : "N"
+}, {
+  "w" : "sentencia",
+  "t" : "N"
+}, {
+  "w" : "incapaz",
+  "t" : "A"
+}, {
+  "w" : "quejar",
+  "t" : "V"
+}, {
+  "w" : "construcción",
+  "t" : "N"
+}, {
+  "w" : "deslizar",
+  "t" : "V"
+}, {
+  "w" : "Salvador",
+  "t" : "M"
+}, {
+  "w" : "triunfar",
+  "t" : "V"
+}, {
+  "w" : "enamorado",
+  "t" : "A"
+}, {
+  "w" : "agujero",
+  "t" : "N"
+}, {
+  "w" : "entrevista",
+  "t" : "N"
+}, {
+  "w" : "discurrir",
+  "t" : "V"
+}, {
+  "w" : "accidente",
+  "t" : "N"
+}, {
+  "w" : "difunto",
+  "t" : "A"
+}, {
+  "w" : "facción",
+  "t" : "N"
+}, {
+  "w" : "semejanza",
+  "t" : "N"
+}, {
+  "w" : "pobreza",
+  "t" : "N"
+}, {
+  "w" : "Julia",
+  "t" : "M"
+}, {
+  "w" : "equivocar",
+  "t" : "V"
+}, {
+  "w" : "cualquiera",
+  "t" : "T"
+}, {
+  "w" : "soberbia",
+  "t" : "N"
+}, {
+  "w" : "ocupación",
+  "t" : "N"
+}, {
+  "w" : "saludo",
+  "t" : "N"
+}, {
+  "w" : "comunicación",
+  "t" : "N"
+}, {
+  "w" : "barro",
+  "t" : "N"
+}, {
+  "w" : "limosna",
+  "t" : "N"
+}, {
+  "w" : "provocar",
+  "t" : "V"
+}, {
+  "w" : "Manila",
+  "t" : "M"
+}, {
+  "w" : "grano",
+  "t" : "N"
+}, {
+  "w" : "acompañado",
+  "t" : "A"
+}, {
+  "w" : "agitado",
+  "t" : "A"
+}, {
+  "w" : "sonoro",
+  "t" : "A"
+}, {
+  "w" : "apetito",
+  "t" : "N"
+}, {
+  "w" : "flotar",
+  "t" : "V"
+}, {
+  "w" : "decidido",
+  "t" : "A"
+}, {
+  "w" : "salto",
+  "t" : "N"
+}, {
+  "w" : "López",
+  "t" : "M"
+}, {
+  "w" : "marcar",
+  "t" : "V"
+}, {
+  "w" : "firmar",
+  "t" : "V"
+}, {
+  "w" : "vigor",
+  "t" : "N"
+}, {
+  "w" : "revolver",
+  "t" : "V"
+}, {
+  "w" : "more",
+  "t" : "M"
+}, {
+  "w" : "osar",
+  "t" : "V"
+}, {
+  "w" : "semblante",
+  "t" : "A"
+}, {
+  "w" : "efectivamente",
+  "t" : "D"
+}, {
+  "w" : "carretera",
+  "t" : "N"
+}, {
+  "w" : "empero",
+  "t" : "D"
+}, {
+  "w" : "rival",
+  "t" : "N"
+}, {
+  "w" : "cita",
+  "t" : "N"
+}, {
+  "w" : "reflejar",
+  "t" : "V"
+}, {
+  "w" : "universidad",
+  "t" : "M"
+}, {
+  "w" : "Cádiz",
+  "t" : "M"
+}, {
+  "w" : "Caracas",
+  "t" : "M"
+}, {
+  "w" : "embarcar",
+  "t" : "V"
+}, {
+  "w" : "profesar",
+  "t" : "V"
+}, {
+  "w" : "amplio",
+  "t" : "A"
+}, {
+  "w" : "gozo",
+  "t" : "N"
+}, {
+  "w" : "faz",
+  "t" : "N"
+}, {
+  "w" : "repentinamente",
+  "t" : "D"
+}, {
+  "w" : "bóveda",
+  "t" : "N"
+}, {
+  "w" : "duelo",
+  "t" : "N"
+}, {
+  "w" : "afán",
+  "t" : "N"
+}, {
+  "w" : "limpiar",
+  "t" : "V"
+}, {
+  "w" : "engaño",
+  "t" : "N"
+}, {
+  "w" : "fecundo",
+  "t" : "A"
+}, {
+  "w" : "poderoso",
+  "t" : "N"
+}, {
+  "w" : "desorden",
+  "t" : "N"
+}, {
+  "w" : "Teresa",
+  "t" : "M"
+}, {
+  "w" : "disputar",
+  "t" : "V"
+}, {
+  "w" : "ponerse",
+  "t" : "V"
+}, {
+  "w" : "terminado",
+  "t" : "A"
+}, {
+  "w" : "cuántos",
+  "t" : "T"
+}, {
+  "w" : "informar",
+  "t" : "V"
+}, {
+  "w" : "apoyo",
+  "t" : "N"
+}, {
+  "w" : "enfermo",
+  "t" : "N"
+}, {
+  "w" : "gratitud",
+  "t" : "N"
+}, {
+  "w" : "seca",
+  "t" : "A"
+}, {
+  "w" : "inclinación",
+  "t" : "N"
+}, {
+  "w" : "cigarro",
+  "t" : "N"
+}, {
+  "w" : "pescador",
+  "t" : "N"
+}, {
+  "w" : "muchacha",
+  "t" : "N"
+}, {
+  "w" : "aparición",
+  "t" : "N"
+}, {
+  "w" : "viajar",
+  "t" : "V"
+}, {
+  "w" : "cementerio",
+  "t" : "N"
+}, {
+  "w" : "temperamento",
+  "t" : "N"
+}, {
+  "w" : "encaminar",
+  "t" : "V"
+}, {
+  "w" : "plata",
+  "t" : "M"
+}, {
+  "w" : "contenido",
+  "t" : "N"
+}, {
+  "w" : "hacerle",
+  "t" : "V"
+}, {
+  "w" : "prescindir",
+  "t" : "V"
+}, {
+  "w" : "participar",
+  "t" : "V"
+}, {
+  "w" : "correspondiente",
+  "t" : "A"
+}, {
+  "w" : "piloto",
+  "t" : "N"
+}, {
+  "w" : "distrito",
+  "t" : "N"
+}, {
+  "w" : "cómo",
+  "t" : "D"
+}, {
+  "w" : "salsa",
+  "t" : "N"
+}, {
+  "w" : "bordo",
+  "t" : "N"
+}, {
+  "w" : "innumerable",
+  "t" : "A"
+}, {
+  "w" : "nido",
+  "t" : "N"
+}, {
+  "w" : "abundar",
+  "t" : "V"
+}, {
+  "w" : "clásico",
+  "t" : "A"
+}, {
+  "w" : "abrigo",
+  "t" : "N"
+}, {
+  "w" : "pisar",
+  "t" : "V"
+}, {
+  "w" : "italiano",
+  "t" : "A"
+}, {
+  "w" : "Jorge",
+  "t" : "M"
+}, {
+  "w" : "representante",
+  "t" : "N"
+}, {
+  "w" : "mismo",
+  "t" : "D"
+}, {
+  "w" : "posada",
+  "t" : "N"
+}, {
+  "w" : "vuestros",
+  "t" : "T"
+}, {
+  "w" : "ángulo",
+  "t" : "N"
+}, {
+  "w" : "sujetar",
+  "t" : "V"
+}, {
+  "w" : "guapo",
+  "t" : "A"
+}, {
+  "w" : "celo",
+  "t" : "N"
+}, {
+  "w" : "gentil",
+  "t" : "A"
+}, {
+  "w" : "canónigo",
+  "t" : "N"
+}, {
+  "w" : "Caballero",
+  "t" : "M"
+}, {
+  "w" : "febrero",
+  "t" : "N"
+}, {
+  "w" : "magistral",
+  "t" : "M"
+}, {
+  "w" : "paja",
+  "t" : "A"
+}, {
+  "w" : "S",
+  "t" : "N"
+}, {
+  "w" : "presto",
+  "t" : "A"
+}, {
+  "w" : "charlar",
+  "t" : "V"
+}, {
+  "w" : "Lorenzo",
+  "t" : "M"
+}, {
+  "w" : "inmortal",
+  "t" : "A"
+}, {
+  "w" : "variedad",
+  "t" : "N"
+}, {
+  "w" : "Martínez",
+  "t" : "M"
+}, {
+  "w" : "elección",
+  "t" : "N"
+}, {
+  "w" : "permiso",
+  "t" : "N"
+}, {
+  "w" : "oprimir",
+  "t" : "V"
+}, {
+  "w" : "note",
+  "t" : "M"
+}, {
+  "w" : "baronesa",
+  "t" : "N"
+}, {
+  "w" : "esforzar",
+  "t" : "V"
+}, {
+  "w" : "flecha",
+  "t" : "N"
+}, {
+  "w" : "marino",
+  "t" : "A"
+}, {
+  "w" : "real",
+  "t" : "T"
+}, {
+  "w" : "onda",
+  "t" : "N"
+}, {
+  "w" : "caro",
+  "t" : "A"
+}, {
+  "w" : "vencedor",
+  "t" : "N"
+}, {
+  "w" : "francos",
+  "t" : "T"
+}, {
+  "w" : "consejo",
+  "t" : "M"
+}, {
+  "w" : "frio",
+  "t" : "N"
+}, {
+  "w" : "profundidad",
+  "t" : "N"
+}, {
+  "w" : "confesión",
+  "t" : "N"
+}, {
+  "w" : "plus",
+  "t" : "N"
+}, {
+  "w" : "latino",
+  "t" : "A"
+}, {
+  "w" : "anochecer",
+  "t" : "V"
+}, {
+  "w" : "sujeto",
+  "t" : "N"
+}, {
+  "w" : "inspiración",
+  "t" : "N"
+}, {
+  "w" : "pacífico",
+  "t" : "A"
+}, {
+  "w" : "traidor",
+  "t" : "I"
+}, {
+  "w" : "gigantesco",
+  "t" : "A"
+}, {
+  "w" : "orador",
+  "t" : "N"
+}, {
+  "w" : "probable",
+  "t" : "A"
+}, {
+  "w" : "liberal",
+  "t" : "A"
+}, {
+  "w" : "listo",
+  "t" : "A"
+}, {
+  "w" : "vendar",
+  "t" : "V"
+}, {
+  "w" : "lanza",
+  "t" : "N"
+}, {
+  "w" : "preocupar",
+  "t" : "V"
+}, {
+  "w" : "muelle",
+  "t" : "N"
+}, {
+  "w" : "Enriqueta",
+  "t" : "M"
+}, {
+  "w" : "sueldo",
+  "t" : "N"
+}, {
+  "w" : "misericordia",
+  "t" : "N"
+}, {
+  "w" : "huerta",
+  "t" : "N"
+}, {
+  "w" : "precaución",
+  "t" : "N"
+}, {
+  "w" : "igualdad",
+  "t" : "N"
+}, {
+  "w" : "romántico",
+  "t" : "A"
+}, {
+  "w" : "moral",
+  "t" : "N"
+}, {
+  "w" : "Pepita",
+  "t" : "M"
+}, {
+  "w" : "adversario",
+  "t" : "N"
+}, {
+  "w" : "rica",
+  "t" : "M"
+}, {
+  "w" : "cuartel",
+  "t" : "N"
+}, {
+  "w" : "Eduardo",
+  "t" : "M"
+}, {
+  "w" : "afectar",
+  "t" : "V"
+}, {
+  "w" : "pantalón",
+  "t" : "N"
+}, {
+  "w" : "cuestiones",
+  "t" : "N"
+}, {
+  "w" : "ansia",
+  "t" : "N"
+}, {
+  "w" : "decirse",
+  "t" : "V"
+}, {
+  "w" : "inquieto",
+  "t" : "A"
+}, {
+  "w" : "suspiro",
+  "t" : "M"
+}, {
+  "w" : "tranquilamente",
+  "t" : "D"
+}, {
+  "w" : "tabaco",
+  "t" : "N"
+}, {
+  "w" : "caldo",
+  "t" : "N"
+}, {
+  "w" : "cintura",
+  "t" : "N"
+}, {
+  "w" : "reclamar",
+  "t" : "V"
+}, {
+  "w" : "cinta",
+  "t" : "N"
+}, {
+  "w" : "sello",
+  "t" : "N"
+}, {
+  "w" : "particulares",
+  "t" : "A"
+}, {
+  "w" : "obrero",
+  "t" : "N"
+}, {
+  "w" : "soberano",
+  "t" : "A"
+}, {
+  "w" : "dictar",
+  "t" : "V"
+}, {
+  "w" : "comerciante",
+  "t" : "N"
+}, {
+  "w" : "bigote",
+  "t" : "N"
+}, {
+  "w" : "aplaudir",
+  "t" : "V"
+}, {
+  "w" : "doscientos",
+  "t" : "T"
+}, {
+  "w" : "tantos",
+  "t" : "O"
+}, {
+  "w" : "cola",
+  "t" : "N"
+}, {
+  "w" : "man",
+  "t" : "N"
+}, {
+  "w" : "formidable",
+  "t" : "A"
+}, {
+  "w" : "variar",
+  "t" : "V"
+}, {
+  "w" : "barón",
+  "t" : "N"
+}, {
+  "w" : "profesión",
+  "t" : "N"
+}, {
+  "w" : "impresiones",
+  "t" : "N"
+}, {
+  "w" : "paisano",
+  "t" : "N"
+}, {
+  "w" : "tembloroso",
+  "t" : "A"
+}, {
+  "w" : "hábil",
+  "t" : "A"
+}, {
+  "w" : "celoso",
+  "t" : "A"
+}, {
+  "w" : "navío",
+  "t" : "N"
+}, {
+  "w" : "lamentar",
+  "t" : "V"
+}, {
+  "w" : "fieles",
+  "t" : "N"
+}, {
+  "w" : "brillo",
+  "t" : "N"
+}, {
+  "w" : "elogio",
+  "t" : "N"
+}, {
+  "w" : "caudal",
+  "t" : "N"
+}, {
+  "w" : "nervio",
+  "t" : "N"
+}, {
+  "w" : "disipar",
+  "t" : "V"
+}, {
+  "w" : "infundir",
+  "t" : "V"
+}, {
+  "w" : "eclesiástico",
+  "t" : "A"
+}, {
+  "w" : "Vega",
+  "t" : "M"
+}, {
+  "w" : "heredero",
+  "t" : "N"
+}, {
+  "w" : "alumbrar",
+  "t" : "V"
+}, {
+  "w" : "almorzar",
+  "t" : "V"
+}, {
+  "w" : "exceso",
+  "t" : "N"
+}, {
+  "w" : "nuevamente",
+  "t" : "D"
+}, {
+  "w" : "cerro",
+  "t" : "N"
+}, {
+  "w" : "procedimiento",
+  "t" : "N"
+}, {
+  "w" : "aislado",
+  "t" : "A"
+}, {
+  "w" : "Alejandro",
+  "t" : "M"
+}, {
+  "w" : "pesos",
+  "t" : "T"
+}, {
+  "w" : "persuadir",
+  "t" : "V"
+}, {
+  "w" : "Álvaro",
+  "t" : "M"
+}, {
+  "w" : "protección",
+  "t" : "N"
+}, {
+  "w" : "privilegio",
+  "t" : "N"
+}, {
+  "w" : "Habana",
+  "t" : "M"
+}, {
+  "w" : "ferrocarril",
+  "t" : "N"
+}, {
+  "w" : "acostar",
+  "t" : "V"
+}, {
+  "w" : "delgado",
+  "t" : "A"
+}, {
+  "w" : "exhalar",
+  "t" : "V"
+}, {
+  "w" : "respectivo",
+  "t" : "A"
+}, {
+  "w" : "declaración",
+  "t" : "N"
+}, {
+  "w" : "cuadra",
+  "t" : "N"
+}, {
+  "w" : "servidumbre",
+  "t" : "N"
+}, {
+  "w" : "delirio",
+  "t" : "N"
+}, {
+  "w" : "reciente",
+  "t" : "A"
+}, {
+  "w" : "proferir",
+  "t" : "V"
+}, {
+  "w" : "producción",
+  "t" : "N"
+}, {
+  "w" : "ganado",
+  "t" : "A"
+}, {
+  "w" : "escondido",
+  "t" : "A"
+}, {
+  "w" : "orden",
+  "t" : "M"
+}, {
+  "w" : "reposar",
+  "t" : "V"
+}, {
+  "w" : "mayor",
+  "t" : "M"
+}, {
+  "w" : "bienestar",
+  "t" : "N"
+}, {
+  "w" : "gran",
+  "t" : "M"
+}, {
+  "w" : "turco",
+  "t" : "N"
+}, {
+  "w" : "complacer",
+  "t" : "V"
+}, {
+  "w" : "proposición",
+  "t" : "N"
+}, {
+  "w" : "tonto",
+  "t" : "A"
+}, {
+  "w" : "económico",
+  "t" : "A"
+}, {
+  "w" : "quales",
+  "t" : "N"
+}, {
+  "w" : "pretensión",
+  "t" : "N"
+}, {
+  "w" : "músico",
+  "t" : "N"
+}, {
+  "w" : "bendito",
+  "t" : "A"
+}, {
+  "w" : "altivo",
+  "t" : "A"
+}, {
+  "w" : "agente",
+  "t" : "N"
+}, {
+  "w" : "torpe",
+  "t" : "A"
+}, {
+  "w" : "mismas",
+  "t" : "O"
+}, {
+  "w" : "clima",
+  "t" : "N"
+}, {
+  "w" : "hembra",
+  "t" : "N"
+}, {
+  "w" : "historiador",
+  "t" : "N"
+}, {
+  "w" : "mejorar",
+  "t" : "V"
+}, {
+  "w" : "frecuentes",
+  "t" : "A"
+}, {
+  "w" : "pintoresco",
+  "t" : "A"
+}, {
+  "w" : "virgen",
+  "t" : "N"
+}, {
+  "w" : "ruego",
+  "t" : "N"
+}, {
+  "w" : "abandono",
+  "t" : "N"
+}, {
+  "w" : "distante",
+  "t" : "A"
+}, {
+  "w" : "someter",
+  "t" : "V"
+}, {
+  "w" : "presidente",
+  "t" : "M"
+}, {
+  "w" : "oficina",
+  "t" : "N"
+}, {
+  "w" : "libras",
+  "t" : "T"
+}, {
+  "w" : "registrar",
+  "t" : "V"
+}, {
+  "w" : "predicar",
+  "t" : "V"
+}, {
+  "w" : "bronce",
+  "t" : "N"
+}, {
+  "w" : "ansioso",
+  "t" : "A"
+}, {
+  "w" : "irresistible",
+  "t" : "A"
+}, {
+  "w" : "Luna",
+  "t" : "M"
+}, {
+  "w" : "cabellera",
+  "t" : "N"
+}, {
+  "w" : "armada",
+  "t" : "N"
+}, {
+  "w" : "debido",
+  "t" : "A"
+}, {
+  "w" : "invadir",
+  "t" : "V"
+}, {
+  "w" : "camarada",
+  "t" : "N"
+}, {
+  "w" : "Gracias",
+  "t" : "M"
+}, {
+  "w" : "hueco",
+  "t" : "N"
+}, {
+  "w" : "malicia",
+  "t" : "N"
+}, {
+  "w" : "girar",
+  "t" : "V"
+}, {
+  "w" : "presumir",
+  "t" : "V"
+}, {
+  "w" : "ceja",
+  "t" : "N"
+}, {
+  "w" : "femenino",
+  "t" : "A"
+}, {
+  "w" : "italiano",
+  "t" : "N"
+}, {
+  "w" : "Amparo",
+  "t" : "M"
+}, {
+  "w" : "contigo",
+  "t" : "N"
+}, {
+  "w" : "expuesto",
+  "t" : "A"
+}, {
+  "w" : "Paraguay",
+  "t" : "M"
+}, {
+  "w" : "iluminado",
+  "t" : "A"
+}, {
+  "w" : "sutil",
+  "t" : "A"
+}, {
+  "w" : "inocencia",
+  "t" : "N"
+} ]
