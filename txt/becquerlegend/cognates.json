@@ -1,0 +1,166 @@
+[ {
+  "w" : "Lucifer",
+  "t" : "M"
+}, {
+  "w" : "blasfemia",
+  "t" : "N"
+}, {
+  "w" : "castillo",
+  "t" : "N"
+}, {
+  "w" : "colosal",
+  "t" : "A"
+}, {
+  "w" : "completamente",
+  "t" : "D"
+}, {
+  "w" : "confesar",
+  "t" : "V"
+}, {
+  "w" : "contribuir",
+  "t" : "V"
+}, {
+  "w" : "convencido",
+  "t" : "A"
+}, {
+  "w" : "convulsivamente",
+  "t" : "D"
+}, {
+  "w" : "distancia",
+  "t" : "N"
+}, {
+  "w" : "distante",
+  "t" : "A"
+}, {
+  "w" : "dominar",
+  "t" : "V"
+}, {
+  "w" : "efecto",
+  "t" : "N"
+}, {
+  "w" : "escapar",
+  "t" : "V"
+}, {
+  "w" : "examinar",
+  "t" : "V"
+}, {
+  "w" : "exclamar",
+  "t" : "V"
+}, {
+  "w" : "extender",
+  "t" : "V"
+}, {
+  "w" : "extravagante",
+  "t" : "A"
+}, {
+  "w" : "grotesco",
+  "t" : "A"
+}, {
+  "w" : "horizonte",
+  "t" : "N"
+}, {
+  "w" : "horrible",
+  "t" : "A"
+}, {
+  "w" : "idea",
+  "t" : "N"
+}, {
+  "w" : "imitar",
+  "t" : "V"
+}, {
+  "w" : "impaciente",
+  "t" : "A"
+}, {
+  "w" : "implorar",
+  "t" : "V"
+}, {
+  "w" : "impracticable",
+  "t" : "A"
+}, {
+  "w" : "improvisado",
+  "t" : "A"
+}, {
+  "w" : "indicar",
+  "t" : "V"
+}, {
+  "w" : "insistencia",
+  "t" : "N"
+}, {
+  "w" : "insistir",
+  "t" : "V"
+}, {
+  "w" : "invisible",
+  "t" : "A"
+}, {
+  "w" : "involuntariamente",
+  "t" : "D"
+}, {
+  "w" : "laberinto",
+  "t" : "N"
+}, {
+  "w" : "memoria",
+  "t" : "N"
+}, {
+  "w" : "merced",
+  "t" : "N"
+}, {
+  "w" : "mulo",
+  "t" : "N"
+}, {
+  "w" : "naturaleza",
+  "t" : "N"
+}, {
+  "w" : "obediente",
+  "t" : "A"
+}, {
+  "w" : "objetar",
+  "t" : "V"
+}, {
+  "w" : "oh",
+  "t" : "I"
+}, {
+  "w" : "posible",
+  "t" : "A"
+}, {
+  "w" : "precisamente",
+  "t" : "D"
+}, {
+  "w" : "pronunciar",
+  "t" : "V"
+}, {
+  "w" : "provincia",
+  "t" : "N"
+}, {
+  "w" : "recitar",
+  "t" : "V"
+}, {
+  "w" : "reptil",
+  "t" : "N"
+}, {
+  "w" : "resultado",
+  "t" : "N"
+}, {
+  "w" : "roca",
+  "t" : "N"
+}, {
+  "w" : "santo",
+  "t" : "N"
+}, {
+  "w" : "separar",
+  "t" : "V"
+}, {
+  "w" : "silencio",
+  "t" : "N"
+}, {
+  "w" : "tono",
+  "t" : "N"
+}, {
+  "w" : "tradicional",
+  "t" : "A"
+}, {
+  "w" : "trance",
+  "t" : "N"
+}, {
+  "w" : "valle",
+  "t" : "N"
+} ]
