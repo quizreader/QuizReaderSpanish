@@ -2,16 +2,10 @@
   "w" : "absoluto",
   "t" : "A"
 }, {
-  "w" : "aritmética",
-  "t" : "n:f"
+  "w" : "animal",
+  "t" : "A"
 }, {
-  "w" : "biología",
-  "t" : "N"
-}, {
-  "w" : "biología",
-  "t" : "n:f"
-}, {
-  "w" : "bárbaro",
+  "w" : "animal",
   "t" : "N"
 }, {
   "w" : "caverna",
@@ -23,8 +17,20 @@
   "w" : "completamente",
   "t" : "D"
 }, {
+  "w" : "continuar",
+  "t" : "V"
+}, {
+  "w" : "cruel",
+  "t" : "A"
+}, {
   "w" : "curiosidad",
   "t" : "N"
+}, {
+  "w" : "decidir",
+  "t" : "V"
+}, {
+  "w" : "devorar",
+  "t" : "V"
 }, {
   "w" : "dignidad",
   "t" : "N"
@@ -32,20 +38,17 @@
   "w" : "distancia",
   "t" : "N"
 }, {
+  "w" : "existir",
+  "t" : "V"
+}, {
   "w" : "experiencia",
   "t" : "N"
 }, {
   "w" : "futuro",
   "t" : "A"
 }, {
-  "w" : "geografía",
-  "t" : "N"
-}, {
-  "w" : "geografía",
-  "t" : "n:f"
-}, {
-  "w" : "grande",
-  "t" : "N"
+  "w" : "imitar",
+  "t" : "V"
 }, {
   "w" : "importante",
   "t" : "A"
@@ -53,39 +56,39 @@
   "w" : "memoria",
   "t" : "N"
 }, {
-  "w" : "monarca",
-  "t" : "N"
+  "w" : "misterioso",
+  "t" : "A"
 }, {
-  "w" : "montaña",
+  "w" : "monarca",
   "t" : "N"
 }, {
   "w" : "noble",
   "t" : "A"
 }, {
-  "w" : "obediente",
-  "t" : "A"
+  "w" : "ofender",
+  "t" : "V"
+}, {
+  "w" : "penetrar",
+  "t" : "V"
 }, {
   "w" : "pensativo",
   "t" : "A"
 }, {
+  "w" : "pronunciar",
+  "t" : "V"
+}, {
   "w" : "reptil",
+  "t" : "N"
+}, {
+  "w" : "respetar",
+  "t" : "V"
+}, {
+  "w" : "robusto",
   "t" : "A"
-}, {
-  "w" : "reptil",
-  "t" : "N"
-}, {
-  "w" : "respeto",
-  "t" : "N"
-}, {
-  "w" : "salvaje",
-  "t" : "N"
 }, {
   "w" : "valle",
   "t" : "N"
 }, {
-  "w" : "álgebra",
-  "t" : "N"
-}, {
-  "w" : "álgebra",
-  "t" : "n:f"
+  "w" : "violento",
+  "t" : "A"
 } ]
